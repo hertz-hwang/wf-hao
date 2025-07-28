@@ -16,6 +16,7 @@ schema:
   dependencies:
     - hao_pinyin
     - hao_stroke
+    - hao_sy
     - hao_xi_chaifen
 
 switches:
@@ -60,7 +61,6 @@ engine:
     - ascii_composer
     - recognizer
     - lua_processor@*hao.hao_spelling*processor
-    - lua_processor@*snow.shape_processor
     - key_binder
     - lua_processor@*hao.hao_abbreviation
     - lua_processor@*snow.select_character
@@ -78,6 +78,7 @@ engine:
     - abc_segmentor
     - affix_segmentor@hao_pinyin_lookup
     - affix_segmentor@hao_stroke_lookup
+    - affix_segmentor@hao_sy_lookup
     - affix_segmentor@reverse_lookup
     - punct_segmentor
     - fallback_segmentor
@@ -88,6 +89,7 @@ engine:
     - lua_translator@*hao.hao_shijian
     - script_translator@hao_pinyin_lookup
     - table_translator@hao_stroke_lookup
+    - script_translator@hao_sy_lookup
     - lua_translator@*snow.datetime
     - lua_translator@*snow.number
     - lua_translator@*snow.calculator
@@ -98,12 +100,8 @@ engine:
     - simplifier@simplify
     - reverse_lookup_filter@reverse_lookup
     - lua_filter@*hao.hao_spelling*filter
-    - lua_filter@*hao.hao_postpone_fullcode
     - lua_filter@*snow.fix
-    #- lua_filter@*snow.postpone
     - uniquifier
-    - lua_filter@*hao.hao_shape_filter
-    - lua_filter@*hao.hao_special
 
 sy_snow_algebra:
   # 多根字
@@ -122,15 +120,6 @@ speller:
   alphabet: zyxwvutsrqponmlkjihgfedcba;'/
   initials: zyxvtsqpnmlkjhgfdcba/
   delimiter: " "
-  shape:
-    - match: "[zyxvtsqpnmlkjhgfdcba][weruio]{0,4}"
-      accept: "1"
-    - match_shape: "1"
-      accept: "[a-z]"
-    - match: "[zyxvtsqpnmlkjhgfdcba][weruio]{4}"
-      accept: "[weruio]"
-    - match_shape: ".+"
-      accept: "[weruio]"
   popping:
     # 单字、二字词、三字词
     - when: popping
@@ -162,13 +151,8 @@ speller:
       - derive/^([a-z]{4})$/$1o/
       - derive/^([a-z]{3})$/$1oo/
       - derive/^([a-z]{2})$/$1ooo/
-      # 辅音字母补 oo
-      #- xform/~{1,2}([zyxvtsqpnmlkjhgfdcba])/$1ww/
-      # 元音字母补 se
-      #- xform/~{1,2}([weruio])/se$1/
       # 简拼及无声调的全拼
       - abbrev/^([a-z]).+$/$1/
-      #- derive/[weruio]$//
       # 字词模式下的简码；整句模式下应注释掉以提升准确度
       - derive/^([a-z]{2}).+$/$1/
 
@@ -177,17 +161,10 @@ translator:
   prism: hao_sy_snow
   db_class: tabledb
   preedit_format: null
-  #packs:
-  #  - hao.sy.snow.base
-  #  - hao.sy.snow.ext
-  #  - hao.sy.snow.tencent
-  #  - hao.sy.snow.user
 
 hao:
   code: hao_sy_snow
   tags: [ abc ]
-  postpone_fullcode:
-    max_index: 4  # 最大后置位置，默认为 4
   spelling:
     schema: hao_sy_chaifen
     cycle_key: "Shift+Control+C"
@@ -205,7 +182,6 @@ hao:
     i:
       - { type: tip, name: ❖雪凇配置中心 }
       - { type: switch, name: popping, states: [☐整句, ☑顶功] }
-      - { type: switch, name: hao_postpone_fullcode, states: [☐原始排序, ☑全码后置] }
       - {
           type: radio,
           names:
@@ -276,7 +252,7 @@ hao:
         expr: return require("hao.hao_core").unicode()
 
 traditionalize:
-  tags: [abc, hao_pinyin_lookup, hao_stroke_lookup]
+  tags: [abc, hao_pinyin_lookup, hao_stroke_lookup, hao_sy_lookup]
   option_name: traditionalization
   opencc_config: s2t.json
   tips: all
@@ -285,7 +261,7 @@ traditionalize:
     - xform/$/〕/
 
 simplify:
-  tags: [abc, hao_pinyin_lookup, hao_stroke_lookup]
+  tags: [abc, hao_pinyin_lookup, hao_stroke_lookup, hao_sy_lookup]
   option_name: simplification
   opencc_config: t2s.json
   tips: all
@@ -300,10 +276,11 @@ reverse_lookup:
   # suffix:   # 反查关闭符，暂不定义
   tips: 【反查：拼音+笔画(hspnz)】
   closing_tips: 【反查关闭】
-  tags: [ hao_pinyin_lookup, hao_stroke_lookup ]
+  tags: [ hao_pinyin_lookup, hao_stroke_lookup, hao_sy_lookup ]
   extra_tags:
     - hao_pinyin_lookup
     - hao_stroke_lookup
+    - hao_sy_lookup
   comment_format:
     __include: /sy_snow_algebra
 
@@ -331,6 +308,16 @@ hao_stroke_lookup:
   comment_format:
     - xlit/qweas/hspnz/
 
+hao_sy_lookup:
+  tag: hao_sy_lookup
+  dictionary: hao_sy
+  prism: hao_sy
+  enable_user_dict: false
+  prefix: 'r'
+  tips: 【松烟反查】
+  closing_tips: 【反查关闭】
+  initial_quality: 0.1
+
 menu:
   alternative_select_keys: "_23890"
   page_size: 6
@@ -346,50 +333,17 @@ recognizer:
     reverse_lookup: "^`([a-z]+?)*$"
     hao_pinyin_lookup: "^e([a-z]+'?)*$"
     hao_stroke_lookup: "^u([a-z]+'?)*$"
+    hao_sy_lookup: "^r([a-z]+'?)*$"
     lua: "^o.*$"
     history: "^i$"
     hao_os: '^/env\w+'
     unicode: "^/(uni|w)(/[a-zA-Z0-9]*)*$"
-
-stroke:
-  tag: stroke
-  dictionary: stroke
-  prism: hao_stroke
-  enable_user_dict: false
-  enable_sentence: false
-  enable_completion: true
-  prefix: "u"
-  suffix: "'"
-  tips: 〔笔画〕
-  preedit_format:
-    - xlit/eiuoa/一丨丿丶乙/
-  comment_format:
-    - xlit/hspnz/eiuoa/
-
-pinyin:
-  tag: pinyin
-  dictionary: hao_pinyin
-  packs:
-    - hao_pinyin.base
-    - hao_pinyin.ext
-  enable_user_dict: false
-  enable_sentence: false
-  prefix: "e"
-  suffix: "'"
-  tips: 〔拼音〕
 
 history:
   tag: history
   input: "i"
   size: 5
   initial_quality: -1
-
-lookup_pinyin:
-  tags: [stroke]
-  overwrite_comment: true
-  dictionary: hao_sy_snow
-  comment_format:
-    - xform/([nl])v/$1ü/
 
 key_binder:
   select_first_character: bracketleft
@@ -431,8 +385,8 @@ key_binder:
     - { when: has_menu, accept: 6, send_sequence: "{Shift+Right}{Shift+Right}{Shift+Right}{Shift+Right}" }
     - { when: has_menu, accept: 7, send_sequence: "{End}" }
     - { when: always, accept: "Control+j", toggle: buffered }
-    #- { when: always, accept: e, toggle: buffered }
-    #- { when: composing, accept: e, send: e }
+    - { when: always, accept: w, toggle: buffered }
+    - { when: composing, accept: w, send: w }
     - { when: has_menu, accept: comma, send_sequence: "2," }
     - { when: has_menu, accept: period, send_sequence: "2." }
     - { when: has_menu, accept: semicolon, send: KP_2 } # 分号次选
