@@ -366,7 +366,7 @@ use_preset_vocabulary: false
 德格	FhwAkwAheHdu TlrVyw	458
 德宏	FhwAkwAheHdu GkeAkwBkr	490
 德化	FhwAkwAheHdu JoVke	431
-德惠	FhwAkwAheHdu AkwZheBkrHdu	443
+德惠	FhwAkwAheHdu FkwBkrHdu	443
 德江	FhwAkwAheHdu HsuJti	393
 德钦	FhwAkwAheHdu QjrDlw	430
 德清	FhwAkwAheHdu HsuMvuCu	479
@@ -907,28 +907,28 @@ use_preset_vocabulary: false
 湟源	HsuDleGu HsuZkrDleFlr	354
 湟中	HsuDleGu KdiFu	377
 黄州	Ghr DywDyw	476
-惠安	AkwZheBkrHdu GkeGle	463
+惠安	FkwBkrHdu GkeGle	463
 会昌	AuHw VoJw	445
-惠城	AkwZheBkrHdu PsuKeXi	373
+惠城	FkwBkrHdu PsuKeXi	373
 汇川	HsuPgo Dyw	387
-惠东	AkwZheBkrHdu FkwFlr	440
+惠东	FkwBkrHdu FkwFlr	440
 会东	AuHw FkwFlr	325
-惠济	AkwZheBkrHdu HsuMdu	492
-惠来	AkwZheBkrHdu CoJdo	415
+惠济	FkwBkrHdu HsuMdu	492
+惠来	FkwBkrHdu CoJdo	415
 会理	AuHw GuJgo	432
-惠民	AkwZheBkrHdu Hti	601
+惠民	FkwBkrHdu Hti	601
 回民	ZeKdi Hti	559
 辉南	YgiGkeAle AkwDjrTo	319
 会宁	AuHw GkeLfi	463
-惠农	AkwZheBkrHdu GkeYr	488
-惠山	AkwZheBkrHdu Mgi	406
-惠水	AkwZheBkrHdu Hsu	336
+惠农	FkwBkrHdu GkeYr	488
+惠山	FkwBkrHdu Mgi	406
+惠水	FkwBkrHdu Hsu	336
 会同	AuHw DjrLeKdi	594
 辉县	YgiGkeAle SyeBkr	381
 徽县	YwYfo SyeBkr	361
-惠阳	AkwZheBkrHdu LwVo	483
+惠阳	FkwBkrHdu LwVo	483
 会泽	AuHw HsuBuKsu	394
-惠州	AkwZheBkrHdu DywDyw	632
+惠州	FkwBkrHdu DywDyw	632
 徽州	YwYfo DywDyw	527
 珲春	GuGkeAle MvuNrVo	462
 浑江	HsuGkeAle HsuJti	326
@@ -1928,7 +1928,7 @@ use_preset_vocabulary: false
 瑞芳	GuMgiGo ClrHfo	473
 瑞金	GuMgiGo Tmr	521
 瑞丽	GuMgiGo LeCuCu	543
-瑞穗	GuMgiGo MsuAkwZheHdu	504
+瑞穗	GuMgiGo MsuFkwBkrHdu	504
 润州	HsuQlrGu DywDyw	397
 若羌	ClrAkwKdi ToXi	382
 萨嘎	ClrLwJsiZkr KdiLeFoFjw	293
@@ -1943,7 +1943,7 @@ use_preset_vocabulary: false
 三明	Sme VoCu	520
 三沙	Sme HsuFlrSi	485
 三水	Sme Hsu	522
-三穗	Sme MsuAkwZheHdu	316
+三穗	Sme MsuFkwBkrHdu	316
 三台	Sme BkrKdi	560
 三湾	Sme HsuJvuCmeNsi	402
 三峡	Sme MgiJgiJdo	608
@@ -3885,7 +3885,7 @@ use_preset_vocabulary: false
 德城区	FhwAkwAheHdu PsuKeXi PgoSo	194
 德格县	FhwAkwAheHdu TlrVyw SyeBkr	156
 德化县	FhwAkwAheHdu JoVke SyeBkr	150
-德惠市	FhwAkwAheHdu AkwZheBkrHdu JvuJfi	184
+德惠市	FhwAkwAheHdu FkwBkrHdu JvuJfi	184
 德江县	FhwAkwAheHdu HsuJti SyeBkr	195
 德令哈	FhwAkwAheHdu CjoBkr KdiCjoKdi	210
 德钦县	FhwAkwAheHdu QjrDlw SyeBkr	180
@@ -5126,39 +5126,39 @@ use_preset_vocabulary: false
 黄庄村	Ghr FkrPsu TlrJfo	286
 黄庄乡	Ghr FkrPsu Dnw	175
 黄庄镇	Ghr FkrPsu QjrAkwDkwJdo	252
-惠安堡	AkwZheBkrHdu GkeGle JoKdiTlrPsu	175
-惠安县	AkwZheBkrHdu GkeGle SyeBkr	206
+惠安堡	FkwBkrHdu GkeGle JoKdiTlrPsu	175
+惠安县	FkwBkrHdu GkeGle SyeBkr	206
 回北镇	ZeKdi ShrVke QjrAkwDkwJdo	1
 会昌县	AuHw VoJw SyeBkr	178
-惠城区	AkwZheBkrHdu PsuKeXi PgoSo	227
+惠城区	FkwBkrHdu PsuKeXi PgoSo	227
 汇川区	HsuPgo Dyw PgoSo	181
-惠东县	AkwZheBkrHdu FkwFlr SyeBkr	264
+惠东县	FkwBkrHdu FkwFlr SyeBkr	264
 会东县	AuHw FkwFlr SyeBkr	153
 回丰镇	ZeKdi Mvu QjrAkwDkwJdo	338
-惠济区	AkwZheBkrHdu HsuMdu PgoSo	222
-惠来县	AkwZheBkrHdu CoJdo SyeBkr	199
+惠济区	FkwBkrHdu HsuMdu PgoSo	222
+惠来县	FkwBkrHdu CoJdo SyeBkr	199
 会理市	AuHw GuJgo JvuJfi	1
 回民区	ZeKdi Hti PgoSo	207
-惠民县	AkwZheBkrHdu Hti SyeBkr	174
+惠民县	FkwBkrHdu Hti SyeBkr	174
 辉南县	YgiGkeAle AkwDjrTo SyeBkr	150
 会宁县	AuHw GkeLfi SyeBkr	191
 回宁乡	ZeKdi GkeLfi Dnw	1
-惠农区	AkwZheBkrHdu GkeYr PgoSo	136
+惠农区	FkwBkrHdu GkeYr PgoSo	136
 回萍乡	ZeKdi ClrHsuLvuJdo Dnw	474
 回清镇	ZeKdi HsuMvuCu QjrAkwDkwJdo	446
-惠山区	AkwZheBkrHdu Mgi PgoSo	196
-惠水县	AkwZheBkrHdu Hsu SyeBkr	196
+惠山区	FkwBkrHdu Mgi PgoSo	196
+惠水县	FkwBkrHdu Hsu SyeBkr	196
 会同县	AuHw DjrLeKdi SyeBkr	158
 回桐乡	ZeKdi TlrDjrLeKdi Dnw	455
 会文镇	AuHw Xo QjrAkwDkwJdo	282
 辉县市	YgiGkeAle SyeBkr JvuJfi	200
 回湘乡	ZeKdi HsuTlrDkw Dnw	401
 回新乡	ZeKdi JsiTlrKfo Dnw	528
-惠阳区	AkwZheBkrHdu LwVo PgoSo	209
+惠阳区	FkwBkrHdu LwVo PgoSo	209
 回枣庄	ZeKdi TlrDjrGhw FkrPsu	504
 会泽县	AuHw HsuBuKsu SyeBkr	194
 徽州区	YwYfo DywDyw PgoSo	189
-惠州市	AkwZheBkrHdu DywDyw JvuJfi	274
+惠州市	FkwBkrHdu DywDyw JvuJfi	274
 回族区	ZeKdi HfoKfeHfu PgoSo	130
 珲春市	GuGkeAle MvuNrVo JvuJfi	197
 浑河堡	HsuGkeAle HsuSke JoKdiTlrPsu	169
@@ -7518,7 +7518,7 @@ use_preset_vocabulary: false
 瑞芳区	GuMgiGo ClrHfo PgoSo	1
 瑞金市	GuMgiGo Tmr JvuJfi	188
 瑞丽市	GuMgiGo LeCuCu JvuJfi	215
-瑞穗乡	GuMgiGo MsuAkwZheHdu Dnw	353
+瑞穗乡	GuMgiGo MsuFkwBkrHdu Dnw	353
 润州区	HsuQlrGu DywDyw PgoSo	164
 若尔盖	ClrAkwKdi FmiFlr ToPdi	213
 若羌县	ClrAkwKdi ToXi SyeBkr	184
@@ -7569,7 +7569,7 @@ use_preset_vocabulary: false
 三沙镇	Sme HsuFlrSi QjrAkwDkwJdo	100
 三山镇	Sme Mgi QjrAkwDkwJdo	100
 三水区	Sme Hsu PgoSo	210
-三穗县	Sme MsuAkwZheHdu SyeBkr	150
+三穗县	Sme MsuFkwBkrHdu SyeBkr	150
 三台村	Sme BkrKdi TlrJfo	100
 三台县	Sme BkrKdi SyeBkr	189
 三台镇	Sme BkrKdi QjrAkwDkwJdo	100
@@ -15716,7 +15716,7 @@ use_preset_vocabulary: false
 东荒峪镇	FkwFlr ClrNeDyw MgiFmw QjrAkwDkwJdo	105
 东黄庄村	FkwFlr Ghr FkrPsu TlrJfo	1
 东回城村	FkwFlr ZeKdi PsuKeXi TlrJfo	92
-东惠家庄	FkwFlr AkwZheBkrHdu GkeDne FkrPsu	1
+东惠家庄	FkwFlr FkwBkrHdu GkeDne FkrPsu	1
 东灰岭村	FkwFlr AkwCme MgiCjoBkr TlrJfo	116
 东回舍村	FkwFlr ZeKdi AuHvu TlrJfo	1
 东回舍镇	FkwFlr ZeKdi AuHvu QjrAkwDkwJdo	77
@@ -16560,7 +16560,7 @@ use_preset_vocabulary: false
 东莺新村	FkwFlr ClrGkeJbo JsiTlrKfo TlrJfo	1
 东营子村	FkwFlr ClrGkeAmw Qi TlrJfo	58
 东永安村	FkwFlr NrHsu GkeGle TlrJfo	58
-东永惠村	FkwFlr NrHsu AkwZheBkrHdu TlrJfo	1
+东永惠村	FkwFlr NrHsu FkwBkrHdu TlrJfo	1
 东涌泉村	FkwFlr HsuBkrAi DleHsu TlrJfo	1
 东油房村	FkwFlr HsuMe LsiHfo TlrJfo	1
 东油坊村	FkwFlr HsuMe PsuHfo TlrJfo	1
@@ -21504,8 +21504,8 @@ use_preset_vocabulary: false
 黄庄子村	Ghr FkrPsu Qi TlrJfo	1
 黄子洞村	Ghr Qi HsuDjrLeKdi TlrJfo	1
 皇子坡村	DleGu Qi PsuDme TlrJfo	92
-惠安堡村	AkwZheBkrHdu GkeGle JoKdiTlrPsu TlrJfo	1
-惠安堡镇	AkwZheBkrHdu GkeGle JoKdiTlrPsu QjrAkwDkwJdo	116
+惠安堡村	FkwBkrHdu GkeGle JoKdiTlrPsu TlrJfo	1
+惠安堡镇	FkwBkrHdu GkeGle JoKdiTlrPsu QjrAkwDkwJdo	116
 会安古镇	AuHw GkeGle Skr QjrAkwDkwJdo	363
 回安斯村	ZeKdi GkeGle MtoJdoKfo TlrJfo	35
 灰昌沟村	AkwCme VoJw HsuSliBkr TlrJfo	1
@@ -21517,31 +21517,31 @@ use_preset_vocabulary: false
 汇翠山庄	HsuPgo ZuJvuAuAkw Mgi FkrPsu	1
 灰堆坡村	AkwCme PsuHqo PsuDme TlrJfo	1
 辉发城镇	YgiGkeAle GyrBuNr PsuKeXi QjrAkwDkwJdo	92
-惠风川村	AkwZheBkrHdu AnwSo Dyw TlrJfo	1
+惠风川村	FkwBkrHdu AnwSo Dyw TlrJfo	1
 回峰涧村	ZeKdi MgiMwMvu HsuQlrVo TlrJfo	1
-惠丰前村	AkwZheBkrHdu Mvu JdoCuVje TlrJfo	1
+惠丰前村	FkwBkrHdu Mvu JdoCuVje TlrJfo	1
 回凤亭村	ZeKdi AnwBu DheLfi TlrJfo	1
-惠丰西村	AkwZheBkrHdu Mvu Dhw TlrJfo	1
-惠峰新村	AkwZheBkrHdu MgiMwMvu JsiTlrKfo TlrJfo	1
-惠丰中村	AkwZheBkrHdu Mvu KdiFu TlrJfo	1
+惠丰西村	FkwBkrHdu Mvu Dhw TlrJfo	1
+惠峰新村	FkwBkrHdu MgiMwMvu JsiTlrKfo TlrJfo	1
+惠丰中村	FkwBkrHdu Mvu KdiFu TlrJfo	1
 回高老庄	ZeKdi Dhe Fke FkrPsu	275
-惠华新村	AkwZheBkrHdu JoVkeAkw JsiTlrKfo TlrJfo	366
-惠济场村	AkwZheBkrHdu HsuMdu PsuXiFyw TlrJfo	1
-惠济桥村	AkwZheBkrHdu HsuMdu TlrSiYdiVje TlrJfo	1
-惠家坝村	AkwZheBkrHdu GkeDne PsuSmr TlrJfo	1
-惠家砭村	AkwZheBkrHdu GkeDne FjeSiFi TlrJfo	1
-惠家岔村	AkwZheBkrHdu GkeDne JdoVjeMgi TlrJfo	1
-惠家沟村	AkwZheBkrHdu GkeDne HsuSliBkr TlrJfo	1
-惠家河村	AkwZheBkrHdu GkeDne HsuSke TlrJfo	1
-惠家环村	AkwZheBkrHdu GkeDne GuKgi TlrJfo	1
-惠家庙村	AkwZheBkrHdu GkeDne FkrMe TlrJfo	1
-惠家坪村	AkwZheBkrHdu GkeDne PsuLvuJdo TlrJfo	1
-惠家坡村	AkwZheBkrHdu GkeDne PsuDme TlrJfo	1
-惠家斜村	AkwZheBkrHdu GkeDne AuMsuYdo TlrJfo	1
-惠家塬村	AkwZheBkrHdu GkeDne PsuZkrDleFlr TlrJfo	35
+惠华新村	FkwBkrHdu JoVkeAkw JsiTlrKfo TlrJfo	366
+惠济场村	FkwBkrHdu HsuMdu PsuXiFyw TlrJfo	1
+惠济桥村	FkwBkrHdu HsuMdu TlrSiYdiVje TlrJfo	1
+惠家坝村	FkwBkrHdu GkeDne PsuSmr TlrJfo	1
+惠家砭村	FkwBkrHdu GkeDne FjeSiFi TlrJfo	1
+惠家岔村	FkwBkrHdu GkeDne JdoVjeMgi TlrJfo	1
+惠家沟村	FkwBkrHdu GkeDne HsuSliBkr TlrJfo	1
+惠家河村	FkwBkrHdu GkeDne HsuSke TlrJfo	1
+惠家环村	FkwBkrHdu GkeDne GuKgi TlrJfo	1
+惠家庙村	FkwBkrHdu GkeDne FkrMe TlrJfo	1
+惠家坪村	FkwBkrHdu GkeDne PsuLvuJdo TlrJfo	1
+惠家坡村	FkwBkrHdu GkeDne PsuDme TlrJfo	1
+惠家斜村	FkwBkrHdu GkeDne AuMsuYdo TlrJfo	1
+惠家塬村	FkwBkrHdu GkeDne PsuZkrDleFlr TlrJfo	35
 会景德镇	AuHw VoDheFlr FhwAkwAheHdu QjrAkwDkwJdo	1
 回乐堡村	ZeKdi JsuFlr JoKdiTlrPsu TlrJfo	1
-惠灵顿堡	AkwZheBkrHdu AlrCme LeGyrPe JoKdiTlrPsu	1
+惠灵顿堡	FkwBkrHdu AlrCme LeGyrPe JoKdiTlrPsu	1
 回流湾村	ZeKdi HsuHwDyw HsuJvuCmeNsi TlrJfo	1
 回龙庵村	ZeKdi Hgu FkrYdiVoXi TlrJfo	1
 回龙坝村	ZeKdi Hgu PsuSmr TlrJfo	1
@@ -21562,7 +21562,7 @@ use_preset_vocabulary: false
 回龙寺村	ZeKdi Hgu PsuJfo TlrJfo	58
 回龙寺镇	ZeKdi Hgu PsuJfo QjrAkwDkwJdo	134
 回龙湾村	ZeKdi Hgu HsuJvuCmeNsi TlrJfo	1
-惠龙新村	AkwZheBkrHdu Hgu JsiTlrKfo TlrJfo	1
+惠龙新村	FkwBkrHdu Hgu JsiTlrKfo TlrJfo	1
 回龙庄村	ZeKdi Hgu FkrPsu TlrJfo	1
 灰炉头村	AkwCme CmeLsi GhwYdi TlrJfo	1
 回马营村	ZeKdi Fye ClrGkeAmw TlrJfo	1
@@ -21572,16 +21572,16 @@ use_preset_vocabulary: false
 汇民渠村	HsuPgo Hti HsuPgoPgoTlr TlrJfo	1
 回民巷村	ZeKdi Hti AkrJdoKvi TlrJfo	1
 回民新村	ZeKdi Hti JsiTlrKfo TlrJfo	1
-惠民新村	AkwZheBkrHdu Hti JsiTlrKfo TlrJfo	1
+惠民新村	FkwBkrHdu Hti JsiTlrKfo TlrJfo	1
 回民营村	ZeKdi Hti ClrGkeAmw TlrJfo	92
-惠南庄村	AkwZheBkrHdu AkwDjrTo FkrPsu TlrJfo	1
+惠南庄村	FkwBkrHdu AkwDjrTo FkrPsu TlrJfo	1
 回坡底村	ZeKdi PsuDme FkrCmwNr TlrJfo	1
 辉泉沟村	YgiGkeAle DleHsu HsuSliBkr TlrJfo	1
 灰泉子村	AkwCme DleHsu Qi TlrJfo	35
 灰山底村	AkwCme Mgi FkrCmwNr TlrJfo	1
 灰山港村	AkwCme Mgi HsuAkrJdoKvi TlrJfo	1
 灰山港镇	AkwCme Mgi HsuAkrJdoKvi QjrAkwDkwJdo	207
-惠山古镇	AkwZheBkrHdu Mgi Skr QjrAkwDkwJdo	407
+惠山古镇	FkwBkrHdu Mgi Skr QjrAkwDkwJdo	407
 会山脚村	AuHw Mgi CuPsuBkrLgi TlrJfo	1
 回石家庄	ZeKdi Fje GkeDne FkrPsu	303
 灰条沟村	AkwCme MwTlr HsuSliBkr TlrJfo	1
@@ -21595,7 +21595,7 @@ use_preset_vocabulary: false
 徽州庄村	YwYfo DywDyw FkrPsu TlrJfo	1
 回竹山村	ZeKdi Pu Mgi TlrJfo	1
 回子坝村	ZeKdi Qi PsuSmr TlrJfo	1
-惠子坊村	AkwZheBkrHdu Qi PsuHfo TlrJfo	1
+惠子坊村	FkwBkrHdu Qi PsuHfo TlrJfo	1
 浑河堡村	HsuGkeAle HsuSke JoKdiTlrPsu TlrJfo	1
 混撒拉村	HsuVoVkeVke KsuAkrCuHfi KsuJsi TlrJfo	1
 浑源窑乡	HsuGkeAle HsuZkrDleFlr VkwAyr Dnw	92
@@ -33727,9 +33727,9 @@ use_preset_vocabulary: false
 随二乐庄	LwAkwCuNdu Zo JsuFlr FkrPsu	1
 绥芬河市	TkwHoGle ClrJdoVje HsuSke JvuJfi	362
 绥芬河镇	TkwHoGle ClrJdoVje HsuSke QjrAkwDkwJdo	156
-穗丰年村	MsuAkwZheHdu Mvu KfeKsu TlrJfo	134
+穗丰年村	MsuFkwBkrHdu Mvu KfeKsu TlrJfo	134
 随官屯镇	LwAkwCuNdu GkeNw LeGyr QjrAkwDkwJdo	162
-穗花新村	MsuAkwZheHdu ClrJoVke JsiTlrKfo TlrJfo	183
+穗花新村	MsuFkwBkrHdu ClrJoVke JsiTlrKfo TlrJfo	183
 睢家坝村	DkwHqo GkeDne PsuSmr TlrJfo	1
 隋家疃村	LwAkwJtiCu GkeDne ZheJsiJgo TlrJfo	1
 隋家屯村	LwAkwJtiCu GkeDne LeGyr TlrJfo	1
@@ -37238,7 +37238,7 @@ use_preset_vocabulary: false
 西黄石村	Dhw Ghr Fje TlrJfo	262
 西荒峪村	Dhw ClrNeDyw MgiFmw TlrJfo	1
 西黄庄村	Dhw Ghr FkrPsu TlrJfo	1
-西惠家庄	Dhw AkwZheBkrHdu GkeDne FkrPsu	1
+西惠家庄	Dhw FkwBkrHdu GkeDne FkrPsu	1
 西灰岭村	Dhw AkwCme MgiCjoBkr TlrJfo	1
 西灰山村	Dhw AkwCme Mgi TlrJfo	1
 西回舍村	Dhw ZeKdi AuHvu TlrJfo	1
@@ -38108,7 +38108,7 @@ use_preset_vocabulary: false
 西营子镇	Dhw ClrGkeAmw Qi QjrAkwDkwJdo	1
 西永安村	Dhw NrHsu GkeGle TlrJfo	142
 西庸城堡	Dhw FkrDoAi PsuKeXi JoKdiTlrPsu	351
-西永惠村	Dhw NrHsu AkwZheBkrHdu TlrJfo	1
+西永惠村	Dhw NrHsu FkwBkrHdu TlrJfo	1
 西永建村	Dhw NrHsu DoHr TlrJfo	1
 西玉曹村	Dhw GuNr LeKquVo TlrJfo	1
 西域城村	Dhw PsuFjwKdiLe PsuKeXi TlrJfo	1
@@ -44222,7 +44222,7 @@ use_preset_vocabulary: false
 竹溪坝村	Pu HsuHoLiYdi PsuSmr TlrJfo	1
 竹西新村	Pu Dhw JsiTlrKfo TlrJfo	1
 朱仙庄镇	SiCo JoMgi FkrPsu QjrAkwDkwJdo	260
-驻新惠镇	FyeNrGu JsiTlrKfo AkwZheBkrHdu QjrAkwDkwJdo	1
+驻新惠镇	FyeNrGu JsiTlrKfo FkwBkrHdu QjrAkwDkwJdo	1
 朱辛庄村	SiCo Sne FkrPsu TlrJfo	1
 朱行三村	SiCo Dyr Sme TlrJfo	134
 朱兴庄村	SiCo HsuJdo FkrPsu TlrJfo	1
