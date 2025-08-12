@@ -1109,7 +1109,7 @@ vh;	谐
 vi	总
 vi;	识
 vj	记
-vj;	语
+vj;	曾
 vk	分
 vk;	贫
 vl	许
@@ -1130,8 +1130,8 @@ vs	认
 vs;	单
 vt	尊
 vt;	遵
-vu	曾
-vu;	弟
+vu	弟
+vu;	诚
 vv	话
 vv;	谁
 vw	并

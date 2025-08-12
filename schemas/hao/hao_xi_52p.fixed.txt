@@ -376,7 +376,6 @@ vy	八
 nb	片
 vp	半
 ep	容
-vu	曾
 it	啊
 tz	阿
 wh	落
@@ -525,6 +524,7 @@ rd	负
 sb	忽
 ht	酒
 zy	穿
+vu	弟
 pk	招
 xn	痛
 fz	习

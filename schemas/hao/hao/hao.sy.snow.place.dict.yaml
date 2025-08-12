@@ -2944,8 +2944,8 @@ use_preset_vocabulary: false
 枣阳	TlrDjrGhw LwVo	399
 枣庄	TlrDjrGhw FkrPsu	526
 泽州	HsuBuKsu DywDyw	431
-增城	PsuJdoZeVo PsuKeXi	545
-曾都	JdoZeFlrVo FkeVoLw	1
+增城	PsuJdoVoVo PsuKeXi	545
+曾都	JdoVoJdoVo FkeVoLw	1
 札达	TlrXi YdiNdu	296
 扎囊	KsuXi AkwKdiGkeYr	222
 柞水	TlrVi Hsu	326
@@ -9725,8 +9725,8 @@ use_preset_vocabulary: false
 枣庄市	TlrDjrGhw FkrPsu JvuJfi	233
 泽当镇	HsuBuKsu FlrAlr QjrAkwDkwJdo	201
 泽州县	HsuBuKsu DywDyw SyeBkr	200
-增城区	PsuJdoZeVo PsuKeXi PgoSo	229
-曾都区	JdoZeFlrVo FkeVoLw PgoSo	148
+增城区	PsuJdoVoVo PsuKeXi PgoSo	229
+曾都区	JdoVoJdoVo FkeVoLw PgoSo	148
 札达县	TlrXi YdiNdu SyeBkr	147
 炸碉堡	CmeVi FjeDjrPsuKdi JoKdiTlrPsu	323
 扎兰屯	KsuXi JdoSme LeGyr	180
@@ -10680,7 +10680,7 @@ use_preset_vocabulary: false
 熬硝营村	BwCme FjeFlrCu ClrGkeAmw TlrJfo	1
 坳堰塘村	PsuLiSle PsuPgoVoGle PsuFkrDoKdi TlrJfo	1
 奥运村乡	SiDjrKaiYdi HwNdu TlrJfo Dnw	1
-岙增张村	SiYdiMgi PsuJdoZeVo NsiDkr TlrJfo	1
+岙增张村	SiYdiMgi PsuJdoVoVo NsiDkr TlrJfo	1
 奥佐津村	SiDjrKaiYdi JoAkwJti HsuDo TlrJfo	35
 粑粑店村	KaiFyr KaiFyr FkrFjrKdi TlrJfo	1
 八宝海村	Jdo GkeGuNr HsuKfeDke TlrJfo	35
@@ -12787,7 +12787,7 @@ use_preset_vocabulary: false
 策达雅乡	PuTlrDjr YdiNdu TuHqo Dnw	77
 策大雅乡	PuTlrDjr Ydi TuHqo Dnw	35
 策奈姆县	PuTlrDjr YdiSjw GleDke SyeBkr	92
-曾厝仑庄	JdoZeFlrVo ZkrAkrVo Kti FkrPsu	105
+曾厝仑庄	JdoVoJdoVo ZkrAkrVo Kti FkrPsu	105
 茶庵岭镇	ClrAuTlr FkrYdiVoXi MgiCjoBkr QjrAkwDkwJdo	178
 茶庵铺镇	ClrAuTlr FkrYdiVoXi QjrSpw QjrAkwDkwJdo	168
 茶巴拉乡	ClrAuTlr Fyr KsuJsi Dnw	105
@@ -17743,7 +17743,7 @@ use_preset_vocabulary: false
 府苑新村	FkrJoJfo ClrXkeLgi JsiTlrKfo TlrJfo	168
 福源新村	SjwLeKdiZhe HsuZkrDleFlr JsiTlrKfo TlrJfo	35
 滏园新村	HsuJdoSoTmr ZeZoLr JsiTlrKfo TlrJfo	1
-福增永村	SjwLeKdiZhe PsuJdoZeVo NrHsu TlrJfo	1
+福增永村	SjwLeKdiZhe PsuJdoVoVo NrHsu TlrJfo	1
 付杖子村	JoJfo TlrLeSo Qi TlrJfo	1
 复州城镇	KfeVoMw DywDyw PsuKeXi QjrAkwDkwJdo	245
 富周塘村	GkeLeKdiZhe DjrPsuKdi PsuFkrDoKdi TlrJfo	1
@@ -23450,7 +23450,7 @@ use_preset_vocabulary: false
 喇嘛昭乡	KdiNsuVje KdiHau VoVjeKdi Dnw	58
 拉仁关乡	KsuJsi JoZo JdoYdi Dnw	168
 拉日马乡	KsuJsi Vo Fye Dnw	134
-拉僧庙镇	KsuJsi JoJdoZeVo FkrMe QjrAkwDkwJdo	77
+拉僧庙镇	KsuJsi JoJdoVoVo FkrMe QjrAkwDkwJdo	77
 拉树房村	KsuJsi TlrBuJfo LsiHfo TlrJfo	58
 拉树山村	KsuJsi TlrBuJfo Mgi TlrJfo	1
 拉斯奎镇	KsuJsi MtoJdoKfo YdiPsuPsu QjrAkwDkwJdo	116
@@ -23658,7 +23658,7 @@ use_preset_vocabulary: false
 老泉口村	Fke DleHsu Kdi TlrJfo	77
 老人仓村	Fke Au AuLgi TlrJfo	1
 老三队村	Fke Sme LwAu TlrJfo	1
-老僧堂乡	Fke JoJdoZeVo NdoPsu Dnw	125
+老僧堂乡	Fke JoJdoVoVo NdoPsu Dnw	125
 老沙湾镇	Fke HsuFlrSi HsuJvuCmeNsi QjrAkwDkwJdo	77
 老山头村	Fke Mgi GhwYdi TlrJfo	1
 老山头乡	Fke Mgi GhwYdi Dnw	58
@@ -30996,7 +30996,7 @@ use_preset_vocabulary: false
 森伯塔乡	TlrTlrTlr JoDle PsuClrCjoKdi Dnw	1
 森隆饭庄	TlrTlrTlr LwMwLeJfu TjrZkrBu FkrPsu	35
 森塔斯村	TlrTlrTlr PsuClrCjoKdi MtoJdoKfo TlrJfo	1
-僧道关村	JoJdoZeVo JdoFoNdu JdoYdi TlrJfo	1
+僧道关村	JoJdoVoVo JdoFoNdu JdoYdi TlrJfo	1
 沙坝场乡	HsuFlrSi PsuSmr PsuXiFyw Dnw	116
 沙坝河村	HsuFlrSi PsuSmr HsuSke TlrJfo	105
 沙坝河乡	HsuFlrSi PsuSmr HsuSke Dnw	105
@@ -31611,7 +31611,7 @@ use_preset_vocabulary: false
 上元岗村	FjrLe ZoLr MgiDjrSo TlrJfo	1
 上元观镇	FjrLe ZoLr BuKsi QjrAkwDkwJdo	187
 上岳各庄	FjrLe KfoLeMgi Vyw FkrPsu	1
-上曾家村	FjrLe JdoZeFlrVo GkeDne TlrJfo	58
+上曾家村	FjrLe JdoVoJdoVo GkeDne TlrJfo	58
 上志佐村	FjrLe LdoHdu JoAkwJti TlrJfo	1
 上庄坪村	FjrLe FkrPsu PsuLvuJdo TlrJfo	35
 上庄子村	FjrLe FkrPsu Qi TlrJfo	149
@@ -36039,7 +36039,7 @@ use_preset_vocabulary: false
 魏睿宏庄	MsuGleKci CkeFmwDkw GkeAkwBkr FkrPsu	35
 韦若尔县	Pw ClrAkwKdi FmiFlr SyeBkr	58
 维瑟尔堡	TkwHqo GuGuHduSi FmiFlr JoKdiTlrPsu	77
-魏僧寨镇	MsuGleKci JoJdoZeVo GkeLfoJdoTlr QjrAkwDkwJdo	116
+魏僧寨镇	MsuGleKci JoJdoVoVo GkeLfoJdoTlr QjrAkwDkwJdo	116
 魏沙沟村	MsuGleKci HsuFlrSi HsuSliBkr TlrJfo	1
 苇沙河村	ClrPw HsuFlrSi HsuSke TlrJfo	1
 苇沙河镇	ClrPw HsuFlrSi HsuSke QjrAkwDkwJdo	116
@@ -39686,7 +39686,7 @@ use_preset_vocabulary: false
 新园新村	JsiTlrKfo ZeZoLr JsiTlrKfo TlrJfo	1
 辛仔罕庄	Sne JoQi GkeJdoLvu FkrPsu	116
 新择湖村	JsiTlrKfo KsuBuKsu HsuSkrCu TlrJfo	1
-新增务村	JsiTlrKfo PsuJdoZeVo MwSle TlrJfo	1
+新增务村	JsiTlrKfo PsuJdoVoVo MwSle TlrJfo	1
 新闸子村	JsiTlrKfo QlrYsu Qi TlrJfo	1
 新寨店镇	JsiTlrKfo GkeLfoJdoTlr FkrFjrKdi QjrAkwDkwJdo	35
 新寨河村	JsiTlrKfo GkeLfoJdoTlr HsuSke TlrJfo	1
@@ -41752,7 +41752,7 @@ use_preset_vocabulary: false
 永兴坞村	NrHsu HsuJdo PsuCi TlrJfo	1
 永兴庄村	NrHsu HsuJdo FkrPsu TlrJfo	1
 永乐官庄	NrHsu JsuFlr GkeNw FkrPsu	1
-永增福村	NrHsu PsuJdoZeVo SjwLeKdiZhe TlrJfo	1
+永增福村	NrHsu PsuJdoVoVo SjwLeKdiZhe TlrJfo	1
 永州道县	NrHsu DywDyw JdoFoNdu SyeBkr	210
 甬子峪村	BkrAi Qi MgiFmw TlrJfo	1
 右安门村	AkwKdi GkeGle Qlr TlrJfo	1
@@ -42550,19 +42550,19 @@ use_preset_vocabulary: false
 泽泰亚乡	HsuBuKsu MvuNrHsu LeSu Dnw	1
 泽瓦亚乡	HsuBuKsu Pr LeSu Dnw	1
 泽子沟村	HsuBuKsu Qi HsuSliBkr TlrJfo	1
-增城朱村	PsuJdoZeVo PsuKeXi SiCo TlrJfo	116
-曾厝垵村	JdoZeFlrVo ZkrAkrVo PsuGkeGle TlrJfo	178
-增福庙乡	PsuJdoZeVo SjwLeKdiZhe FkrMe Dnw	77
-增福寺村	PsuJdoZeVo SjwLeKdiZhe PsuJfo TlrJfo	1
-增福堂村	PsuJdoZeVo SjwLeKdiZhe NdoPsu TlrJfo	1
-憎恨之村	HduJdoZeVo HduFhe Fi TlrJfo	1
-曾家沟村	JdoZeFlrVo GkeDne HsuSliBkr TlrJfo	58
-曾家河乡	JdoZeFlrVo GkeDne HsuSke Dnw	35
-曾家坡村	JdoZeFlrVo GkeDne PsuDme TlrJfo	1
-曾家湾村	JdoZeFlrVo GkeDne HsuJvuCmeNsi TlrJfo	125
-增家圩村	PsuJdoZeVo GkeDne PsuLeAkw TlrJfo	1
-增兴窑村	PsuJdoZeVo HsuJdo VkwAyr TlrJfo	1
-甑子坝村	JdoZeFlrPr Qi PsuSmr TlrJfo	1
+增城朱村	PsuJdoVoVo PsuKeXi SiCo TlrJfo	116
+曾厝垵村	JdoVoJdoVo ZkrAkrVo PsuGkeGle TlrJfo	178
+增福庙乡	PsuJdoVoVo SjwLeKdiZhe FkrMe Dnw	77
+增福寺村	PsuJdoVoVo SjwLeKdiZhe PsuJfo TlrJfo	1
+增福堂村	PsuJdoVoVo SjwLeKdiZhe NdoPsu TlrJfo	1
+憎恨之村	HduJdoVoVo HduFhe Fi TlrJfo	1
+曾家沟村	JdoVoJdoVo GkeDne HsuSliBkr TlrJfo	58
+曾家河乡	JdoVoJdoVo GkeDne HsuSke Dnw	35
+曾家坡村	JdoVoJdoVo GkeDne PsuDme TlrJfo	1
+曾家湾村	JdoVoJdoVo GkeDne HsuJvuCmeNsi TlrJfo	125
+增家圩村	PsuJdoVoVo GkeDne PsuLeAkw TlrJfo	1
+增兴窑村	PsuJdoVoVo HsuJdo VkwAyr TlrJfo	1
+甑子坝村	JdoVoJdoPr Qi PsuSmr TlrJfo	1
 闸坝梁村	QlrYsu PsuSmr HsuVjeJdoTlr TlrJfo	1
 闸板口村	QlrYsu TlrZkrBu Kdi TlrJfo	1
 柞柴沟村	TlrVi DiVkeTlr HsuSliBkr TlrJfo	1
