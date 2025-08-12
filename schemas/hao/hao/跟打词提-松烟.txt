@@ -3506,7 +3506,6 @@
 侷	jmxi
 俍	jnfe
 俙	jsai
-俫	jcjo
 俶	jflu
 倅	jjaw
 倴	jyar
@@ -5300,7 +5299,6 @@
 籔	plki
 籖	pafe
 籗	pkho
-籘	pcjo
 籚	pvzi
 籛	ptfw
 籞	pfaw
@@ -8154,7 +8152,6 @@
 𠂫	jvfw
 𠂯	scku
 𠂱	dvfw
-𠂲	scjo
 𠂳	sdlu
 𠂸	sapr
 𠂿	saaw
@@ -9042,7 +9039,6 @@
 𡦢	hqko
 𡦧	msqw
 𡦭	saqe
-𡦮	qcjo
 𡦴	ssqe
 𡦶	qmko
 𡧩	gkpu
@@ -9372,6 +9368,7 @@
 𢡙	yxju
 𢡪	yssu
 𢡲	hhhu
+𢡷	cnhu
 𢢍	mtvu
 𢢤	vcsu
 𢢨	jgmu
@@ -11771,7 +11768,7 @@
 𧟘	yakr
 𧟙	ykku
 𧟚	ycle
-𧟜	ycjo
+𧟜	ycco
 𧟝	ytdu
 𧟤	dhcr
 𧟮	dhzu
@@ -13881,7 +13878,6 @@
 𪱧	cdaw
 𪱬	chho
 𪲠	gvjr
-𪲬	ljco
 𪳎	hctr
 𪴴	tckw
 𪴸	dphi
@@ -14041,7 +14037,6 @@
 𫍝	fffr
 𫍞	fsjw
 𫍡	fgve
-𫍧	fcjo
 𫍫	fyvi
 𫍬	fdje
 𫍰	fzhu
@@ -14060,7 +14055,6 @@
 𫎾	adyi
 𫏁	xljo
 𫏆	xgbr
-𫏌	xcjo
 𫏍	xmhi
 𫏑	xaxe
 𫏘	xhpi
@@ -15517,7 +15511,6 @@
 𱈐	bfbo
 𱈛	bcw
 𱈙	bcar
-𱇭	bcjo
 鿕	bdju
 𱈓	bdvw
 𱇿	bdvo
@@ -15661,7 +15654,6 @@
 𱯲	gagr
 𱮽	gbmo
 𱯆	gbyw
-𱮾	gcjo
 𱯹	gctu
 𱯤	gdnu
 𱯛	gdvr
@@ -16379,6 +16371,9 @@
 𳊃	kkzr
 𳊅	kkqo
 𳊆	kkfu
+𳊇	kkce
+𳊌	khqe
+𳊍	kkfe
 𳊏	kkyr
 𳊔	kkke
 𳊛	smtu
@@ -16995,7 +16990,7 @@ Ciallo～(∠・ω<	1
 大	ydi
 上	fjle
 中	kdfu
-来	cjdo
+来	cjo
 地	pskw
 和	mskdi
 说	fjklr
@@ -18284,7 +18279,7 @@ Ciallo～(∠・ω<	1
 融	qmgje
 殊	cksco
 课	fztlr
-莱	clcjd
+莱	clcjo
 奴	glbu
 扫	ksalr
 肩	lscu
@@ -21188,7 +21183,7 @@ Ciallo～(∠・ω<	1
 啐	kdjaa
 宸	gkhgi
 沣	hsmvu
-睐	dkcjd
+睐	dkcjo
 翦	jdcvz
 颚	lfzxp
 沅	hszlr
@@ -21599,7 +21594,7 @@ Ciallo～(∠・ω<	1
 蛳	gjvlj
 酚	sjvje
 峒	mgdlk
-涞	hscjd
+涞	hscjo
 繇	hasyf
 俅	jlhnr
 嗑	kdpbp
@@ -21947,7 +21942,7 @@ Ciallo～(∠・ω<	1
 衾	cjxyr
 豕	dne
 钴	qjskr
-徕	fhcjd
+徕	fhcjo
 掴	kszgn
 桠	tllsu
 烩	cmahw
@@ -22550,7 +22545,7 @@ Ciallo～(∠・ω<	1
 鳊	blfhr
 僳	jdkai
 嗌	kdhpd
-崃	mgcjd
+崃	mgcjo
 崾	mgdgl
 薜	clkvu
 跗	xjjfo
@@ -24674,7 +24669,7 @@ Ciallo～(∠・ω<	1
 铞	qjkjf
 铟	qjzyd
 铪	qjckd
-铼	qjcjd
+铼	qjcjo
 锎	qjqlc
 锓	qjagb
 锖	qjmcu
@@ -24942,7 +24937,7 @@ Ciallo～(∠・ω<	1
 俍	jnfhe
 俙	jsajf
 俤	jjamr
-俫	jcjdo
+俫	jcjo
 俵	jmyr
 俶	jflbu
 倅	jjaak
@@ -25719,7 +25714,7 @@ Ciallo～(∠・ω<	1
 梶	tlmgy
 梼	tlmjf
 梽	tllhd
-梾	tlcjd
+梾	tlcjo
 梿	tland
 棁	tljkl
 棐	lttlr
@@ -27256,7 +27251,7 @@ Ciallo～(∠・ω<	1
 𫣊	jhabu
 𫧯	fjkda
 𫩛	kdaau
-𫪁	kdcjd
+𫪁	kdcjo
 𫪘	kdpsd
 𫫇	kdlsh
 𫭟	pspso
@@ -45215,7 +45210,7 @@ Ciallo～(∠・ω<	1
 𠂯	scksu
 𠂰	zklxj
 𠂱	dvfnw
-𠂲	scjdo
+𠂲	scjo
 𠂳	sdlfu
 𠂴	mvdjd
 𠂵	vjpks
@@ -47253,7 +47248,7 @@ Ciallo～(∠・ω<	1
 𠢨	afsle
 𠢩	pspps
 𠢪	xchsl
-𠢫	cjsdi
+𠢫	cjsld
 𠢬	kfkls
 𠢭	zkjgs
 𠢮	mgzsl
@@ -55360,7 +55355,7 @@ Ciallo～(∠・ω<	1
 𢡴	fkbbh
 𢡵	gghdu
 𢡶	ydtxh
-𢡷	cjhhd
+𢡷	cnhhd
 𢡸	dkhfh
 𢡹	jdsdh
 𢡺	hsxhd
@@ -58836,7 +58831,7 @@ Ciallo～(∠・ω<	1
 𣘍	tlfqn
 𣘎	tltlb
 𣘏	gkfkg
-𣘐	cjcjd
+𣘐	cjcjo
 𣘑	gmggt
 𣘒	akvlt
 𣘓	tlapb
@@ -67426,7 +67421,7 @@ Ciallo～(∠・ω<	1
 𥞿	msvjj
 𥟀	msmmw
 𥟁	msse
-𥟂	mscjd
+𥟂	mscjo
 𥟃	vhkms
 𥟄	mszfn
 𥟅	msjzi
@@ -71778,7 +71773,7 @@ Ciallo～(∠・ω<	1
 𦣐	cdyyf
 𦣑	ccnms
 𦣒	cddbu
-𦣓	cjscu
+𦣓	cjskc
 𦣔	hacnr
 𦣕	cdskq
 𦣖	avvvo
@@ -73615,7 +73610,7 @@ Ciallo～(∠・ω<	1
 𧀀	clldl
 𧀁	clmnk
 𧀂	clhss
-𧀃	clcjj
+𧀃	clccj
 𧀄	clzvf
 𧀅	clafm
 𧀆	clagk
@@ -75616,7 +75611,7 @@ Ciallo～(∠・ω<	1
 𧟙	ykkau
 𧟚	yclgj
 𧟛	jsjxy
-𧟜	ycjjd
+𧟜	ycccj
 𧟝	ytdbu
 𧟞	yjjyr
 𧟟	jscky
@@ -76890,7 +76885,7 @@ Ciallo～(∠・ω<	1
 𧳒	qzye
 𧳓	qnfhe
 𧳔	qldle
-𧳕	qcjdo
+𧳕	qcjo
 𧳖	qdjdo
 𧳗	qyfyr
 𧳘	qcxkd
@@ -83830,7 +83825,7 @@ Ciallo～(∠・ω<	1
 𩠁	tjmto
 𩠂	tjkkw
 𩠃	tjjjd
-𩠄	tjcjd
+𩠄	tjcjo
 𩠅	tjynd
 𩠆	tjgjg
 𩠇	tjxan
@@ -88002,7 +87997,7 @@ Ciallo～(∠・ω<	1
 𪡷	kdlam
 𪡸	kdkjg
 𪡹	ldmlk
-𪡺	kdcjs
+𪡺	kdcsm
 𪡻	clfvs
 𪡼	lfdyd
 𪡽	kdvkk
@@ -89065,7 +89060,7 @@ Ciallo～(∠・ω<	1
 𪲩	tlgvl
 𪲪	jvzkt
 𪲫	jdgvt
-𪲬	ljcjd
+𪲬	jvjcj
 𪲭	tlnll
 𪲮	tlfgn
 𪲯	tldai
@@ -90765,7 +90760,7 @@ Ciallo～(∠・ω<	1
 𫍤	fsyvj
 𫍥	flghw
 𫍦	fgyr
-𫍧	fcjdo
+𫍧	fcjo
 𫍨	fhgi
 𫍩	fkdau
 𫍪	fmhdu
@@ -90861,7 +90856,7 @@ Ciallo～(∠・ω<	1
 𫏈	xygi
 𫏉	xxkdi
 𫏊	xjsld
-𫏌	xcjdo
+𫏌	xcjo
 𫏍	xmhfi
 𫏎	xdcke
 𫏏	xmcu
@@ -91739,7 +91734,7 @@ Ciallo～(∠・ω<	1
 𫝨	glgal
 𫝩	glmjf
 𫝪	gljsm
-𫝫	glcjd
+𫝫	glcjo
 𫝬	glgsm
 𫝮	glqnj
 𫝯	jzlxq
@@ -92090,7 +92085,7 @@ Ciallo～(∠・ω<	1
 𫣖	jnysi
 𫣗	jdvak
 𫣘	cjkmm
-𫣙	cjlso
+𫣙	cjlks
 𫣚	lksau
 𫣛	cjhll
 𫣜	jaahd
@@ -93371,7 +93366,7 @@ Ciallo～(∠・ω<	1
 𫷩	fkkcl
 𫷪	fkmlw
 𫷫	fklhf
-𫷬	fkcjd
+𫷬	fkcjo
 𫷭	fkxu
 𫷮	fklcu
 𫷯	fkdcn
@@ -93694,7 +93689,7 @@ Ciallo～(∠・ω<	1
 𫼯	kssnd
 𫼰	ksgkd
 𫼱	ksjsm
-𫼲	kscjd
+𫼲	kscjo
 𫼳	kscne
 𫼴	ksksk
 𫼵	ksfnf
@@ -97713,7 +97708,7 @@ Ciallo～(∠・ω<	1
 器	lfllf
 𬹕	mafsm
 𬹖	magyr
-𬹗	macjd
+𬹗	macjo
 塀	psmsl
 𬹘	majjf
 𬹙	akdjm
@@ -101109,7 +101104,7 @@ Ciallo～(∠・ω<	1
 𭤋	kdtgn
 𭤌	ahlkh
 𭤍	ldghf
-𭤎	chzjd
+𭤎	chzcj
 𭤏	dyazh
 𭤐	vhnhf
 𭤑	jvllh
@@ -101572,7 +101567,7 @@ Ciallo～(∠・ω<	1
 𭫚	tljja
 𭫛	tlhkz
 𭫜	tlbsk
-𭫝	cjcjd
+𭫝	cjcjo
 𭫞	tlqlq
 𭫟	tlddk
 𭫠	tlyfv
@@ -102587,7 +102582,7 @@ Ciallo～(∠・ω<	1
 𭻑	zhzhe
 𭻒	zhbab
 𭻓	fhzhe
-𭻔	zhcjd
+𭻔	zhcjo
 𭻕	zhzps
 𭻖	zhsyf
 𭻗	zhfmw
@@ -106351,7 +106346,7 @@ Ciallo～(∠・ω<	1
 𰆖	zkzlr
 𰆗	zkxo
 𰆘	zkjfu
-𰆙	zkcjd
+𰆙	zkcjo
 𰆚	zkchl
 𰆛	zkpng
 𰆜	zkflb
@@ -107291,7 +107286,7 @@ Ciallo～(∠・ω<	1
 𮵮	pjbo
 𮵯	pxlgi
 𮵰	pddyw
-𮵱	pcjdo
+𮵱	pcjo
 𮵲	phgle
 𮵳	pggnr
 𮵴	ptje
@@ -108679,7 +108674,7 @@ Ciallo～(∠・ω<	1
 𱑶	bbsyw
 𱈛	bcadk
 𱈙	bcanr
-𱇭	bcjdo
+𱇭	bcjo
 𱞓	bdhdu
 鿕	bdjvu
 𱈏	bdndu
@@ -108832,7 +108827,7 @@ Ciallo～(∠・ω<	1
 𱵹	cjbdb
 䶼	cjbhd
 𰯛	cjcgj
-𰙉	cjcjd
+𰙉	cjccc
 𰞧	cjcme
 𲋇	cjcvz
 𱼤	cjdps
@@ -108875,7 +108870,7 @@ Ciallo～(∠・ω<	1
 𱊣	cjxsj
 𲋁	cjxyp
 𱢷	cjzfp
-𱤑	cjzhr
+𱤑	cjzkh
 𱰺	cjzsl
 𱤜	cjvvo
 𰙽	ckadl
@@ -109851,7 +109846,7 @@ Ciallo～(∠・ω<	1
 𱴼	fjccm
 𱴮	fjcdn
 𰧓	fjcgt
-𱴄	fjcjd
+𱴄	fjcjo
 𰧈	fjcsj
 𱴳	fjcyc
 𰆇	fjdbb
@@ -110158,7 +110153,7 @@ Ciallo～(∠・ω<	1
 𰴦	fmayv
 𱌯	fmbkd
 𱌵	fmchl
-𱌴	fmcjd
+𱌴	fmcjo
 𲎨	fmckd
 𱪶	fmclm
 𰶓	fmcvj
@@ -110244,7 +110239,7 @@ Ciallo～(∠・ω<	1
 𱅨	fybss
 𱅟	fybst
 𲌅	fycbk
-𱅕	fycjd
+𱅕	fycjo
 𱄼	fyclr
 𰺵	fyddi
 𰺼	fyddn
@@ -110314,7 +110309,7 @@ Ciallo～(∠・ω<	1
 𱮽	gbmdo
 𱯆	gbyfy
 𱯮	gccps
-𱮾	gcjdo
+𱮾	gcjo
 𰻖	gcknd
 𲎚	gctje
 𱝖	gctjt
@@ -110671,7 +110666,7 @@ Ciallo～(∠・ω<	1
 𰚧	gyaje
 𱌞	gybfb
 𱥣	gycak
-𰚙	gycjd
+𰚙	gycjo
 𰥜	gyddk
 𲎯	gyddf
 𱛪	gydfs
@@ -111052,7 +111047,7 @@ Ciallo～(∠・ω<	1
 𱩑	hscgv
 𰛲	hschl
 𱪓	hschz
-𱩣	hscjj
+𱩣	hsccj
 𱪏	hscjz
 𱧻	hscky
 𰛤	hsclg
@@ -112649,7 +112644,7 @@ Ciallo～(∠・ω<	1
 𰔡	kszvy
 𲎌	ktahs
 𱊿	ktbfb
-𱋀	ktcjn
+𱋀	ktcnd
 𲎋	ktcme
 𱻦	ktdzu
 𱥥	ktgye
@@ -112842,7 +112837,7 @@ Ciallo～(∠・ω<	1
 𱮄	lqccu
 𰡝	lqcdk
 𱮔	lqcdo
-𰡎	lqcjd
+𰡎	lqcjo
 𱭾	lqcjf
 𰡩	lqcjk
 𱮓	lqcld
@@ -113375,7 +113370,7 @@ Ciallo～(∠・ω<	1
 𱋤	mvmbh
 𱋣	mvmbt
 𱋮	mvmcd
-𱋭	mvmcj
+𱋭	mvmcc
 𱋨	mvmcs
 𱋠	mvmcv
 𱋈	mvmfk
@@ -113743,7 +113738,7 @@ Ciallo～(∠・ω<	1
 𲃈	psccp
 𰥾	pschd
 𱲓	pschp
-𱖬	pscjd
+𱖬	pscjo
 𲃇	pscjl
 𱍀	psckk
 𰊬	psckz
@@ -114680,7 +114675,7 @@ Ciallo～(∠・ω<	1
 𰬻	tkbsk
 𰬧	tkccm
 𱺣	tkcgs
-𱺜	tkcjd
+𱺜	tkcjo
 𱺯	tkcjs
 𰭁	tkcsh
 𰬬	tkczh
@@ -115570,7 +115565,7 @@ Ciallo～(∠・ω<	1
 𰫳	yfavk
 𰫨	yfbkl
 𱹷	yfcda
-𱹴	yfcjd
+𱹴	yfcjo
 𰫩	yfcjv
 𰫭	yfcmb
 𱺀	yfcsl
@@ -119962,6 +119957,13 @@ Ciallo～(∠・ω<	1
 𳊄	kyshd
 𳊅	kkqmq
 𳊆	kkfnd
+𳊇	kkccm
+𳊈	ktslr
+𳊉	khfms
+𳊊	ktghr
+𳊋	kklzu
+𳊌	khqhe
+𳊍	kkfvh
 𳊎	kkkhw
 𳊏	kkycl
 𳊐	kldbu

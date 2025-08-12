@@ -873,7 +873,7 @@ use_preset_vocabulary: false
 淮滨	HsuHqo HsuGkeKfoJdo	330
 怀化	HduKgi JoVke	486
 怀集	HduKgi HqoTlr	369
-怀来	HduKgi CoJdo	406
+怀来	HduKgi Cjo	406
 淮南	HsuHqo AkwDjrTo	563
 怀宁	HduKgi GkeLfi	390
 怀仁	HduKgi JoZo	436
@@ -914,7 +914,7 @@ use_preset_vocabulary: false
 惠东	FkwBkrHdu FkwFlr	440
 会东	AuHw FkwFlr	325
 惠济	FkwBkrHdu HsuMdu	492
-惠来	FkwBkrHdu CoJdo	415
+惠来	FkwBkrHdu Cjo	415
 会理	AuHw GuJgo	432
 惠民	FkwBkrHdu Hti	601
 回民	ZeKdi Hti	559
@@ -1178,17 +1178,17 @@ use_preset_vocabulary: false
 昆玉	VoVkeVke GuNr	353
 拉萨	KsuJsi ClrLwJsiZkr	650
 拉孜	KsuJsi QiHfi	323
-来安	CoJdo GkeGle	382
-来宾	CoJdo GkeKfoJdo	590
-来凤	CoJdo AnwBu	330
-莱山	ClrCoJdo Mgi	395
-涞水	HsuCoJdo Hsu	356
-莱芜	ClrCoJdo ClrGi	495
-莱西	ClrCoJdo Dhw	489
-莱阳	ClrCoJdo LwVo	432
-来义	CoJdo NrSo	366
-涞源	HsuCoJdo HsuZkrDleFlr	381
-莱州	ClrCoJdo DywDyw	452
+来安	Cjo GkeGle	382
+来宾	Cjo GkeKfoJdo	590
+来凤	Cjo AnwBu	330
+莱山	ClrCjo Mgi	395
+涞水	HsuCjo Hsu	356
+莱芜	ClrCjo ClrGi	495
+莱西	ClrCjo Dhw	489
+莱阳	ClrCjo LwVo	432
+来义	Cjo NrSo	366
+涞源	HsuCjo HsuZkrDleFlr	381
+莱州	ClrCjo DywDyw	452
 澜沧	HsuQlrNsuJdo HsuAuLgi	413
 岚皋	MgiAnwSo DleYdiAkw	314
 兰考	JdoSme FkeLeXi	428
@@ -1694,7 +1694,7 @@ use_preset_vocabulary: false
 蓬安	ClrMwMvuNdu GkeGle	347
 澎湖	HsuTiFyw HsuSkrCu	571
 蓬江	ClrMwMvuNdu HsuJti	366
-蓬莱	ClrMwMvuNdu ClrCoJdo	527
+蓬莱	ClrMwMvuNdu ClrCjo	527
 彭山	TiFyw Mgi	441
 彭水	TiFyw Hsu	408
 蓬溪	ClrMwMvuNdu HsuHoLiYdi	341
@@ -1865,7 +1865,7 @@ use_preset_vocabulary: false
 青州	MvuCu DywDyw	503
 琼海	GuDheFlr HsuKfeDke	488
 琼结	GuDheFlr TkwLdoKdi	225
-邛崃	JtiLw MgiCoJdo	454
+邛崃	JtiLw MgiCjo	454
 琼山	GuDheFlr Mgi	403
 琼中	GuDheFlr KdiFu	404
 丘北	KfoLe ShrVke	329
@@ -2177,7 +2177,7 @@ use_preset_vocabulary: false
 太湖	YdiNr HsuSkrCu	586
 台江	BkrKdi HsuJti	469
 太康	YdiNr FkrAlrHsu	441
-泰来	MvuNrHsu CoJdo	414
+泰来	MvuNrHsu Cjo	414
 台南	BkrKdi AkwDjrTo	598
 泰宁	MvuNrHsu GkeLfi	462
 太平	YdiNr LvuJdo	619
@@ -2392,7 +2392,7 @@ use_preset_vocabulary: false
 武江	LeQoDi HsuJti	315
 五结	Qu TkwLdoKdi	433
 武进	LeQoDi LfoNdu	467
-乌来	Ci CoJdo	427
+乌来	Ci Cjo	427
 乌兰	Ci JdoSme	475
 五莲	Qu ClrAleNdu	321
 武陵	LeQoDi LwPsuJdoMw	481
@@ -2993,7 +2993,7 @@ use_preset_vocabulary: false
 镇江	QjrAkwDkwJdo HsuJti	598
 浈江	HsuFjrSmr HsuJti	1
 镇康	QjrAkwDkwJdo FkrAlrHsu	380
-镇赉	QjrAkwDkwJdo CoJdoSmr	284
+镇赉	QjrAkwDkwJdo CjoSmr	284
 镇宁	QjrAkwDkwJdo GkeLfi	401
 镇平	QjrAkwDkwJdo LvuJdo	415
 镇坪	QjrAkwDkwJdo PsuLvuJdo	359
@@ -4858,7 +4858,7 @@ use_preset_vocabulary: false
 淮滨县	HsuHqo HsuGkeKfoJdo SyeBkr	164
 怀化市	HduKgi JoVke JvuJfi	342
 怀集县	HduKgi HqoTlr SyeBkr	175
-怀来县	HduKgi CoJdo SyeBkr	205
+怀来县	HduKgi Cjo SyeBkr	205
 淮南市	HsuHqo AkwDjrTo JvuJfi	228
 怀宁县	HduKgi GkeLfi SyeBkr	195
 怀仁市	HduKgi JoZo JvuJfi	147
@@ -5136,7 +5136,7 @@ use_preset_vocabulary: false
 会东县	AuHw FkwFlr SyeBkr	153
 回丰镇	ZeKdi Mvu QjrAkwDkwJdo	338
 惠济区	FkwBkrHdu HsuMdu PgoSo	222
-惠来县	FkwBkrHdu CoJdo SyeBkr	199
+惠来县	FkwBkrHdu Cjo SyeBkr	199
 会理市	AuHw GuJgo JvuJfi	1
 回民区	ZeKdi Hti PgoSo	207
 惠民县	FkwBkrHdu Hti SyeBkr	174
@@ -5883,26 +5883,26 @@ use_preset_vocabulary: false
 拉斯堡	KsuJsi MtoJdoKfo JoKdiTlrPsu	201
 辣腿堡	SneNsu CuFheNdu JoKdiTlrPsu	310
 拉孜县	KsuJsi QiHfi SyeBkr	148
-来安县	CoJdo GkeGle SyeBkr	190
-来北镇	CoJdo ShrVke QjrAkwDkwJdo	1
-来宾市	CoJdo GkeKfoJdo JvuJfi	212
-来凤县	CoJdo AnwBu SyeBkr	161
-来丰镇	CoJdo Mvu QjrAkwDkwJdo	338
-来宁乡	CoJdo GkeLfi Dnw	1
-来萍乡	CoJdo ClrHsuLvuJdo Dnw	474
-来清镇	CoJdo HsuMvuCu QjrAkwDkwJdo	446
-莱山区	ClrCoJdo Mgi PgoSo	190
-涞水县	HsuCoJdo Hsu SyeBkr	191
-来桐乡	CoJdo TlrDjrLeKdi Dnw	455
-莱芜区	ClrCoJdo ClrGi PgoSo	166
-莱西市	ClrCoJdo Dhw JvuJfi	262
-来湘乡	CoJdo HsuTlrDkw Dnw	401
-来新乡	CoJdo JsiTlrKfo Dnw	528
-莱阳市	ClrCoJdo LwVo JvuJfi	180
-来义乡	CoJdo NrSo Dnw	1
-涞源县	HsuCoJdo HsuZkrDleFlr SyeBkr	188
-来枣庄	CoJdo TlrDjrGhw FkrPsu	504
-莱州市	ClrCoJdo DywDyw JvuJfi	190
+来安县	Cjo GkeGle SyeBkr	190
+来北镇	Cjo ShrVke QjrAkwDkwJdo	1
+来宾市	Cjo GkeKfoJdo JvuJfi	212
+来凤县	Cjo AnwBu SyeBkr	161
+来丰镇	Cjo Mvu QjrAkwDkwJdo	338
+来宁乡	Cjo GkeLfi Dnw	1
+来萍乡	Cjo ClrHsuLvuJdo Dnw	474
+来清镇	Cjo HsuMvuCu QjrAkwDkwJdo	446
+莱山区	ClrCjo Mgi PgoSo	190
+涞水县	HsuCjo Hsu SyeBkr	191
+来桐乡	Cjo TlrDjrLeKdi Dnw	455
+莱芜区	ClrCjo ClrGi PgoSo	166
+莱西市	ClrCjo Dhw JvuJfi	262
+来湘乡	Cjo HsuTlrDkw Dnw	401
+来新乡	Cjo JsiTlrKfo Dnw	528
+莱阳市	ClrCjo LwVo JvuJfi	180
+来义乡	Cjo NrSo Dnw	1
+涞源县	HsuCjo HsuZkrDleFlr SyeBkr	188
+来枣庄	Cjo TlrDjrGhw FkrPsu	504
+莱州市	ClrCjo DywDyw JvuJfi	190
 岚皋县	MgiAnwSo DleYdiAkw SyeBkr	161
 兰考县	JdoSme FkeLeXi SyeBkr	204
 兰陵县	JdoSme LwPsuJdoMw SyeBkr	209
@@ -7183,7 +7183,7 @@ use_preset_vocabulary: false
 蓬安县	ClrMwMvuNdu GkeGle SyeBkr	172
 澎湖县	HsuTiFyw HsuSkrCu SyeBkr	254
 蓬江区	ClrMwMvuNdu HsuJti PgoSo	206
-蓬莱区	ClrMwMvuNdu ClrCoJdo PgoSo	1
+蓬莱区	ClrMwMvuNdu ClrCjo PgoSo	1
 彭山区	TiFyw Mgi PgoSo	195
 蓬溪县	ClrMwMvuNdu HsuHoLiYdi SyeBkr	186
 彭阳县	TiFyw LwVo SyeBkr	168
@@ -7438,7 +7438,7 @@ use_preset_vocabulary: false
 青州市	MvuCu DywDyw JvuJfi	262
 琼海市	GuDheFlr HsuKfeDke JvuJfi	218
 琼结县	GuDheFlr TkwLdoKdi SyeBkr	110
-邛崃市	JtiLw MgiCoJdo JvuJfi	202
+邛崃市	JtiLw MgiCjo JvuJfi	202
 琼山区	GuDheFlr Mgi PgoSo	203
 丘北县	KfoLe ShrVke SyeBkr	174
 去北镇	PsuBkr ShrVke QjrAkwDkwJdo	1
@@ -7447,7 +7447,7 @@ use_preset_vocabulary: false
 曲江区	Kqu HsuJti PgoSo	176
 衢江区	DyrDkwDkwHqo HsuJti PgoSo	160
 曲靖市	Kqu JsiMvuCu JvuJfi	456
-曲麻莱	Kqu Hau ClrCoJdo	137
+曲麻莱	Kqu Hau ClrCjo	137
 去宁乡	PsuBkr GkeLfi Dnw	1
 去萍乡	PsuBkr ClrHsuLvuJdo Dnw	474
 去清镇	PsuBkr HsuMvuCu QjrAkwDkwJdo	446
@@ -8083,7 +8083,7 @@ use_preset_vocabulary: false
 台江区	BkrKdi HsuJti PgoSo	220
 台江县	BkrKdi HsuJti SyeBkr	179
 太康县	YdiNr FkrAlrHsu SyeBkr	190
-泰来县	MvuNrHsu CoJdo SyeBkr	146
+泰来县	MvuNrHsu Cjo SyeBkr	146
 太麻里	YdiNr Hau Jgo	1
 台南市	BkrKdi AkwDjrTo JvuJfi	310
 泰宁县	MvuNrHsu GkeLfi SyeBkr	178
@@ -8665,7 +8665,7 @@ use_preset_vocabulary: false
 武进区	LeQoDi LfoNdu PgoSo	255
 吴泾镇	KdiLeYdi HsuBuJti QjrAkwDkwJdo	277
 吴坑村	KdiLeYdi PsuJvuAnw TlrJfo	94
-乌来区	Ci CoJdo PgoSo	1
+乌来区	Ci Cjo PgoSo	1
 乌兰县	Ci JdoSme SyeBkr	178
 五里堡	Qu Jgo JoKdiTlrPsu	279
 五里镇	Qu Jgo QjrAkwDkwJdo	274
@@ -10023,7 +10023,7 @@ use_preset_vocabulary: false
 浈江区	HsuFjrSmr HsuJti PgoSo	160
 镇江市	QjrAkwDkwJdo HsuJti JvuJfi	244
 镇康县	QjrAkwDkwJdo FkrAlrHsu SyeBkr	173
-镇赉县	QjrAkwDkwJdo CoJdoSmr SyeBkr	167
+镇赉县	QjrAkwDkwJdo CjoSmr SyeBkr	167
 镇平县	QjrAkwDkwJdo LvuJdo SyeBkr	246
 镇坪县	QjrAkwDkwJdo PsuLvuJdo SyeBkr	175
 振兴区	KsuHgi HsuJdo PgoSo	134
@@ -10472,7 +10472,7 @@ use_preset_vocabulary: false
 艾家湾村	ClrSo GkeDne HsuJvuCmeNsi TlrJfo	1
 艾家墕村	ClrSo GkeDne PsuLeDiCme TlrJfo	1
 艾家窑村	ClrSo GkeDne VkwAyr TlrJfo	1
-艾莱乌县	ClrSo ClrCoJdo Ci SyeBkr	1
+艾莱乌县	ClrSo ClrCjo Ci SyeBkr	1
 埃勒斯堡	PsuBkrHfu NfiSle MtoJdoKfo JoKdiTlrPsu	183
 埃蒙小镇	PsuBkrHfu ClrGkeLeDne Flr QjrAkwDkwJdo	312
 爱尼山乡	HgeAkwBu MfuVke Mgi Dnw	116
@@ -10645,7 +10645,7 @@ use_preset_vocabulary: false
 敖包吐村	Bw SliKvi KdiPsu TlrJfo	1
 敖包墕村	Bw SliKvi PsuLeDiCme TlrJfo	1
 奥本斯堡	SiDjrKaiYdi TlrLe MtoJdoKfo JoKdiTlrPsu	77
-奥布莱堡	SiDjrKaiYdi AkwJfi ClrCoJdo JoKdiTlrPsu	1
+奥布莱堡	SiDjrKaiYdi AkwJfi ClrCjo JoKdiTlrPsu	1
 岙底胡村	SiYdiMgi FkrCmwNr SkrCu TlrJfo	1
 岙底罗村	SiYdiMgi FkrCmwNr AheXke TlrJfo	1
 岙底杨村	SiYdiMgi FkrCmwNr TlrXiFyw TlrJfo	1
@@ -12479,7 +12479,7 @@ use_preset_vocabulary: false
 布拉格村	AkwJfi KsuJsi TlrVyw TlrJfo	1
 布拉克村	AkwJfi KsuJsi SkrLr TlrJfo	240
 补拉湾村	YrFjr KsuJsi HsuJvuCmeNsi TlrJfo	1
-布莱格堡	AkwJfi ClrCoJdo TlrVyw JoKdiTlrPsu	1
+布莱格堡	AkwJfi ClrCjo TlrVyw JoKdiTlrPsu	1
 布兰登堡	AkwJfi JdoSme JdoKqo JoKdiTlrPsu	519
 布兰肯堡	AkwJfi JdoSme DiCu JoKdiTlrPsu	289
 补浪河村	YrFjr HsuNrFhe HsuSke TlrJfo	1
@@ -14254,7 +14254,7 @@ use_preset_vocabulary: false
 大喇嘛乡	Ydi KdiNsuVje KdiHau Dnw	1
 达拉什村	YdiNdu KsuJsi JoAkw TlrJfo	1
 达拉特旗	YdiNdu KsuJsi MdoPsuJfo HfoKfeMtoJdo	405
-大赉店镇	Ydi CoJdoSmr FkrFjrKdi QjrAkwDkwJdo	105
+大赉店镇	Ydi CjoSmr FkrFjrKdi QjrAkwDkwJdo	105
 大兰坨村	Ydi JdoSme PsuGkeVke TlrJfo	58
 大浪淀乡	Ydi HsuNrFhe HsuGkeJgu Dnw	92
 大狼垡村	Ydi LquNrFhe JoFjwPsu TlrJfo	1
@@ -15078,7 +15078,7 @@ use_preset_vocabulary: false
 迪坎尔村	MeNdu PsuDlw FmiFlr TlrJfo	35
 堤口王村	PsuVoJgu Kdi Gu TlrJfo	1
 蒂拉兰县	ClrJsiGkeJfi KsuJsi JdoSme SyeBkr	1
-蒂莱乌乡	ClrJsiGkeJfi ClrCoJdo Ci Dnw	1
+蒂莱乌乡	ClrJsiGkeJfi ClrCjo Ci Dnw	1
 邸亮庄村	CmwNrLw DheAnw FkrPsu TlrJfo	1
 迪列茨村	MeNdu CkeVje ClrGhwDlw TlrJfo	1
 第六屯乡	PuAmr Gme LeGyr Dnw	35
@@ -15835,7 +15835,7 @@ use_preset_vocabulary: false
 洞窟之村	HsuDjrLeKdi VkwMfuGyrDjr Fi TlrJfo	162
 东坤浅村	FkwFlr PsuVoFu HsuLeFjw TlrJfo	1
 东拉河村	FkwFlr KsuJsi HsuSke TlrJfo	1
-东莱海村	FkwFlr ClrCoJdo HsuKfeDke TlrJfo	1
+东莱海村	FkwFlr ClrCjo HsuKfeDke TlrJfo	1
 东兰旗村	FkwFlr JdoSme HfoKfeMtoJdo TlrJfo	1
 东蓝旗村	FkwFlr ClrVjePuPdi HfoKfeMtoJdo TlrJfo	1
 东兰坨村	FkwFlr JdoSme PsuGkeVke TlrJfo	156
@@ -16836,8 +16836,8 @@ use_preset_vocabulary: false
 杜康仙庄	TlrPsu FkrAlrHsu JoMgi FkrPsu	1
 渡口堡乡	HsuFkrAkrBu Kdi JoKdiTlrPsu Dnw	105
 渡口驿乡	HsuFkrAkrBu Kdi FyeBuKsu Dnw	116
-杜莱茨乡	TlrPsu ClrCoJdo ClrGhwDlw Dnw	1
-杜来提乡	TlrPsu CoJdo KsuVoJgu Dnw	134
+杜莱茨乡	TlrPsu ClrCjo ClrGhwDlw Dnw	1
+杜来提乡	TlrPsu Cjo KsuVoJgu Dnw	134
 杜郎口镇	TlrPsu NrFheLw Kdi QjrAkwDkwJdo	142
 杜凌花村	TlrPsu GhwPsuJdoMw ClrJoVke TlrJfo	1
 杜柳棵村	TlrPsu TlrSyr TlrZheTlr TlrJfo	1
@@ -17104,7 +17104,7 @@ use_preset_vocabulary: false
 法哈牛镇	HsuPsuBkr KdiCjoKdi Mdo QjrAkwDkwJdo	125
 法河沟村	HsuPsuBkr HsuSke HsuSliBkr TlrJfo	1
 法华寺村	HsuPsuBkr JoVkeAkw PsuJfo TlrJfo	1
-法莱托堡	HsuPsuBkr ClrCoJdo KsuSiFkw JoKdiTlrPsu	1
+法莱托堡	HsuPsuBkr ClrCjo KsuSiFkw JoKdiTlrPsu	1
 法兰西堡	HsuPsuBkr JdoSme Dhw JoKdiTlrPsu	375
 法迈亚县	HsuPsuBkr LeVjeNdu LeSu SyeBkr	1
 法山头村	HsuPsuBkr Mgi GhwYdi TlrJfo	1
@@ -17281,7 +17281,7 @@ use_preset_vocabulary: false
 费家嘴村	AmrSmr GkeDne KdiDiVkeAi TlrJfo	1
 飞剑潭乡	Kdo CjoHsuLeVje HsuDhwVoAkw Dnw	116
 蜚克图镇	LtoGje SkrLr ZeMwGhw QjrAkwDkwJdo	92
-飞来峡镇	Kdo CoJdo MgiJgiJdo QjrAkwDkwJdo	162
+飞来峡镇	Kdo Cjo MgiJgiJdo QjrAkwDkwJdo	162
 飞兰美乡	Kdo JdoSme ToYdi Dnw	1
 非贫困村	Lto JdoVjeSmr ZeTlr TlrJfo	315
 非贫困县	Lto JdoVjeSmr ZeTlr SyeBkr	235
@@ -17643,7 +17643,7 @@ use_preset_vocabulary: false
 府君庙村	FkrJoJfo Ali FkrMe TlrJfo	1
 府君寨村	FkrJoJfo Ali GkeLfoJdoTlr TlrJfo	1
 阜康钱庄	SiNwAkw FkrAlrHsu QjrLeFjw FkrPsu	238
-浮来山镇	HsuHoQi CoJdo Mgi QjrAkwDkwJdo	178
+浮来山镇	HsuHoQi Cjo Mgi QjrAkwDkwJdo	178
 福乐坪村	SjwLeKdiZhe JsuFlr PsuLvuJdo TlrJfo	1
 富礼坊村	GkeLeKdiZhe SjwXi PsuHfo TlrJfo	1
 符离集镇	PuJoJfo JvuSoDjrGw HqoTlr QjrAkwDkwJdo	92
@@ -21784,7 +21784,7 @@ use_preset_vocabulary: false
 济库察乡	HsuMdu FkrAle GkeJdoSjw Dnw	1
 吉拉德堡	LdoKdi KsuJsi FhwAkwAheHdu JoKdiTlrPsu	315
 吉拉吐乡	LdoKdi KsuJsi KdiPsu Dnw	116
-吉莱巴村	LdoKdi ClrCoJdo Fyr TlrJfo	1
+吉莱巴村	LdoKdi ClrCjo Fyr TlrJfo	1
 吉兰德村	LdoKdi JdoSme FhwAkwAheHdu TlrJfo	1
 吉兰泰镇	LdoKdi JdoSme MvuNrHsu QjrAkwDkwJdo	210
 吉兰庄村	LdoKdi JdoSme FkrPsu TlrJfo	1
@@ -23119,7 +23119,7 @@ use_preset_vocabulary: false
 喀瓦克乡	KdiGkeVyw Pr SkrLr Dnw	168
 卡瓦小镇	FjrLeFjr Pr Flr QjrAkwDkwJdo	245
 喀细亚县	KdiGkeVyw TkwZhe LeSu SyeBkr	77
-卡谢莱乡	FjrLeFjr FeKfiJfo ClrCoJdo Dnw	1
+卡谢莱乡	FjrLeFjr FeKfiJfo ClrCjo Dnw	1
 凯比尔堡	MgiMfoAnw VkeVke FmiFlr JoKdiTlrPsu	142
 凯察尼乡	MgiMfoAnw GkeJdoSjw MfuVke Dnw	1
 开放兴县	LeClr HfoHfi HsuJdo SyeBkr	58
@@ -23468,22 +23468,22 @@ use_preset_vocabulary: false
 腊子口乡	CuAkrVo Qi Kdi Dnw	1
 砬子山村	FjeJsi Qi Mgi TlrJfo	142
 赖夫尔镇	NsuFmiSmr Jgi FmiFlr QjrAkwDkwJdo	1
-来广营乡	CoJdo Fkr ClrGkeAmw Dnw	195
+来广营乡	Cjo Fkr ClrGkeAmw Dnw	195
 赖加尔县	NsuFmiSmr SleKdi FmiFlr SyeBkr	35
 赖家沟村	NsuFmiSmr GkeDne HsuSliBkr TlrJfo	1
 赖家山村	NsuFmiSmr GkeDne Mgi TlrJfo	1
 赖家洋村	NsuFmiSmr GkeDne HsuTo TlrJfo	1
-来景德镇	CoJdo VoDheFlr FhwAkwAheHdu QjrAkwDkwJdo	222
+来景德镇	Cjo VoDheFlr FhwAkwAheHdu QjrAkwDkwJdo	222
 赖久尔县	NsuFmiSmr FmiNr FmiFlr SyeBkr	58
-莱卡小镇	ClrCoJdo FjrLeFjr Flr QjrAkwDkwJdo	156
-涞沥水村	HsuCoJdo HsuZkrSle Hsu TlrJfo	134
+莱卡小镇	ClrCjo FjrLeFjr Flr QjrAkwDkwJdo	156
+涞沥水村	HsuCjo HsuZkrSle Hsu TlrJfo	134
 赖马沟村	NsuFmiSmr Fye HsuSliBkr TlrJfo	1
 赖马庄村	NsuFmiSmr Fye FkrPsu TlrJfo	1
-来石家庄	CoJdo Fje GkeDne FkrPsu	336
-涞滩古镇	HsuCoJdo HsuBuHqo Skr QjrAkwDkwJdo	308
-来我们村	CoJdo SiKsuFjw JoQlr TlrJfo	318
-来中关村	CoJdo KdiFu JdoYdi TlrJfo	329
-来紫堡乡	CoJdo DiVkeYfo JoKdiTlrPsu Dnw	245
+来石家庄	Cjo Fje GkeDne FkrPsu	336
+涞滩古镇	HsuCjo HsuBuHqo Skr QjrAkwDkwJdo	308
+来我们村	Cjo SiKsuFjw JoQlr TlrJfo	318
+来中关村	Cjo KdiFu JdoYdi TlrJfo	329
+来紫堡乡	Cjo DiVkeYfo JoKdiTlrPsu Dnw	245
 赖子山庄	NsuFmiSmr Qi Mgi FkrPsu	116
 烂坝子乡	CmeJdoSme PsuSmr Qi Dnw	77
 懒板凳村	HduNsuFmiSmr TlrZkrBu JdoKqoAnw TlrJfo	1
@@ -24093,7 +24093,7 @@ use_preset_vocabulary: false
 励江岸村	ZkrLeVjeSle HsuJti MgiZkrLvu TlrJfo	1
 李江沟村	TlrQi HsuJti HsuSliBkr TlrJfo	35
 李界沟村	TlrQi ZheAuVje HsuSliBkr TlrJfo	1
-利杰莱乡	MsuVje TlrCme ClrCoJdo Dnw	1
+利杰莱乡	MsuVje TlrCme ClrCjo Dnw	1
 李金德村	TlrQi Tmr FhwAkwAheHdu TlrJfo	1
 历经铺乡	ZkrSle TkwBuJti QjrSpw Dnw	92
 丽景山庄	LeCuCu VoDheFlr Mgi FkrPsu	1
@@ -25404,7 +25404,7 @@ use_preset_vocabulary: false
 龙堂沟村	Hgu NdoPsu HsuSliBkr TlrJfo	1
 龙堂庙村	Hgu NdoPsu FkrMe TlrJfo	1
 龙塘新村	Hgu PsuFkrDoKdi JsiTlrKfo TlrJfo	1
-隆特莱县	LwMwLeJfu MdoPsuJfo ClrCoJdo SyeBkr	1
+隆特莱县	LwMwLeJfu MdoPsuJfo ClrCjo SyeBkr	1
 龙田沟村	Hgu Zhe HsuSliBkr TlrJfo	1
 龙廷侯村	Hgu SiLdoHr JoPgoHfu TlrJfo	1
 龙头庵乡	Hgu GhwYdi FkrYdiVoXi Dnw	77
@@ -25936,7 +25936,7 @@ use_preset_vocabulary: false
 洛乌沟乡	HsuVyw Ci HsuSliBkr Dnw	105
 洛乌尼县	HsuVyw Ci MfuVke SyeBkr	1
 罗武庄乡	AheXke LeQoDi FkrPsu Dnw	116
-罗希莱乡	AheXke SoAkwJfi ClrCoJdo Dnw	1
+罗希莱乡	AheXke SoAkwJfi ClrCjo Dnw	1
 洛西坪村	HsuVyw Dhw PsuLvuJdo TlrJfo	1
 落霞山庄	ClrHsuVyw KoMfuZoBu Mgi FkrPsu	315
 罗巷新村	AheXke AkrJdoKvi JsiTlrKfo TlrJfo	35
@@ -26810,7 +26810,7 @@ use_preset_vocabulary: false
 煤建新村	CmeMtoTlr DoHr JsiTlrKfo TlrJfo	58
 梅克伦堡	TlrKfeDke SkrLr JoKti JoKdiTlrPsu	631
 美拉维县	ToYdi KsuJsi TkwHqo SyeBkr	156
-梅莱茨县	TlrKfeDke ClrCoJdo ClrGhwDlw SyeBkr	1
+梅莱茨县	TlrKfeDke ClrCjo ClrGhwDlw SyeBkr	1
 美了乡村	ToYdi Dmw Dnw TlrJfo	315
 梅力板村	TlrKfeDke Sle TlrZkrBu TlrJfo	1
 魅力城乡	KciCo Sle PsuKeXi Dnw	142
@@ -28441,7 +28441,7 @@ use_preset_vocabulary: false
 倪家庄村	JoJziLr GkeDne FkrPsu TlrJfo	1
 泥江口镇	HsuMfuVke HsuJti Kdi QjrAkwDkwJdo	35
 逆江坪乡	JdoGyrNdu HsuJti PsuLvuJdo Dnw	35
-你来新乡	JoFmiFlr CoJdo JsiTlrKfo Dnw	1
+你来新乡	JoFmiFlr Cjo JsiTlrKfo Dnw	1
 尼勒克县	MfuVke NfiSle SkrLr SyeBkr	387
 尼勒克镇	MfuVke NfiSle SkrLr QjrAkwDkwJdo	58
 倪利克县	JoJziLr MsuVje SkrLr SyeBkr	58
@@ -28718,7 +28718,7 @@ use_preset_vocabulary: false
 暖泉会村	VoHoLeBu DleHsu AuHw TlrJfo	168
 暖泉子村	VoHoLeBu DleHsu Qi TlrJfo	1
 暖水沟村	VoHoLeBu Hsu HsuSliBkr TlrJfo	58
-诺艾莱县	FeClrAkwKdi ClrSo ClrCoJdo SyeBkr	1
+诺艾莱县	FeClrAkwKdi ClrSo ClrCjo SyeBkr	1
 诺弗勒堡	FeClrAkwKdi Amr NfiSle JoKdiTlrPsu	1
 诺改特村	FeClrAkwKdi MfoHfi MdoPsuJfo TlrJfo	35
 诺戈亚县	FeClrAkwKdi Fjw LeSu SyeBkr	1
@@ -28753,7 +28753,7 @@ use_preset_vocabulary: false
 帕代什乡	JfiDle JoQo JoAkw Dnw	1
 帕迪塞乡	JfiDle MeNdu GkeLfoJdoPsu Dnw	1
 帕顿斯堡	JfiDle LeGyrPe MtoJdoKfo JoKdiTlrPsu	92
-帕莱乌乡	JfiDle ClrCoJdo Ci Dnw	1
+帕莱乌乡	JfiDle ClrCjo Ci Dnw	1
 帕梅托镇	JfiDle TlrKfeDke KsuSiFkw QjrAkwDkwJdo	58
 帕尼艾县	JfiDle MfuVke ClrSo SyeBkr	162
 帕萨赫县	JfiDle ClrLwJsiZkr PsuCmePsuCme SyeBkr	1
@@ -28792,7 +28792,7 @@ use_preset_vocabulary: false
 盘城房村	MoPdi PsuKeXi LsiHfo TlrJfo	1
 泮池沟村	HsuJdoKsu HsuKw HsuSliBkr TlrJfo	1
 潘池河村	HsuSiKaiZhe HsuKw HsuSke TlrJfo	1
-潘代莱乡	HsuSiKaiZhe JoQo ClrCoJdo Dnw	1
+潘代莱乡	HsuSiKaiZhe JoQo ClrCjo Dnw	1
 盘道沟村	MoPdi JdoFoNdu HsuSliBkr TlrJfo	1
 盘道岭村	MoPdi JdoFoNdu MgiCjoBkr TlrJfo	1
 盘低里村	MoPdi JoCmwNr Jgo TlrJfo	1
@@ -29172,7 +29172,7 @@ use_preset_vocabulary: false
 蒲家院村	ClrHsuSpw GkeDne LwGkeZoLr TlrJfo	1
 蒲家嘴村	ClrHsuSpw GkeDne KdiDiVkeAi TlrJfo	1
 普拉底乡	JdoSuVo KsuJsi FkrCmwNr Dnw	116
-普莱茨堡	JdoSuVo ClrCoJdo ClrGhwDlw JoKdiTlrPsu	58
+普莱茨堡	JdoSuVo ClrCjo ClrGhwDlw JoKdiTlrPsu	58
 普兰店区	JdoSuVo JdoSme FkrFjrKdi PgoSo	367
 普乐堡镇	JdoSuVo JsuFlr JoKdiTlrPsu QjrAkwDkwJdo	92
 普乐寺村	JdoSuVo JsuFlr PsuJfo TlrJfo	1
@@ -29417,7 +29417,7 @@ use_preset_vocabulary: false
 祁庄子村	SjwLw FkrPsu Qi TlrJfo	1
 杞梓里镇	TlrMfo TlrSne Jgo QjrAkwDkwJdo	213
 恰卜恰镇	HduCjoKdi Fjr HduCjoKdi QjrAkwDkwJdo	247
-恰布莱镇	HduCjoKdi AkwJfi ClrCoJdo QjrAkwDkwJdo	1
+恰布莱镇	HduCjoKdi AkwJfi ClrCjo QjrAkwDkwJdo	1
 恰尔隆乡	HduCjoKdi FmiFlr LwMwLeJfu Dnw	58
 恰戈扬村	HduCjoKdi Fjw KsuXiFyw TlrJfo	1
 恰合玛村	HduCjoKdi CjoKdi GuFye TlrJfo	142
@@ -29991,7 +29991,7 @@ use_preset_vocabulary: false
 切格尔村	FkwVje TlrVyw FmiFlr TlrJfo	1
 郄家川村	SoAkwBkrLw GkeDne Dyw TlrJfo	1
 切杰尔县	FkwVje TlrCme FmiFlr SyeBkr	1
-切莱莱乡	FkwVje ClrCoJdo ClrCoJdo Dnw	58
+切莱莱乡	FkwVje ClrCjo ClrCjo Dnw	58
 切勒特乡	FkwVje NfiSle MdoPsuJfo Dnw	1
 切雷托堡	FkwVje KoZhe KsuSiFkw JoKdiTlrPsu	92
 切塔泰乡	FkwVje PsuClrCjoKdi MvuNrHsu Dnw	92
@@ -30370,7 +30370,7 @@ use_preset_vocabulary: false
 裘江新村	LeHsuNrYr HsuJti JsiTlrKfo TlrJfo	1
 虬江新镇	GjeXi HsuJti JsiTlrKfo QjrAkwDkwJdo	1
 秋科峪村	MsuCme MsuYdo MgiFmw TlrJfo	1
-丘莱卢乡	KfoLe ClrCoJdo FjrMfu Dnw	1
+丘莱卢乡	KfoLe ClrCjo FjrMfu Dnw	1
 丘雷亚乡	KfoLe KoZhe LeSu Dnw	1
 秋梨沟村	MsuCme MsuVjeTlr HsuSliBkr TlrJfo	1
 秋梨沟镇	MsuCme MsuVjeTlr HsuSliBkr QjrAkwDkwJdo	116
@@ -30448,8 +30448,8 @@ use_preset_vocabulary: false
 区洛羊镇	PgoSo HsuVyw To QjrAkwDkwJdo	1
 区麻岗镇	PgoSo Hau MgiDjrSo QjrAkwDkwJdo	77
 曲麻河乡	Kqu Hau HsuSke Dnw	207
-曲麻莱县	Kqu Hau ClrCoJdo SyeBkr	361
-曲玛莱县	Kqu GuFye ClrCoJdo SyeBkr	58
+曲麻莱县	Kqu Hau ClrCjo SyeBkr	361
+曲玛莱县	Kqu GuFye ClrCjo SyeBkr	58
 区麻柳镇	PgoSo Hau TlrSyr QjrAkwDkwJdo	92
 区麻沙镇	PgoSo Hau HsuFlrSi QjrAkwDkwJdo	1
 区曼窝村	PgoSo VoAheBu VkwKdiDjrAu TlrJfo	77
@@ -30703,7 +30703,7 @@ use_preset_vocabulary: false
 洒金坨村	HsuDhw Tmr PsuGkeVke TlrJfo	1
 萨拉齐镇	ClrLwJsiZkr KsuJsi Mdu QjrAkwDkwJdo	225
 撒拉溪镇	KsuAkrCuHfi KsuJsi HsuHoLiYdi QjrAkwDkwJdo	116
-萨莱托镇	ClrLwJsiZkr ClrCoJdo KsuSiFkw QjrAkwDkwJdo	1
+萨莱托镇	ClrLwJsiZkr ClrCjo KsuSiFkw QjrAkwDkwJdo	1
 萨力巴乡	ClrLwJsiZkr Sle Fyr Dnw	105
 萨鲁马县	ClrLwJsiZkr BoVo Fye SyeBkr	1
 萨马拉堡	ClrLwJsiZkr Fye KsuJsi JoKdiTlrPsu	1
@@ -30723,7 +30723,7 @@ use_preset_vocabulary: false
 赛尔龙乡	GkeLfoJdoSmr FmiFlr Hgu Dnw	187
 塞居尔堡	GkeLfoJdoPsu MfuSkr FmiFlr JoKdiTlrPsu	1
 赛拉隆乡	GkeLfoJdoSmr KsuJsi LwMwLeJfu Dnw	35
-赛来塘镇	GkeLfoJdoSmr CoJdo PsuFkrDoKdi QjrAkwDkwJdo	173
+赛来塘镇	GkeLfoJdoSmr Cjo PsuFkrDoKdi QjrAkwDkwJdo	173
 赛里木镇	GkeLfoJdoSmr Jgo Tlr QjrAkwDkwJdo	210
 塞鲁延县	GkeLfoJdoPsu BoVo SiDiHr SyeBkr	58
 塞上水乡	GkeLfoJdoPsu FjrLe Hsu Dnw	1
@@ -31899,7 +31899,7 @@ use_preset_vocabulary: false
 省静嘉县	FlrSiDkw MvuCuFmiDo TiSleKdi SyeBkr	35
 圣君庙村	BuPsu Ali FkrMe TlrJfo	1
 圣拉埃村	BuPsu KsuJsi PsuBkrHfu TlrJfo	1
-省莱瓦镇	FlrSiDkw ClrCoJdo Pr QjrAkwDkwJdo	35
+省莱瓦镇	FlrSiDkw ClrCjo Pr QjrAkwDkwJdo	35
 胜利沟村	CuJfu MsuVje HsuSliBkr TlrJfo	1
 胜利街村	CuJfu MsuVje DyrPsuPsu TlrJfo	1
 圣力寺村	BuPsu Sle PsuJfo TlrJfo	1
@@ -32354,7 +32354,7 @@ use_preset_vocabulary: false
 实拉卓镇	GkeGhwYdi KsuJsi FjrVoAkw QjrAkwDkwJdo	35
 石拉子村	Fje KsuJsi Qi TlrJfo	1
 石砬子村	Fje FjeJsi Qi TlrJfo	1
-矢来无乡	Hfu CoJdo Gi Dnw	8
+矢来无乡	Hfu Cjo Gi Dnw	8
 是览表村	VoJgu VjePuKsi MvuYr TlrJfo	58
 什兰岱村	JoAkw JdoSme JoQoMgi TlrJfo	1
 石兰计村	Fje JdoSme FeAkw TlrJfo	1
@@ -34970,7 +34970,7 @@ use_preset_vocabulary: false
 土口子乡	Psu Kdi Qi Dnw	142
 土库台村	Psu FkrAle BkrKdi TlrJfo	1
 吐拉尺村	KdiPsu KsuJsi MfuNr TlrJfo	1
-图莱莱乡	ZeMwGhw ClrCoJdo ClrCoJdo Dnw	1
+图莱莱乡	ZeMwGhw ClrCjo ClrCjo Dnw	1
 图里河镇	ZeMwGhw Jgo HsuSke QjrAkwDkwJdo	162
 土列尔堡	Psu CkeVje FmiFlr JoKdiTlrPsu	58
 土岭沟村	Psu MgiCjoBkr HsuSliBkr TlrJfo	1
@@ -35123,7 +35123,7 @@ use_preset_vocabulary: false
 瓦胡同村	Pr SkrCu DjrLeKdi TlrJfo	105
 瓦匠沟村	Pr PgoKfo HsuSliBkr TlrJfo	1
 瓦拉干镇	Pr KsuJsi Lvu QjrAkwDkwJdo	35
-瓦雷莱乡	Pr KoZhe ClrCoJdo Dnw	1
+瓦雷莱乡	Pr KoZhe ClrCjo Dnw	1
 洼里高村	HsuPsuPsu Jgo Dhe TlrJfo	1
 瓦里觉乡	Pr Jgo HsuGkeKsi Dnw	35
 洼里孙村	HsuPsuPsu Jgo QiFlr TlrJfo	1
@@ -35644,7 +35644,7 @@ use_preset_vocabulary: false
 王军庄村	Gu GkeAle FkrPsu TlrJfo	1
 王可乐村	Gu Ske JsuFlr TlrJfo	58
 王柯寨村	Gu TlrSke GkeLfoJdoTlr TlrJfo	1
-王莱宅庄	Gu ClrCoJdo GkeSiFkw FkrPsu	58
+王莱宅庄	Gu ClrCjo GkeSiFkw FkrPsu	58
 王兰庄村	Gu JdoSme FkrPsu TlrJfo	1
 王兰庄镇	Gu JdoSme FkrPsu QjrAkwDkwJdo	35
 王郎新村	Gu NrFheLw JsiTlrKfo TlrJfo	1
@@ -36008,7 +36008,7 @@ use_preset_vocabulary: false
 为菁埔庄	NrSleNr ClrMvuCu PsuSpw FkrPsu	116
 苇咀子村	ClrPw KdiSye Qi TlrJfo	1
 维拉小镇	TkwHqo KsuJsi Flr QjrAkwDkwJdo	142
-未来橙堡	Co CoJdo TlrJdoKqo JoKdiTlrPsu	58
+未来橙堡	Co Cjo TlrJdoKqo JoKdiTlrPsu	58
 为琅岐镇	NrSleNr GuNrFhe MgiJe QjrAkwDkwJdo	1
 韦勒瑟镇	Pw NfiSle GuGuHduSi QjrAkwDkwJdo	1
 魏里湾村	MsuGleKci Jgo HsuJvuCmeNsi TlrJfo	1
@@ -37339,9 +37339,9 @@ use_preset_vocabulary: false
 西匡家庄	Dhw PgoGu GkeDne FkrPsu	1
 西拉拉村	Dhw KsuJsi KsuJsi TlrJfo	92
 西腊山村	Dhw CuAkrVo Mgi TlrJfo	1
-西来古镇	Dhw CoJdo Skr QjrAkwDkwJdo	238
-西莱海村	Dhw ClrCoJdo HsuKfeDke TlrJfo	1
-西来桥镇	Dhw CoJdo TlrSiYdiVje QjrAkwDkwJdo	142
+西来古镇	Dhw Cjo Skr QjrAkwDkwJdo	238
+西莱海村	Dhw ClrCjo HsuKfeDke TlrJfo	1
+西来桥镇	Dhw Cjo TlrSiYdiVje QjrAkwDkwJdo	142
 西兰旗村	Dhw JdoSme HfoKfeMtoJdo TlrJfo	1
 西兰坨村	Dhw JdoSme PsuGkeVke TlrJfo	1
 系缆渔村	SiYfo TkwVjePuKsi HsuBo TlrJfo	1
@@ -37664,7 +37664,7 @@ use_preset_vocabulary: false
 西劝学村	Dhw BuSle HsuGkeQi TlrJfo	1
 西热木村	Dhw KsuYeCme Tlr TlrJfo	1
 西仁宕村	Dhw JoZo GkeFje TlrJfo	1
-西儒来村	Dhw JoKoGo CoJdo TlrJfo	1
+西儒来村	Dhw JoKoGo Cjo TlrJfo	1
 西儒林村	Dhw JoKoGo TlrTlr TlrJfo	1
 西茹子村	Dhw ClrGleKdi Qi TlrJfo	1
 西卅店镇	Dhw Dko FkrFjrKdi QjrAkwDkwJdo	305
@@ -42449,7 +42449,7 @@ use_preset_vocabulary: false
 云家畔村	Hw GkeDne ZheJdoKsu TlrJfo	1
 云家滩村	Hw GkeDne HsuBuHqo TlrJfo	1
 云家湾村	Hw GkeDne HsuJvuCmeNsi TlrJfo	1
-云来斯堡	Hw CoJdo MtoJdoKfo JoKdiTlrPsu	58
+云来斯堡	Hw Cjo MtoJdoKfo JoKdiTlrPsu	58
 云里坊村	Hw Jgo PsuHfo TlrJfo	1
 云路口村	Hw XuVyw Kdi TlrJfo	1
 筠门岭镇	PuPsuSliGhw Qlr MgiCjoBkr QjrAkwDkwJdo	191
@@ -42574,7 +42574,7 @@ use_preset_vocabulary: false
 扎箕坞村	KsuXi PuMtoJdo PsuCi TlrJfo	1
 扎拉吐村	KsuXi KsuJsi KdiPsu TlrJfo	1
 扎拉营村	KsuXi KsuJsi ClrGkeAmw TlrJfo	35
-扎赉特旗	KsuXi CoJdoSmr MdoPsuJfo HfoKfeMtoJdo	374
+扎赉特旗	KsuXi CjoSmr MdoPsuJfo HfoKfeMtoJdo	374
 渣濑湾村	HsuTlrVoLe HsuNsuFmiSmr HsuJvuCmeNsi TlrJfo	1
 扎兰屯市	KsuXi JdoSme LeGyr JvuJfi	383
 扎陵湖乡	KsuXi LwPsuJdoMw HsuSkrCu Dnw	105
@@ -43347,7 +43347,7 @@ use_preset_vocabulary: false
 镇大厝村	QjrAkwDkwJdo Ydi ZkrAkrVo TlrJfo	35
 镇大济村	QjrAkwDkwJdo Ydi HsuMdu TlrJfo	1
 镇大京村	QjrAkwDkwJdo Ydi DheFlr TlrJfo	134
-镇大莱村	QjrAkwDkwJdo Ydi ClrCoJdo TlrJfo	1
+镇大莱村	QjrAkwDkwJdo Ydi ClrCjo TlrJfo	1
 镇大梨村	QjrAkwDkwJdo Ydi MsuVjeTlr TlrJfo	35
 镇大岭村	QjrAkwDkwJdo Ydi MgiCjoBkr TlrJfo	222
 镇达悟村	QjrAkwDkwJdo YdiNdu HduQuKdi TlrJfo	1
@@ -44574,7 +44574,7 @@ use_preset_vocabulary: false
 尉犁尉犁县	MfuSjwJfo MsuVjeMdo MfuSjwJfo MsuVjeMdo SyeBkr	1
 泽库泽库县	HsuBuKsu FkrAle HsuBuKsu FkrAle SyeBkr	1
 泽普泽普县	HsuBuKsu JdoSuVo HsuBuKsu JdoSuVo SyeBkr	1
-扎赉诺尔区	KsuXi CoJdoSmr FeClrAkwKdi FmiFlr PgoSo	1
+扎赉诺尔区	KsuXi CjoSmr FeClrAkwKdi FmiFlr PgoSo	1
 阿鲁科尔沁旗	LwSke BoVo MsuYdo FmiFlr HsuHdu HfoKfeMtoJdo	362
 白云鄂博矿区	Dle Hw LfuZoXiLw AkwSpwJfo FjeFkr PgoSo	1
 北屯市铁门关	ShrVke LeGyr JvuJfi QjrSiJgi Qlr JdoYdi	1
