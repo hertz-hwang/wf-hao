@@ -45,7 +45,7 @@ av;	松
 aw	权
 aw;	树
 ax	椅
-ax;	槿
+ax;	樘
 ay	李
 ay;	核
 az	刺
@@ -132,8 +132,8 @@ cn	么
 cn;	息
 co	交
 co;	效
-cp	我
-cp;	鹅
+cp	鹅
+cp;	锻
 cq	镖
 cq;	甭
 cr	致
@@ -226,8 +226,8 @@ ei	知
 ei;	鱼
 ej	审
 ej;	鲁
-ek	定
-ek;	颇
+ek	家
+ek;	定
 el	实
 el;	守
 em	皮
@@ -254,8 +254,8 @@ ew	巴
 ew;	宽
 ex	寄
 ex;	宛
-ey	军
-ey;	字
+ey	字
+ey;	军
 ez	害
 ez;	割
 fa	末
@@ -298,8 +298,8 @@ fs	留
 fs;	互
 ft	卿
 ft;	馁
-fu	了
-fu;	妻
+fu	妻
+fu;	氟
 fv	骨
 fv;	雇
 fw	开
@@ -322,8 +322,8 @@ ge	索
 ge;	勃
 gf	球
 gf;	庐
-gg	真
-gg;	直
+gg	直
+gg;	真
 gh	应
 gh;	睡
 gi	王
@@ -345,7 +345,7 @@ gp;	卖
 gq	底
 gq;	瑚
 gr	玩
-gr;	睁
+gr;	勤
 gs	座
 gs;	康
 gt	眼
@@ -460,8 +460,8 @@ iv	只
 iv;	善
 iw	发
 iw;	叹
-ix	美
-ix;	吗
+ix	吗
+ix;	美
 iy	呀
 iy;	吼
 iz	出
@@ -1002,8 +1002,8 @@ tg	爱
 tg;	随
 th	剑
 th;	陛
-ti	命
-ti;	拿
+ti	合
+ti;	命
 tj	阳
 tj;	配
 tk	金
@@ -1138,8 +1138,8 @@ vw	并
 vw;	诺
 vx	关
 vx;	送
-vy	该
-vy;	八
+vy	八
+vy;	该
 vz	请
 vz;	调
 wa	苏

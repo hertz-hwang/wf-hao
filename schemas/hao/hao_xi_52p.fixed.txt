@@ -1,5 +1,3 @@
-fu	了
-cp	我
 gm	有
 sk	个
 df	上
@@ -42,6 +40,7 @@ fj	行
 iv	只
 sy	好
 up	成
+ek	家
 fx	天
 sh	她
 ml	然
@@ -68,12 +67,10 @@ pa	动
 vk	分
 pe	把
 fw	开
-ey	军
 wi	又
 am	两
 af	本
 ux	因
-ek	定
 yi	部
 fp	与
 nx	将
@@ -129,10 +126,8 @@ bj	间
 vv	话
 wm	文
 rt	给
-ix	美
 oq	业
 ls	物
-gg	真
 ka	体
 ii	或
 ps	几
@@ -156,6 +151,7 @@ ah	儿
 gc	才
 bo	门
 xo	太
+ti	合
 km	信
 zo	表
 od	原
@@ -212,6 +208,7 @@ tw	受
 hv	活
 rm	结
 ms	数
+gg	直
 nc	必
 dy	白
 ph	指
@@ -226,7 +223,6 @@ cy	至
 ji	五
 ch	系
 wv	难
-ti	命
 uv	建
 ro	尔
 kl	件
@@ -283,7 +279,6 @@ al	边
 ne	快
 po	风
 re	色
-vy	该
 wp	象
 aw	权
 vq	设
@@ -327,6 +322,7 @@ yf	车
 qq	石
 qv	联
 ru	争
+ix	吗
 te	院
 yw	轻
 yv	火
@@ -347,6 +343,7 @@ mw	服
 eu	官
 ur	整
 tg	爱
+ey	字
 pb	持
 ut	跟
 zl	突
@@ -375,6 +372,7 @@ zm	青
 rn	红
 ww	双
 dp	九
+vy	八
 nb	片
 vp	半
 ep	容
@@ -613,6 +611,7 @@ fv	骨
 yb	牙
 yh	轮
 uh	束
+fu	妻
 st	甲
 xs	套
 bw	塔
@@ -665,6 +664,7 @@ dv	禅
 dt	岭
 br	堵
 cq	镖
+cp	鹅
 bf	坎
 rc	绞
 tc	霆

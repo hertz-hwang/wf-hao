@@ -284,7 +284,7 @@ use_preset_vocabulary: false
 翠屏	ZuJvuAuAkw MfuJdoClr	427
 措美	KsuAkrVo ToYdi	188
 错那	QjrAkrVo XiKsuLw	1
-措勤	KsuAkrVo AkrKdiMvuSle	248
+措勤	KsuAkrVo NfiZoSle	248
 大安	Ydi GkeGle	499
 大埔	Ydi PsuSpw	569
 大厂	Ydi Zkr	598
@@ -1556,7 +1556,7 @@ use_preset_vocabulary: false
 闵行	QlrXo Dyr	532
 民和	Hti MsuKdi	508
 闽侯	QlrGje JoPgoHfu	493
-民勤	Hti AkrKdiMvuSle	362
+民勤	Hti NfiZoSle	362
 闽清	QlrGje HsuMvuCu	458
 民权	Hti TlrBu	541
 岷县	MgiHti SyeBkr	438
@@ -2783,7 +2783,7 @@ use_preset_vocabulary: false
 银海	QjrFhe HsuKfeDke	447
 印江	JsuLeLgi HsuJti	399
 印台	JsuLeLgi BkrKdi	341
-鄞州	AkrKdiMvuLw DywDyw	477
+鄞州	NfiZoLw DywDyw	477
 银州	QjrFhe DywDyw	313
 应城	FkrHsuLe PsuKeXi	368
 英德	ClrDjrYdi FhwAkwAheHdu	495
@@ -3756,7 +3756,7 @@ use_preset_vocabulary: false
 崔庄镇	MgiHqo FkrPsu QjrAkwDkwJdo	210
 措美县	KsuAkrVo ToYdi SyeBkr	112
 错那市	QjrAkrVo XiKsuLw JvuJfi	1
-措勤县	KsuAkrVo AkrKdiMvuSle SyeBkr	112
+措勤县	KsuAkrVo NfiZoSle SyeBkr	112
 大安区	Ydi GkeGle PgoSo	236
 大安市	Ydi GkeGle JvuJfi	390
 大安乡	Ydi GkeGle Dnw	307
@@ -7003,7 +7003,7 @@ use_preset_vocabulary: false
 民丰县	Hti Mvu SyeBkr	146
 闵行区	QlrXo Dyr PgoSo	260
 闽侯县	QlrGje JoPgoHfu SyeBkr	231
-民勤县	Hti AkrKdiMvuSle SyeBkr	163
+民勤县	Hti NfiZoSle SyeBkr	163
 闽清县	QlrGje HsuMvuCu SyeBkr	212
 民权县	Hti TlrBu SyeBkr	185
 民俗村	Hti JoFmw TlrJfo	44
@@ -9498,7 +9498,7 @@ use_preset_vocabulary: false
 银海区	QjrFhe HsuKfeDke PgoSo	164
 殷家堡	ZkrAlrXiLdu GkeDne JoKdiTlrPsu	126
 印台区	JsuLeLgi BkrKdi PgoSo	146
-鄞州区	AkrKdiMvuLw DywDyw PgoSo	287
+鄞州区	NfiZoLw DywDyw PgoSo	287
 银州区	QjrFhe DywDyw PgoSo	138
 应城市	FkrHsuLe PsuKeXi JvuJfi	166
 英德市	ClrDjrYdi FhwAkwAheHdu JvuJfi	194
@@ -30001,7 +30001,7 @@ use_preset_vocabulary: false
 芹菜沟村	ClrKfo ClrHoTlr HsuSliBkr TlrJfo	1
 芹菜洋村	ClrKfo ClrHoTlr HsuTo TlrJfo	1
 琴蒂纳镇	GuGuCjoXi ClrJsiGkeJfi TkwDjrAu QjrAkwDkwJdo	92
-勤丰新村	AkrKdiMvuSle Mvu JsiTlrKfo TlrJfo	1
+勤丰新村	NfiZoSle Mvu JsiTlrKfo TlrJfo	1
 秦圪垯村	MvuNrMsu PsuKfeJr PsuYdiNdu TlrJfo	1
 秦各庄村	MvuNrMsu Vyw FkrPsu TlrJfo	1
 秦姑庵村	MvuNrMsu GleSkr FkrYdiVoXi TlrJfo	1
@@ -30054,7 +30054,7 @@ use_preset_vocabulary: false
 秦团庄乡	MvuNrMsu ZeAkwSi FkrPsu Dnw	77
 秦王庄村	MvuNrMsu Gu FkrPsu TlrJfo	1
 秦武姚村	MvuNrMsu LeQoDi GleLrGhwGhw TlrJfo	1
-勤业六村	AkrKdiMvuSle Su Gme TlrJfo	1
+勤业六村	NfiZoSle Su Gme TlrJfo	1
 琴源山庄	GuGuCjoXi HsuZkrDleFlr Mgi FkrPsu	77
 沁园新村	HsuHdu ZeZoLr JsiTlrKfo TlrJfo	187
 秦庄头村	MvuNrMsu FkrPsu GhwYdi TlrJfo	1

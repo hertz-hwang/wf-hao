@@ -1355,7 +1355,7 @@
 小白儿,biàn,CJK-A,U+3778	㝸
 小丿兔,nóu,CJK-A,U+3779	㝹
 䒑小丿,lián,CJK-A,U+377A	㝺
-廿口龶小丿,jǐn,CJK-A,U+377B	㝻
+革二小丿,jǐn,CJK-A,U+377B	㝻
 尢一𬺰,yū,CJK-A,U+377C	㝼
 尢水,chuí,CJK-A,U+377D	㝽
 尢𠂇工,zuǒ,CJK-A,U+377E	㝾
@@ -1641,7 +1641,7 @@
 广丿米田,pān_bān,CJK-A,U+3896	㢖
 广丿大口冂口,qiào,CJK-A,U+3897	㢗
 广䒑〢灬,lián,CJK-A,U+3898	㢘
-广廿口龶力,qín,CJK-A,U+3899	㢙
+广革二力,qín,CJK-A,U+3899	㢙
 广虍田力,lǔ,CJK-A,U+389A	㢚
 广僉,yàn_qiān,CJK-A,U+389B	㢛
 广廿田心,kāng_kàng,CJK-A,U+389C	㢜
@@ -2055,7 +2055,7 @@
 扌十日十𠂉乙,jiàn,CJK-A,U+3A34	㨴
 扌䒑⺝刂刀,jiǎn,CJK-A,U+3A35	㨵
 扌鳥,dǎo,CJK-A,U+3A36	㨶
-扌廿口龶,jìn,CJK-A,U+3A37	㨷
+扌革二,jìn,CJK-A,U+3A37	㨷
 扌宀心丿山,mà,CJK-A,U+3A38	㨸
 扌丰丰彐,huì_xuě,CJK-A,U+3A39	㨹
 扌廿巾入入,miǎn_mén,CJK-A,U+3A3A	㨺
@@ -3103,7 +3103,7 @@
 牜厂生,chǎn_shèng,CJK-A,U+3E4C	㹌
 牜冂古,dí,CJK-A,U+3E4D	㹍
 牜田糸,léi,CJK-A,U+3E4E	㹎
-牜廿口龶,jǐn,CJK-A,U+3E4F	㹏
+牜革二,jǐn,CJK-A,U+3E4F	㹏
 彳人人龰牛,chóng,CJK-A,U+3E50	㹐
 牜弋二貝,sì,CJK-A,U+3E51	㹑
 牜业⺶㇏,pǔ,CJK-A,U+3E52	㹒
@@ -4109,7 +4109,7 @@
 ⺮糹夂⺀,zhōng,CJK-A,U+423A	䈺
 ⺮月甫,pú,CJK-A,U+423B	䈻
 ⺮宀心丿山,miè_mì,CJK-A,U+423C	䈼
-⺮廿口龶,jīn,CJK-A,U+423D	䈽
+⺮革二,jīn,CJK-A,U+423D	䈽
 ⺮木⺌⺝,shāo_shuò,CJK-A,U+423E	䈾
 ⺮冖日六,mì,CJK-A,U+423F	䈿
 ⺮广廿灬,shù,CJK-A,U+4240	䉀
@@ -4317,7 +4317,7 @@
 糹爫缶,yáo,CJK-A,U+430A	䌊
 糹艹亼口,dā,CJK-A,U+430B	䌋
 糹羽白,qì,CJK-A,U+430C	䌌
-糹廿口龶,jǐn,CJK-A,U+430D	䌍
+糹革二,jǐn,CJK-A,U+430D	䌍
 田各糸,lüè,CJK-A,U+430E	䌎
 糹宀心丿山,mì,CJK-A,U+430F	䌏
 糹爫見,mì,CJK-A,U+4310	䌐
@@ -7765,7 +7765,7 @@
 亻口女,lóu_liǔ_lǚ,CJK,U+50C2	僂
 亻艹勹用,bèi,CJK,U+50C3	僃
 亻覀示,piào_biāo,CJK,U+50C4	僄
-亻廿口龶,jǐn_jìn,CJK,U+50C5	僅
+亻革二,jǐn_jìn,CJK,U+50C5	僅
 亻車辶,liàn_lián,CJK,U+50C6	僆
 亻羽人彡,lù_liáo,CJK,U+50C7	僇
 亻日罒又,mán_màn,CJK,U+50C8	僈
@@ -8308,7 +8308,7 @@
 覀示力,piào,CJK,U+52E1	勡
 土八土丸力,shì,CJK,U+52E2	勢
 龶貝力,jī,CJK,U+52E3	勣
-廿口龶力,qín_qí,CJK,U+52E4	勤
+革二力,qín_qí,CJK,U+52E4	勤
 弓口虫力,jiàng_qiǎng_jiǎng,CJK,U+52E5	勥
 巛田木力,chāo_jiǎo_cháo,CJK,U+52E6	勦
 𠂉一隹力,quàn,CJK,U+52E7	勧
@@ -8506,7 +8506,7 @@
 厂十目,diān,CJK,U+53A7	厧
 厂豆寸,chú,CJK,U+53A8	厨
 厂旡,jiù,CJK,U+53A9	厩
-厂廿口龶,jǐn,CJK,U+53AA	厪
+厂革二,jǐn,CJK,U+53AA	厪
 厂敖,áo,CJK,U+53AB	厫
 厂日夂卜口,guǐ,CJK,U+53AC	厬
 厂日月犬,yàn_yā_yǎn_yān_yì,CJK,U+53AD	厭
@@ -9623,7 +9623,7 @@
 土臼儿,nì,CJK,U+5804	堄
 臣又土,jiān,CJK,U+5805	堅
 土隹,duī_zuī,CJK,U+5806	堆
-廿口龶,jǐn_qín_jìn,CJK,U+5807	堇
+革二,jǐn_qín_jìn,CJK,U+5807	堇
 土冂䒑山,gāng,CJK,U+5808	堈
 土⺝,yù,CJK,U+5809	堉
 一土,è_yà,CJK,U+580A	堊
@@ -9760,7 +9760,7 @@
 白匕旡土,xì,CJK,U+588D	墍
 土子阝,guō,CJK,U+588E	墎
 爿寸土,qiǎng,CJK,U+588F	墏
-土廿口龶,jìn_qín,CJK,U+5890	墐
+土革二,jìn_qín,CJK,U+5890	墐
 土冂古,dì,CJK,U+5891	墑
 土冂八口,shāng,CJK,U+5892	墒
 艹日大土,mù,CJK,U+5893	墓
@@ -10356,7 +10356,7 @@
 女冂古,dí,CJK,U+5AE1	嫡
 夫見女,guī_zuī,CJK,U+5AE2	嫢
 女一止一ㄅ灬,yān,CJK,U+5AE3	嫣
-女廿口龶,jǐn_jìn,CJK,U+5AE4	嫤
+女革二,jǐn_jìn,CJK,U+5AE4	嫤
 女𣄼寸,zhuān_tuán,CJK,U+5AE5	嫥
 女巾,cháng,CJK,U+5AE6	嫦
 女龶貝,zé_cè,CJK,U+5AE7	嫧
@@ -11361,7 +11361,7 @@
 广頁,qǐng_qìng_qīng,CJK,U+5ECE	廎
 广白匕殳,jiù,CJK,U+5ECF	廏
 广旡,jiù,CJK,U+5ED0	廐
-广廿口龶,jǐn_qín,CJK,U+5ED1	廑
+广革二,jǐn_qín,CJK,U+5ED1	廑
 广敖,áo,CJK,U+5ED2	廒
 广子阝,kuò,CJK,U+5ED3	廓
 广口女,lóu,CJK,U+5ED4	廔
@@ -11511,8 +11511,8 @@
 ⺆亠彡,tóng,CJK,U+5F64	彤
 文厂彡,yàn,CJK,U+5F65	彥
 厂彡,yàn_pán,CJK,U+5F66	彦
-弋口㇀彡,yù,CJK,U+5F67	彧
 戈口㇀𰀪,yù,CJK,U+5F67	彧
+弋口㇀彡,yù,CJK,U+5F67	彧
 一彡,chī,CJK,U+5F68	彨
 爫木彡,cǎi,CJK,U+5F69	彩
 虎彡,biāo,CJK,U+5F6A	彪
@@ -12029,7 +12029,7 @@
 忄車辶,lián,CJK,U+6169	慩
 忄匚口吅,òu_ōu,CJK,U+616A	慪
 彳人人龰心,sǒng,CJK,U+616B	慫
-忄廿口龶,qín_jìn_jǐn,CJK,U+616C	慬
+忄革二,qín_jìn_jǐn,CJK,U+616C	慬
 未丷犬心,yìn,CJK,U+616D	慭
 虍田心,lǜ_lǘ,CJK,U+616E	慮
 忄𠂉日一勹𰀪,shāng,CJK,U+616F	慯
@@ -12116,8 +12116,8 @@
 忄亼囗⺌日,wèi,CJK,U+61C0	懀
 忄罒一口𧘇,xuān_huān,CJK,U+61C1	懁
 忄艹千里,dǒng,CJK,U+61C2	懂
-廿口龶力心,qín,CJK,U+61C3	懃
-忄廿口龶力,qín,CJK,U+61C4	懄
+革二力心,qín,CJK,U+61C3	懃
+忄革二力,qín,CJK,U+61C4	懄
 忄虍豕,jù,CJK,U+61C5	懅
 忄口吅木,cǎo_sāo_sào,CJK,U+61C6	懆
 豸艮心,kěn,CJK,U+61C7	懇
@@ -13124,7 +13124,7 @@
 立木斤,xīn,CJK,U+65B0	新
 耂日斤,zhuó,CJK,U+65B1	斱
 斤,zhuó,CJK,U+65B2	斲
-廿口龶斤,qín_jǐn,CJK,U+65B3	斳
+革二斤,qín_jǐn,CJK,U+65B3	斳
 米夕㐄斤,lín,CJK,U+65B4	斴
 卯一斤,zhuó,CJK,U+65B5	斵
 斤罒勹虫,chù,CJK,U+65B6	斶
@@ -14224,7 +14224,7 @@
 夫見木,guī,CJK,U+69FC	槼
 木一曲日,cáo_zāo,CJK,U+69FD	槽
 木日罒又,màn_wàn_mán,CJK,U+69FE	槾
-木廿口龶,jǐn_qín,CJK,U+69FF	槿
+木革二,jǐn_qín,CJK,U+69FF	槿
 木冂古,dí_zhí_zhé_dī,CJK,U+6A00	樀
 木㇏臼,zhuāng_chōng,CJK,U+6A01	樁
 白幺幺木,lè_yuè_yào_luò_liáo,CJK,U+6A02	樂
@@ -14560,7 +14560,7 @@
 可可欠,gē,CJK,U+6B4C	歌
 烏欠,wū_yāng,CJK,U+6B4D	歍
 廿口夫欠,tàn,CJK,U+6B4E	歎
-廿口龶欠,jìn_qūn,CJK,U+6B4F	歏
+革二欠,jìn_qūn,CJK,U+6B4F	歏
 匚口吅欠,ōu_ǒu,CJK,U+6B50	歐
 虍丿丷𬺰欠,hū,CJK,U+6B51	歑
 冂古欠,tì_xiāo,CJK,U+6B52	歒
@@ -14644,7 +14644,7 @@
 歹自犬,chòu,CJK,U+6BA0	殠
 歹宀,bìn,CJK,U+6BA1	殡
 歹冖巾,tì,CJK,U+6BA2	殢
-歹廿口龶,jìn,CJK,U+6BA3	殣
+歹革二,jìn,CJK,U+6BA3	殣
 歹𠂉日一勹𰀪,shāng,CJK,U+6BA4	殤
 歹宀一由八,yín,CJK,U+6BA5	殥
 歹鳥,diāo,CJK,U+6BA6	殦
@@ -15517,7 +15517,7 @@
 氵鹿,lù,CJK,U+6F09	漉
 氵口女,lóu_lǚ_lǒu,CJK,U+6F0A	漊
 氵阝夂一生,lóng,CJK,U+6F0B	漋
-氵廿口龶,jǐn,CJK,U+6F0C	漌
+氵革二,jǐn,CJK,U+6F0C	漌
 氵囗戈口一,guó,CJK,U+6F0D	漍
 氵彳人人龰,cóng_sǒng,CJK,U+6F0E	漎
 氵尸雨,lòu_lóu,CJK,U+6F0F	漏
@@ -16911,7 +16911,7 @@
 王毌貝,kūn,CJK,U+747B	瑻
 王𣄼寸,zhuān,CJK,U+747C	瑼
 王彳人人龰,cōng,CJK,U+747D	瑽
-王廿口龶,jǐn_jìn,CJK,U+747E	瑾
+王革二,jǐn_jìn,CJK,U+747E	瑾
 匚矢殳王丶,yī,CJK,U+747F	瑿
 王山隹,cuǐ,CJK,U+7480	璀
 王丿心,cōng,CJK,U+7481	璁
@@ -17358,7 +17358,7 @@
 疒尸雨,lòu,CJK,U+763A	瘺
 疒口女,lòu_lǘ,CJK,U+763B	瘻
 疒艹日大,mò,CJK,U+763C	瘼
-疒廿口龶,qín,CJK,U+763D	瘽
+疒革二,qín,CJK,U+763D	瘽
 疒阝⺈彐心,yǐn,CJK,U+763E	瘾
 疒贝贝女,yǐng,CJK,U+763F	瘿
 疒黄,huáng,CJK,U+7640	癀
@@ -21124,7 +21124,7 @@
 艹彳止龰,xǐ,CJK,U+84F0	蓰
 艹氵䒑廾,píng,CJK,U+84F1	蓱
 艹匚口吅,qiū_ōu_xū_fū,CJK,U+84F2	蓲
-艹廿口龶,jǐn,CJK,U+84F3	蓳
+艹革二,jǐn,CJK,U+84F3	蓳
 艹一田寸,chún_tuán,CJK,U+84F4	蓴
 艹扌一龰,jié,CJK,U+84F5	蓵
 艹口隹,wéi,CJK,U+84F6	蓶
@@ -21837,7 +21837,7 @@
 虫車斤,jiàn_chán,CJK,U+87B9	螹
 虫田糸,luó,CJK,U+87BA	螺
 虫口女,lóu,CJK,U+87BB	螻
-虫廿口龶,qǐn,CJK,U+87BC	螼
+虫革二,qǐn,CJK,U+87BC	螼
 夂⺀虫虫,zhōng,CJK,U+87BD	螽
 虫宀一由八,yǐn_yín,CJK,U+87BE	螾
 爿寸虫,jiāng,CJK,U+87BF	螿
@@ -22339,7 +22339,7 @@
 井王冂見,gòu,CJK,U+89AF	覯
 虍且見,qū_qù,CJK,U+89B0	覰
 車斤見,zhàn_zhān,CJK,U+89B1	覱
-廿口龶見,jìn,CJK,U+89B2	覲
+革二見,jìn,CJK,U+89B2	覲
 𠂉一隹見,guān,CJK,U+89B3	観
 癶豆見,dēng,CJK,U+89B4	覴
 門月見,jiàn_biǎn,CJK,U+89B5	覵
@@ -22369,7 +22369,7 @@
 𠕁见,tiǎn,CJK,U+89CD	觍
 亼⺝刂见,yú,CJK,U+89CE	觎
 井王冂见,gòu,CJK,U+89CF	觏
-廿口龶见,jìn,CJK,U+89D0	觐
+革二见,jìn,CJK,U+89D0	觐
 虍业见,qù_qū,CJK,U+89D1	觑
 ⺈用,jiǎo_jué_lù_gǔ,CJK,U+89D2	角
 ⺈用丩,qiú,CJK,U+89D3	觓
@@ -22730,7 +22730,7 @@
 言广廿灬,zhuó_shù_zhē,CJK,U+8B36	謶
 敖言,áo_ào,CJK,U+8B37	謷
 言敖,áo,CJK,U+8B38	謸
-言廿口龶,jǐn,CJK,U+8B39	謹
+言革二,jǐn,CJK,U+8B39	謹
 土丸言,zhé,CJK,U+8B3A	謺
 言禾夕夕,yí_chí,CJK,U+8B3B	謻
 言虍丿丷𬺰,hū_xiāo,CJK,U+8B3C	謼
@@ -22969,7 +22969,7 @@
 讠皿,shì,CJK,U+8C25	谥
 讠䒑,qiān,CJK,U+8C26	谦
 讠心丿皿,mì,CJK,U+8C27	谧
-讠廿口龶,jǐn,CJK,U+8C28	谨
+讠革二,jǐn,CJK,U+8C28	谨
 讠日罒又,mán_màn,CJK,U+8C29	谩
 讠冂古,zhé,CJK,U+8C2A	谪
 讠䒑⺝刂刀,jiǎn,CJK,U+8C2B	谫
@@ -24239,7 +24239,7 @@
 巛田木阝,cháo,CJK,U+911B	鄛
 鹿阝,fū_lù,CJK,U+911C	鄜
 羽人彡阝,liǎo,CJK,U+911D	鄝
-廿口龶阝,yín,CJK,U+911E	鄞
+革二阝,yín,CJK,U+911E	鄞
 𣄼寸阝,zhuān,CJK,U+911F	鄟
 ⻗二ㄅ阝,hù,CJK,U+9120	鄠
 木阝,qiāo,CJK,U+9121	鄡
@@ -26330,7 +26330,7 @@
 飠田艹,bì,CJK,U+9946	饆
 飠匚口吅,yù,CJK,U+9947	饇
 飠⺶ヿ土,xiū,CJK,U+9948	饈
-飠廿口龶,jǐn,CJK,U+9949	饉
+飠革二,jǐn,CJK,U+9949	饉
 飠龷⺝攵,sǎn,CJK,U+994A	饊
 飠虫貝,kuì_tuí,CJK,U+994B	饋
 飠巳巳龷八,zhuàn_xuǎn,CJK,U+994C	饌
@@ -26402,7 +26402,7 @@
 饣甫寸,bó,CJK,U+998E	馎
 饣卯田,liú_liù,CJK,U+998F	馏
 饣⺶ヿ土,xiū,CJK,U+9990	馐
-饣廿口龶,jǐn,CJK,U+9991	馑
+饣革二,jǐn,CJK,U+9991	馑
 饣日罒又,mán,CJK,U+9992	馒
 饣龷⺝攵,sǎn,CJK,U+9993	馓
 饣巳巳龷八,zhuàn,CJK,U+9994	馔
@@ -26570,7 +26570,7 @@
 馬勹勹,zōu_zhū_zhòu_qū,CJK,U+9A36	騶
 馬又丶虫,sāo_sǎo_xiāo,CJK,U+9A37	騷
 馬户羽,shàn,CJK,U+9A38	騸
-馬廿口龶,qí,CJK,U+9A39	騹
+馬革二,qí,CJK,U+9A39	騹
 土丸馬,zhì_chì,CJK,U+9A3A	騺
 馬大乂乂乂乂,shuāng,CJK,U+9A3B	騻
 馬鹿,lù,CJK,U+9A3C	騼
@@ -28357,7 +28357,7 @@
 亻八囗⺌日,,兼容文字,U+FA31	僧
 刀口儿,,兼容文字,U+FA32	免
 儿力,,兼容文字,U+FA33	勉
-廿口龶力,,兼容文字,U+FA34	勤
+革二力,,兼容文字,U+FA34	勤
 白丿十,,兼容文字,U+FA35	卑
 口日勹亾,,兼容文字,U+FA36	喝
 口廿口夫,,兼容文字,U+FA37	嘆
@@ -28404,7 +28404,7 @@
 衤日勹亾,,兼容文字,U+FA60	褐
 ⺬見,,兼容文字,U+FA61	視
 言日勹亾,,兼容文字,U+FA62	謁
-言廿口龶,,兼容文字,U+FA63	謹
+言革二,,兼容文字,U+FA63	謹
 宀一貝,,兼容文字,U+FA64	賓
 貝八囗⺌日,,兼容文字,U+FA65	贈
 辶,,兼容文字,U+FA66	辶
@@ -30391,8 +30391,8 @@
 井王刂,,CJK-B,U+20746	𠝆
 广勹巳刂,,CJK-B,U+20747	𠝇
 ⺇,,CJK-B,U+20748	𠝈
-⺃彡刂,,CJK-B,U+20749	𠝉
 山儿彡刂,,CJK-B,U+20749	𠝉
+⺃彡刂,,CJK-B,U+20749	𠝉
 𠂇又一廾刂,,CJK-B,U+2074A	𠝊
 尸示刂,,CJK-B,U+2074B	𠝋
 龴一氺刂,,CJK-B,U+2074C	𠝌
@@ -30497,7 +30497,7 @@
 大乂乂乂乂刂,chuǎng,CJK-B,U+207AE	𠞮
 彐刂,suǒ,CJK-B,U+207AF	𠞯
 巛田木刀,jiǎo,CJK-B,U+207B0	𠞰
-廿口龶刂,jìn,CJK-B,U+207B1	𠞱
+革二刂,jìn,CJK-B,U+207B1	𠞱
 未攴厂刀,,CJK-B,U+207B2	𠞲
 䒑月月刂,,CJK-B,U+207B3	𠞳
 人口刀丶,,CJK-B,U+207B4	𠞴
@@ -31267,7 +31267,7 @@
 厂罒土,,CJK-B,U+20AAF	𠪯
 厂白水心,,CJK-B,U+20AB0	𠪰
 厂禾禾乚丶丶,,CJK-B,U+20AB1	𠪱
-厂廿口龶力,,CJK-B,U+20AB2	𠪲
+厂革二力,,CJK-B,U+20AB2	𠪲
 厂口〢㇂,,CJK-B,U+20AB3	𠪳
 厂木木疋,,CJK-B,U+20AB4	𠪴
 厂龷千里,,CJK-B,U+20AB5	𠪵
@@ -31592,8 +31592,8 @@
 口月,yuè,CJK-B,U+20BF2	𠯲
 勹𰀪口,hù_wěn,CJK-B,U+20BF3	𠯳
 口亠卜,biàn,CJK-B,U+20BF4	𠯴
-口八,,CJK-B,U+20BF5	𠯵
 口ヿ,,CJK-B,U+20BF5	𠯵
+口八,,CJK-B,U+20BF5	𠯵
 己𠃌口,,CJK-B,U+20BF6	𠯶
 口乃厶,réng,CJK-B,U+20BF7	𠯷
 口厂丁,,CJK-B,U+20BF8	𠯸
@@ -32348,7 +32348,7 @@
 口巛田木,zhào,CJK-B,U+20EE5	𠻥
 口丿龱儿夂,chuǎ,CJK-B,U+20EE6	𠻦
 口木⺧口,gǔ,CJK-B,U+20EE7	𠻧
-口廿口龶,qǐn,CJK-B,U+20EE8	𠻨
+口革二,qǐn,CJK-B,U+20EE8	𠻨
 口穴儿冫,,CJK-B,U+20EE9	𠻩
 口氵火火,tán,CJK-B,U+20EEA	𠻪
 口言心,fèn,CJK-B,U+20EEB	𠻫
@@ -32663,7 +32663,7 @@
 口亻龷丿用,,CJK-B,U+21020	𡀠
 口氵弓冫弓冫,,CJK-B,U+21021	𡀡
 口山高,,CJK-B,U+21022	𡀢
-口廿口龶力,,CJK-B,U+21023	𡀣
+口革二力,,CJK-B,U+21023	𡀣
 ⺮口寸,,CJK-B,U+21024	𡀤
 口艹白巴,,CJK-B,U+21025	𡀥
 口氵日皿,,CJK-B,U+21026	𡀦
@@ -32800,7 +32800,7 @@
 口而大耳,liè,CJK-B,U+210A9	𡂩
 口广廿灬辶,,CJK-B,U+210AA	𡂪
 口艹夂丰辶,péng,CJK-B,U+210AB	𡂫
-丿口廿口龶,,CJK-B,U+210AC	𡂬
+丿口革二,,CJK-B,U+210AC	𡂬
 口广廿人人辶,zhē,CJK-B,U+210AD	𡂭
 口耒田⽱,,CJK-B,U+210AE	𡂮
 文口丶月,,CJK-B,U+210AF	𡂯
@@ -32946,7 +32946,7 @@
 士冖豆二欠口,yì,CJK-B,U+2113B	𡄻
 口⺌日小虎,,CJK-B,U+2113C	𡄼
 口氵宀臼勹灬,,CJK-B,U+2113D	𡄽
-口言廿口龶,,CJK-B,U+2113E	𡄾
+口言革二,,CJK-B,U+2113E	𡄾
 吅一由井一𧘇,,CJK-B,U+2113F	𡄿
 虫糹糹口,,CJK-B,U+21140	𡅀
 口亠{齊字腰}田木,,CJK-B,U+21141	𡅁
@@ -33004,7 +33004,7 @@
 口丿米罒土,shì,CJK-B,U+21175	𡅵
 口宀井馬,jiǎn,CJK-B,U+21176	𡅶
 口言⺷丿扌戈,,CJK-B,U+21177	𡅷
-壴口廿口龶,,CJK-B,U+21178	𡅸
+壴口革二,,CJK-B,U+21178	𡅸
 口小亠囗口日一,zhān,CJK-B,U+21179	𡅹
 口⻗口耳戈,jí,CJK-B,U+2117A	𡅺
 吅卝見丶吅,huàn,CJK-B,U+2117B	𡅻
@@ -35605,8 +35605,8 @@
 宀丰口小丿,zhì,CJK-B,U+21B9E	𡮞
 糸糸,,CJK-B,U+21B9F	𡮟
 ⺈小目,,CJK-B,U+21BA0	𡮠
-小小丨⺝一儿,,CJK-B,U+21BA1	𡮡
 小小丨且儿,,CJK-B,U+21BA1	𡮡
+小小丨⺝一儿,,CJK-B,U+21BA1	𡮡
 亠日,,CJK-B,U+21BA2	𡮢
 小門𬺰丿,,CJK-B,U+21BA3	𡮣
 門𬺰丿小,,CJK-B,U+21BA4	𡮤
@@ -37745,11 +37745,11 @@
 弓亠幺小,,CJK-B,U+223F8	𢏸
 弓宀疋,,CJK-B,U+223F9	𢏹
 弓一冂人弓,,CJK-B,U+223FA	𢏺
-⺈コㄅ㇀弓冫,,CJK-B,U+223FB	𢏻
 ⺈コㄅ㇀弓𰀪,,CJK-B,U+223FB	𢏻
+⺈コㄅ㇀弓冫,,CJK-B,U+223FB	𢏻
 弓廿木,,CJK-B,U+223FC	𢏼
-{反弓}⺀弓冫,,CJK-B,U+223FD	𢏽
 一㇞一レ⺀弓𰀪,,CJK-B,U+223FD	𢏽
+{反弓}⺀弓冫,,CJK-B,U+223FD	𢏽
 弓止𧘇,,CJK-B,U+223FE	𢏾
 弓宀夕㔾,,CJK-B,U+223FF	𢏿
 弓弓一囗人,,CJK-B,U+22400	𢐀
@@ -38112,8 +38112,8 @@
 彳走月,,CJK-B,U+22564	𢕤
 行士示,,CJK-B,U+22565	𢕥
 彳丨夂丶艮,xiū,CJK-B,U+22566	𢕦
-彳一一几攵,,CJK-B,U+22567	𢕧
 彳ㅌ一几攵,,CJK-B,U+22567	𢕧
+彳一一几攵,,CJK-B,U+22567	𢕧
 彳白冖方,pián,CJK-B,U+22568	𢕨
 彳彳人人龰,,CJK-B,U+22569	𢕩
 彳丿大口冂口,jiào,CJK-B,U+2256A	𢕪
@@ -39132,7 +39132,7 @@
 忄日屮凵大米,,CJK-B,U+2295F	𢥟
 忄隹隹又,,CJK-B,U+22960	𢥠
 忄丿龱一火,,CJK-B,U+22961	𢥡
-忄言廿口龶,,CJK-B,U+22962	𢥢
+忄言革二,,CJK-B,U+22962	𢥢
 忄⺮門月,,CJK-B,U+22963	𢥣
 丶日頁心,,CJK-B,U+22964	𢥤
 忄言火火火,,CJK-B,U+22965	𢥥
@@ -42683,7 +42683,7 @@
 又又又木戊𠃌,qiāo,CJK-B,U+2373D	𣜽
 未氵耂日,,CJK-B,U+2373E	𣜾
 木艹廿㇗木,,CJK-B,U+2373F	𣜿
-木廿口龶力,,CJK-B,U+23740	𣝀
+木革二力,,CJK-B,U+23740	𣝀
 木⺮白丿十,pái_bēi,CJK-B,U+23741	𣝁
 木云鬼,hún,CJK-B,U+23742	𣝂
 木⺮穴工,,CJK-B,U+23743	𣝃
@@ -45229,7 +45229,7 @@
 竜氵龶⺝,,CJK-B,U+2412F	𤄯
 氵厂彡頁,,CJK-B,U+24130	𤄰
 氵金十目,,CJK-B,U+24131	𤄱
-氵言廿口龶,,CJK-B,U+24132	𤄲
+氵言革二,,CJK-B,U+24132	𤄲
 ⺧儿⺧儿⺧儿水,,CJK-B,U+24133	𤄳
 氵夫囗八冂貝,,CJK-B,U+24134	𤄴
 氵夫夫鬲,,CJK-B,U+24135	𤄵
@@ -47395,8 +47395,8 @@
 王㇂丿,,CJK-B,U+249A5	𤦥
 王八刀王,bān,CJK-B,U+249A6	𤦦
 王艹之,,CJK-B,U+249A7	𤦧
-一井王丶,,CJK-B,U+249A8	𤦨
 井王丶,,CJK-B,U+249A8	𤦨
+一井王丶,,CJK-B,U+249A8	𤦨
 王一,,CJK-B,U+249A9	𤦩
 王木日,dōng,CJK-B,U+249AA	𤦪
 王土儿夂,,CJK-B,U+249AB	𤦫
@@ -47990,7 +47990,7 @@
 夕㐄生,huáng,CJK-B,U+24BF7	𤯷
 生⺮月力,yìn,CJK-B,U+24BF8	𤯸
 ⺷豕生,,CJK-B,U+24BF9	𤯹
-生廿口龶力,,CJK-B,U+24BFA	𤯺
+生革二力,,CJK-B,U+24BFA	𤯺
 生艹冖一豕,měng,CJK-B,U+24BFB	𤯻
 冖一豕生,,CJK-B,U+24BFC	𤯼
 弗一冂人攴生,,CJK-B,U+24BFD	𤯽
@@ -49926,7 +49926,7 @@
 予丿冂日亾,,CJK-B,U+25387	𥎇
 予丿夂酉,wù,CJK-B,U+25388	𥎈
 予丿夂貝,,CJK-B,U+25389	𥎉
-予丿廿口龶,qín,CJK-B,U+2538A	𥎊
+予丿革二,qín,CJK-B,U+2538A	𥎊
 予丿丿心,cōng,CJK-B,U+2538B	𥎋
 予丿夂丰辶,,CJK-B,U+2538C	𥎌
 予丿龶貝,zé,CJK-B,U+2538D	𥎍
@@ -50847,8 +50847,8 @@
 示虍田皿,,CJK-B,U+25720	𥜠
 礻⺈小王里,,CJK-B,U+25721	𥜡
 礻广幺幺丿口,,CJK-B,U+25722	𥜢
-示耂弓工工口,,CJK-B,U+25723	𥜣
 礻耂弓工工口,,CJK-B,U+25723	𥜣
+示耂弓工工口,,CJK-B,U+25723	𥜣
 礻乚貝戈戈,,CJK-B,U+25724	𥜤
 礻匕田龷八,yì,CJK-B,U+25725	𥜥
 示一土,nǐ_xiǎn,CJK-B,U+25726	𥜦
@@ -51168,7 +51168,7 @@
 禾大乂乂乂乂,shuǎng,CJK-B,U+25860	𥡠
 艹日大禾,,CJK-B,U+25861	𥡡
 禾亠幺冫十,lǜ,CJK-B,U+25862	𥡢
-禾廿口龶,jùn,CJK-B,U+25863	𥡣
+禾革二,jùn,CJK-B,U+25863	𥡣
 丿木酉灬,jiào,CJK-B,U+25864	𥡤
 禾丿心,,CJK-B,U+25865	𥡥
 禾冂古,tì_dì,CJK-B,U+25866	𥡦
@@ -52441,7 +52441,7 @@
 ⺮音欠,,CJK-B,U+25D57	𥵗
 ⺮日一亻歹刂,,CJK-B,U+25D58	𥵘
 ⺮罒⺊日十,,CJK-B,U+25D59	𥵙
-⺮廿口龶力,,CJK-B,U+25D5A	𥵚
+⺮革二力,,CJK-B,U+25D5A	𥵚
 ⺮曲辰,,CJK-B,U+25D5B	𥵛
 ⺮亻业⺶㇏,pò,CJK-B,U+25D5C	𥵜
 ⺮亽龴頁,lǐng,CJK-B,U+25D5D	𥵝
@@ -56928,7 +56928,7 @@
 艹十日十戈,,CJK-B,U+26EDD	𦻝
 艹⺊冖心丿大,,CJK-B,U+26EDE	𦻞
 艹氵刀口,,CJK-B,U+26EDF	𦻟
-廿口龶,,CJK-B,U+26EE0	𦻠
+革二,,CJK-B,U+26EE0	𦻠
 艹耳又,,CJK-B,U+26EE1	𦻡
 艹至刂,,CJK-B,U+26EE2	𦻢
 艹木人人,,CJK-B,U+26EE3	𦻣
@@ -57330,7 +57330,7 @@
 艹糹風,,CJK-B,U+2706F	𧁯
 艹⺈冂八目攴,,CJK-B,U+27070	𧁰
 艹冂古攵,,CJK-B,U+27071	𧁱
-艹廿口龶斤,,CJK-B,U+27072	𧁲
+艹革二斤,,CJK-B,U+27072	𧁲
 艹甫月巴,,CJK-B,U+27073	𧁳
 艹僉刂,,CJK-B,U+27074	𧁴
 艹扌𠂉卌一灬,,CJK-B,U+27075	𧁵
@@ -57595,7 +57595,7 @@
 艹⺊𱕻日口凵亅,,CJK-B,U+27178	𧅸
 艹土勹魚,,CJK-B,U+27179	𧅹
 艹十口冖吅井一𧘇,nàng,CJK-B,U+2717A	𧅺
-艹廿口龶鳥,,CJK-B,U+2717B	𧅻
+艹革二鳥,,CJK-B,U+2717B	𧅻
 艹禾亠吅井一𧘇,,CJK-B,U+2717C	𧅼
 艹⺊𱕻艹阝𠂇⺝水水,,CJK-B,U+2717D	𧅽
 艹冂一口冖田木,,CJK-B,U+2717E	𧅾
@@ -64241,7 +64241,7 @@
 金艹田⽱,,CJK-B,U+28B6C	𨭬
 金亼龴,,CJK-B,U+28B6D	𨭭
 金戈戈皿,,CJK-B,U+28B6E	𨭮
-金廿口龶力,,CJK-B,U+28B6F	𨭯
+金革二力,,CJK-B,U+28B6F	𨭯
 金耳口丿土,,CJK-B,U+28B70	𨭰
 金十戈里,,CJK-B,U+28B71	𨭱
 金⺊厂日生,,CJK-B,U+28B72	𨭲
@@ -65446,7 +65446,7 @@
 山豆隹,,CJK-B,U+29021	𩀡
 水吕隹,,CJK-B,U+29022	𩀢
 句句隹,wéi,CJK-B,U+29023	𩀣
-廿口龶隹,,CJK-B,U+29024	𩀤
+革二隹,,CJK-B,U+29024	𩀤
 方𠂉矢隹,,CJK-B,U+29025	𩀥
 羽白隹,,CJK-B,U+29026	𩀦
 車斤隹,cán,CJK-B,U+29027	𩀧
@@ -67344,7 +67344,7 @@
 广肀用,chóng,CJK-B,U+2978B	𩞋
 束欠,,CJK-B,U+2978C	𩞌
 束辶,,CJK-B,U+2978D	𩞍
-廿口龶,,CJK-B,U+2978E	𩞎
+革二,,CJK-B,U+2978E	𩞎
 車斤,,CJK-B,U+2978F	𩞏
 彳人人龰,,CJK-B,U+29790	𩞐
 十艹大十,,CJK-B,U+29791	𩞑
@@ -68564,8 +68564,8 @@
 敖鬲,áo,CJK-B,U+29C4F	𩱏
 鬲冂八口,,CJK-B,U+29C50	𩱐
 爿寸鬲,,CJK-B,U+29C51	𩱑
-弓古鬲弓,,CJK-B,U+29C52	𩱒
 弓古丶鬲弓,,CJK-B,U+29C52	𩱒
+弓古鬲弓,,CJK-B,U+29C52	𩱒
 弓耳弓鬲,ěr,CJK-B,U+29C53	𩱓
 厂禾禾鬲,,CJK-B,U+29C54	𩱔
 ⺧儿⺧儿鬲,,CJK-B,U+29C55	𩱕
@@ -68762,7 +68762,7 @@
 鬼广肀用,,CJK-B,U+29D14	𩴔
 車斤鬼,,CJK-B,U+29D15	𩴕
 丷夫目鬼,,CJK-B,U+29D16	𩴖
-鬼廿口龶,,CJK-B,U+29D17	𩴗
+鬼革二,,CJK-B,U+29D17	𩴗
 鬼虍夂几,jù,CJK-B,U+29D18	𩴘
 鬼氵冖八木,yòu,CJK-B,U+29D19	𩴙
 鬼斉小,,CJK-B,U+29D1A	𩴚
@@ -69827,7 +69827,7 @@
 士冖一卯鳥,,CJK-B,U+2A13D	𪄽
 隹人鳥,,CJK-B,U+2A13E	𪄾
 廿口夫鳥,,CJK-B,U+2A13F	𪄿
-廿口龶鳥,,CJK-B,U+2A140	𪅀
+革二鳥,,CJK-B,U+2A140	𪅀
 山宀示鳥,,CJK-B,U+2A141	𪅁
 音十鳥,zhāng,CJK-B,U+2A142	𪅂
 覀示鳥,piǎo_piāo,CJK-B,U+2A143	𪅃
@@ -71139,7 +71139,7 @@
 齒穴至,,CJK-B,U+2A65C	𪙜
 齒爿寸,,CJK-B,U+2A65D	𪙝
 齒文厂生,chǎn,CJK-B,U+2A65E	𪙞
-齒廿口龶,qǐn,CJK-B,U+2A65F	𪙟
+齒革二,qǐn,CJK-B,U+2A65F	𪙟
 敖齒,,CJK-B,U+2A660	𪙠
 齒一曲日,zāo,CJK-B,U+2A661	𪙡
 齒又田一,,CJK-B,U+2A662	𪙢
@@ -76063,7 +76063,7 @@
 厶大亻土土力,,CJK-E,U+2B9BA	𫦺
 田力匕白,,CJK-E,U+2B9BB	𫦻
 羽隹力,,CJK-E,U+2B9BC	𫦼
-廿口龶力生,,CJK-E,U+2B9BD	𫦽
+革二力生,,CJK-E,U+2B9BD	𫦽
 乂乂冖子力,,CJK-E,U+2B9BE	𫦾
 千里力千里力千里力,,CJK-E,U+2B9BF	𫦿
 勹土,,CJK-E,U+2B9C0	𫧀
@@ -76436,8 +76436,8 @@
 ㇗二古八人⺁二㇂,,CJK-E,U+2BB2F	𫬯
 吅冖象,,CJK-E,U+2BB30	𫬰
 口艹田⽱辶,,CJK-E,U+2BB31	𫬱
-吅虍儿吅,,CJK-E,U+2BB32	𫬲
 吅虎吅,,CJK-E,U+2BB32	𫬲
+吅虍儿吅,,CJK-E,U+2BB32	𫬲
 禾𧘇亼口,,CJK-E,U+2BB33	𫬳
 木木冖口,,CJK-E,U+2BB34	𫬴
 口氵亠{齊字腰}二,,CJK-E,U+2BB35	𫬵
@@ -76560,7 +76560,7 @@
 土穴口冂人,,CJK-E,U+2BBAA	𫮪
 土丷夫糸,,CJK-E,U+2BBAB	𫮫
 土弓口虫,jiàng,CJK-E,U+2BBAC	𫮬
-廿口龶可,,CJK-E,U+2BBAD	𫮭
+革二可,,CJK-E,U+2BBAD	𫮭
 土艹田⽱,,CJK-E,U+2BBAE	𫮮
 亻𣄼寸土,,CJK-E,U+2BBAF	𫮯
 土土人人囗,,CJK-E,U+2BBB0	𫮰
@@ -76884,7 +76884,7 @@
 宀女彐冖又,,CJK-E,U+2BCEE	𫳮
 宀丰丰,,CJK-E,U+2BCEF	𫳯
 宀王一氺丶,,CJK-E,U+2BCF0	𫳰
-宀廿口龶,,CJK-E,U+2BCF1	𫳱
+宀革二,,CJK-E,U+2BCF1	𫳱
 宀且糸,,CJK-E,U+2BCF2	𫳲
 宀日辰,,CJK-E,U+2BCF3	𫳳
 宀丿米攵,,CJK-E,U+2BCF4	𫳴
@@ -77252,7 +77252,7 @@
 彳馬,,CJK-E,U+2BE5E	𫹞
 彳口王阝,,CJK-E,U+2BE5F	𫹟
 彳⺮丿大,,CJK-E,U+2BE60	𫹠
-彳廿口龶,,CJK-E,U+2BE61	𫹡
+彳革二,,CJK-E,U+2BE61	𫹡
 彳户口攵,,CJK-E,U+2BE62	𫹢
 彳大丷日小,,CJK-E,U+2BE63	𫹣
 彳业㡀,,CJK-E,U+2BE64	𫹤
@@ -78900,7 +78900,7 @@
 礻一业日,,CJK-E,U+2C4CE	𬓎
 礻隹又,,CJK-E,U+2C4CF	𬓏
 礻乚厶口心,,CJK-E,U+2C4D0	𬓐
-礻廿口龶,,CJK-E,U+2C4D1	𬓑
+礻革二,,CJK-E,U+2C4D1	𬓑
 礻十艹大十,,CJK-E,U+2C4D2	𬓒
 礻乚木艮,,CJK-E,U+2C4D3	𬓓
 礻丿心,,CJK-E,U+2C4D4	𬓔
@@ -78963,7 +78963,7 @@
 穴由廾,,CJK-E,U+2C50D	𬔍
 穴人口,,CJK-E,U+2C50E	𬔎
 穴自犬,,CJK-E,U+2C50F	𬔏
-穴廿口龶,,CJK-E,U+2C510	𬔐
+穴革二,,CJK-E,U+2C510	𬔐
 穴虍丿丷𬺰,,CJK-E,U+2C511	𬔑
 穴氵冖八木,,CJK-E,U+2C512	𬔒
 穴火⺧口,,CJK-E,U+2C513	𬔓
@@ -81001,7 +81001,7 @@
 马丰石,huō,CJK-E,U+2CD03	𬴃
 马日生,,CJK-E,U+2CD04	𬴄
 马冖方,,CJK-E,U+2CD05	𬴅
-马廿口龶,,CJK-E,U+2CD06	𬴆
+马革二,,CJK-E,U+2CD06	𬴆
 马束夫,,CJK-E,U+2CD07	𬴇
 马戊⺊一小,,CJK-E,U+2CD08	𬴈
 马大丷日小,,CJK-E,U+2CD09	𬴉
@@ -81766,7 +81766,7 @@
 亻一也,,CJK-F,U+2D00E	𭀎
 亻疒日月犬,,CJK-F,U+2D00F	𭀏
 人艹隹灬,,CJK-F,U+2D010	𭀐
-亻言廿口龶,,CJK-F,U+2D011	𭀑
+亻言革二,,CJK-F,U+2D011	𭀑
 亻羊言言,,CJK-F,U+2D012	𭀒
 亻臣罒見,,CJK-F,U+2D013	𭀓
 亻尸氺罒勹虫,,CJK-F,U+2D014	𭀔
@@ -82239,8 +82239,8 @@
 臼口,,CJK-F,U+2D1E6	𭇦
 口人⺗,,CJK-F,U+2D1E7	𭇧
 口丿丿不,,CJK-F,U+2D1E8	𭇨
-口丿丨二ㄅ一,,CJK-F,U+2D1E9	𭇩
 口丿亠一ㄅ一,,CJK-F,U+2D1E9	𭇩
+口丿丨二ㄅ一,,CJK-F,U+2D1E9	𭇩
 户又口,,CJK-F,U+2D1EA	𭇪
 口川,,CJK-F,U+2D1EB	𭇫
 口宀子,,CJK-F,U+2D1EC	𭇬
@@ -82765,7 +82765,7 @@
 宀谷又土,,CJK-F,U+2D3F3	𭏳
 土尸耂日,,CJK-F,U+2D3F4	𭏴
 土羽丿冂口,,CJK-F,U+2D3F5	𭏵
-廿口龶力土,,CJK-F,U+2D3F6	𭏶
+革二力土,,CJK-F,U+2D3F6	𭏶
 木彑土,,CJK-F,U+2D3F7	𭏷
 土虫贝辶,,CJK-F,U+2D3F8	𭏸
 土𠂉吅⺇土,,CJK-F,U+2D3F9	𭏹
@@ -82780,7 +82780,7 @@
 月丷夫氺土,,CJK-F,U+2D402	𭐂
 ⺮車㔾土,,CJK-F,U+2D403	𭐃
 土阝𠂇工⺝土,,CJK-F,U+2D404	𭐄
-廿口龶儿,,CJK-F,U+2D405	𭐅
+革二儿,,CJK-F,U+2D405	𭐅
 土土土一儿见,,CJK-F,U+2D406	𭐆
 土禾白小彡,,CJK-F,U+2D407	𭐇
 土{微框}糸,,CJK-F,U+2D408	𭐈
@@ -85240,7 +85240,7 @@
 ⺈用豕灬,,CJK-F,U+2DD9D	𭶝
 宀貝灬,,CJK-F,U+2DD9E	𭶞
 高火火,,CJK-F,U+2DD9F	𭶟
-人丨廿口龶灬,,CJK-F,U+2DDA0	𭶠
+人丨革二灬,,CJK-F,U+2DDA0	𭶠
 弓勹米弓火,,CJK-F,U+2DDA1	𭶡
 艹土丸灬,,CJK-F,U+2DDA2	𭶢
 火卯金刂,,CJK-F,U+2DDA3	𭶣
@@ -85506,8 +85506,8 @@
 革宀女瓦,,CJK-F,U+2DEA7	𭺧
 魚日瓦,,CJK-F,U+2DEA8	𭺨
 貝貝女瓦,,CJK-F,U+2DEA9	𭺩
-ㅠ二,,CJK-F,U+2DEAA	𭺪
 一,,CJK-F,U+2DEAA	𭺪
+ㅠ二,,CJK-F,U+2DEAA	𭺪
 十⺊㇀,,CJK-F,U+2DEAB	𭺫
 甘匕日,,CJK-F,U+2DEAC	𭺬
 甘冖羊,,CJK-F,U+2DEAD	𭺭
@@ -86850,8 +86850,8 @@
 艹白木,,CJK-F,U+2E3E6	𮏦
 艹宀至,,CJK-F,U+2E3E7	𮏧
 艹匚口月,,CJK-F,U+2E3E8	𮏨
-艹丗未,,CJK-F,U+2E3E9	𮏩
 艹廿未,,CJK-F,U+2E3E9	𮏩
+艹丗未,,CJK-F,U+2E3E9	𮏩
 艹亡口日,,CJK-F,U+2E3EA	𮏪
 艹古八一ㄅ,,CJK-F,U+2E3EB	𮏫
 艹牙由,,CJK-F,U+2E3EC	𮏬
@@ -87701,7 +87701,7 @@
 身由一ㄅ,,CJK-F,U+2E737	𮜷
 身日㇂丿丶,,CJK-F,U+2E738	𮜸
 身亽乛口,,CJK-F,U+2E739	𮜹
-身廿口龶力,,CJK-F,U+2E73A	𮜺
+身革二力,,CJK-F,U+2E73A	𮜺
 身曲辰,,CJK-F,U+2E73B	𮜻
 身僉,,CJK-F,U+2E73C	𮜼
 身立木見,,CJK-F,U+2E73D	𮜽
@@ -88386,7 +88386,7 @@
 儿冫革支,,CJK-F,U+2E9E4	𮧤
 革尸龷,,CJK-F,U+2E9E5	𮧥
 革壴口,,CJK-F,U+2E9E6	𮧦
-革廿口龶,,CJK-F,U+2E9E7	𮧧
+革革二,,CJK-F,U+2E9E7	𮧧
 革亻聿廴,,CJK-F,U+2E9E8	𮧨
 革亠乂凵禸,,CJK-F,U+2E9E9	𮧩
 革口吅二ㄅ,,CJK-F,U+2E9EA	𮧪
@@ -88892,8 +88892,8 @@
 兔彐彐乚目,,CJK-F,U+2EBDE	𮯞
 兔目乚目,,CJK-F,U+2EBDF	𮯟
 龠龷日,,CJK-F,U+2EBE0	𮯠
-工丨,,CJK-I,U+2EBF0	𮯰
 ㅠ一,,CJK-I,U+2EBF0	𮯰
+工丨,,CJK-I,U+2EBF0	𮯰
 ⺆亠丶,,CJK-I,U+2EBF1	𮯱
 𠂉七,,CJK-I,U+2EBF2	𮯲
 亠火火火,,CJK-I,U+2EBF3	𮯳
@@ -89349,7 +89349,7 @@
 艹氵宀𣄼一,,CJK-I,U+2EDB5	𮶵
 艹氵䒑,,CJK-I,U+2EDB6	𮶶
 艹氵艹两,,CJK-I,U+2EDB7	𮶷
-艹王廿口龶,,CJK-I,U+2EDB8	𮶸
+艹王革二,,CJK-I,U+2EDB8	𮶸
 艹氵门束丷,,CJK-I,U+2EDB9	𮶹
 虍目,,CJK-I,U+2EDBA	𮶺
 飞虫,,CJK-I,U+2EDBB	𮶻
@@ -89519,8 +89519,8 @@
 丸,,兼容補充,U+2F801	丸
 乁,,兼容補充,U+2F802	乁
 一冂巳一,,兼容補充,U+2F803	𠄢
-亻⺈小,,兼容補充,U+2F804	你
 亻𠂉小,,兼容補充,U+2F804	你
+亻⺈小,,兼容補充,U+2F804	你
 亻𠂉母,,兼容補充,U+2F805	侮
 亻丷口儿,,兼容補充,U+2F806	侻
 亻丿丿干,,兼容補充,U+2F807	倂
@@ -89555,7 +89555,7 @@
 气力,,兼容補充,U+2F824	㔕
 龴田力,,兼容補充,U+2F825	勇
 儿力,,兼容補充,U+2F826	勉
-廿口龶力,,兼容補充,U+2F827	勤
+革二力,,兼容補充,U+2F827	勤
 勹一,,兼容補充,U+2F828	勺
 勹巳,,兼容補充,U+2F829	包
 勹𰀪丶,,兼容補充,U+2F82A	匆
@@ -89941,7 +89941,7 @@
 艹日十,,兼容補充,U+2F9A6	𦳕
 艹⺪木冂,,兼容補充,U+2F9A7	䔫
 艹氵䒑廾,,兼容補充,U+2F9A8	蓱
-艹廿口龶,,兼容補充,U+2F9A9	蓳
+艹革二,,兼容補充,U+2F9A9	蓳
 艹虍日一,,兼容補充,U+2F9AA	蔖
 艹虫虫,,兼容補充,U+2F9AB	𧏊
 艹豕生,,兼容補充,U+2F9AC	蕤
@@ -91383,7 +91383,7 @@
 扌木木疋,,CJK-G,U+3052A	𰔪
 扌一頁,,CJK-G,U+3052B	𰔫
 扌大丷日火,,CJK-G,U+3052C	𰔬
-扌廿口龶力,,CJK-G,U+3052D	𰔭
+扌革二力,,CJK-G,U+3052D	𰔭
 扌月田心,,CJK-G,U+3052E	𰔮
 扌夕目大丷,,CJK-G,U+3052F	𰔯
 手白冫木,,CJK-G,U+30530	𰔰
@@ -92058,7 +92058,7 @@
 火八乂夕夕,,CJK-G,U+307CD	𰟍
 火火龷八,,CJK-G,U+307CE	𰟎
 火皿,,CJK-G,U+307CF	𰟏
-火廿口龶,,CJK-G,U+307D0	𰟐
+火革二,,CJK-G,U+307D0	𰟐
 龷八ㄅ三灬,,CJK-G,U+307D1	𰟑
 火西王丶,,CJK-G,U+307D2	𰟒
 火廿巾入入,,CJK-G,U+307D3	𰟓
@@ -95024,8 +95024,8 @@
 廿口夫不一,,CJK-H,U+31368	𱍨
 ⺊一⻗而,,CJK-H,U+31369	𱍩
 一⺁彐𠃌殳,,CJK-H,U+3136A	𱍪
-丨㇎一,,CJK-H,U+3136B	𱍫
 ㇗㇎,,CJK-H,U+3136B	𱍫
+丨㇎一,,CJK-H,U+3136B	𱍫
 リ人,,CJK-H,U+3136C	𱍬
 リ艮,,CJK-H,U+3136D	𱍭
 リ儿,,CJK-H,U+3136E	𱍮
@@ -97569,8 +97569,8 @@
 日月示,,CJK-H,U+31D57	𱵗
 礻白一⺀,,CJK-H,U+31D58	𱵘
 礻爫子乚,,CJK-H,U+31D59	𱵙
-礻彐乚ヿ彐,,CJK-H,U+31D5A	𱵚
 𱍐ㅌ乚ヿ彐,,CJK-H,U+31D5A	𱵚
+礻彐乚ヿ彐,,CJK-H,U+31D5A	𱵚
 礻己土,,CJK-H,U+31D5B	𱵛
 ⺊一一大人示,,CJK-H,U+31D5C	𱵜
 礻一,,CJK-H,U+31D5D	𱵝
@@ -99337,8 +99337,8 @@
 亻⺷大,,CJK-J,U+3243E	𲐾
 亻广廿又,,CJK-J,U+3243F	𲐿
 亻力口木,,CJK-J,U+32440	𲑀
-亻弋口㇀彡,,CJK-J,U+32441	𲑁
 亻戈口㇀𰀪,,CJK-J,U+32441	𲑁
+亻弋口㇀彡,,CJK-J,U+32441	𲑁
 亻戸衣,,CJK-J,U+32442	𲑂
 亻丨夂一生,,CJK-J,U+32443	𲑃
 亻日一一止,,CJK-J,U+32444	𲑄
@@ -99357,7 +99357,7 @@
 亻阝夂一生,,CJK-J,U+32451	𲑑
 亻田一,,CJK-J,U+32452	𲑒
 亻⻗田,,CJK-J,U+32453	𲑓
-亻廿口龶力,,CJK-J,U+32454	𲑔
+亻革二力,,CJK-J,U+32454	𲑔
 亻罒土,,CJK-J,U+32455	𲑕
 亻衣冂八口,,CJK-J,U+32456	𲑖
 亻䒑辶,,CJK-J,U+32457	𲑗
@@ -99926,7 +99926,7 @@
 土艹千里,,CJK-J,U+3268A	𲚊
 土厂黑,,CJK-J,U+3268B	𲚋
 豕艮土,,CJK-J,U+3268C	𲚌
-土厂廿口龶,,CJK-J,U+3268D	𲚍
+土厂革二,,CJK-J,U+3268D	𲚍
 十冂人人土,,CJK-J,U+3268E	𲚎
 土止匕⺈用,,CJK-J,U+3268F	𲚏
 土隹,,CJK-J,U+32690	𲚐
@@ -100919,8 +100919,8 @@
 氵糹工,,CJK-J,U+32A6B	𲩫
 氵力口木,,CJK-J,U+32A6C	𲩬
 氵飛,,CJK-J,U+32A6D	𲩭
-氵戈口㇀𰀪,,CJK-J,U+32A6E	𲩮
 氵弋口㇀彡,,CJK-J,U+32A6E	𲩮
+氵戈口㇀𰀪,,CJK-J,U+32A6E	𲩮
 氵艹土寸,,CJK-J,U+32A6F	𲩯
 艹⺷水,,CJK-J,U+32A70	𲩰
 氵丿㠯辶,,CJK-J,U+32A71	𲩱
@@ -101439,7 +101439,7 @@
 疒阝丷豕,,CJK-J,U+32C72	𲱲
 疒壴支,,CJK-J,U+32C73	𲱳
 疒土鬼,,CJK-J,U+32C74	𲱴
-疒廿口龶力,,CJK-J,U+32C75	𲱵
+疒革二力,,CJK-J,U+32C75	𲱵
 疒日音,,CJK-J,U+32C76	𲱶
 疒酉厶八夂,,CJK-J,U+32C77	𲱷
 疒火火冖木,,CJK-J,U+32C78	𲱸
@@ -102008,7 +102008,7 @@
 冂人人彳走,,CJK-J,U+32EAB	𲺫
 户⺝龷八,,CJK-J,U+32EAC	𲺬
 月木木女,,CJK-J,U+32EAD	𲺭
-月廿口龶,,CJK-J,U+32EAE	𲺮
+月革二,,CJK-J,U+32EAE	𲺮
 月木⺌⺝,,CJK-J,U+32EAF	𲺯
 户⺝𣄼,,CJK-J,U+32EB0	𲺰
 月日一,,CJK-J,U+32EB1	𲺱
@@ -102124,8 +102124,8 @@
 艹古甘,,CJK-J,U+32F1F	𲼟
 艹門人,,CJK-J,U+32F20	𲼠
 艹目木,,CJK-J,U+32F21	𲼡
-艹犭尤彡,,CJK-J,U+32F22	𲼢
 艹犭龙𰀪,,CJK-J,U+32F22	𲼢
+艹犭尤彡,,CJK-J,U+32F22	𲼢
 艹门丶艮,,CJK-J,U+32F23	𲼣
 艹亠手,,CJK-J,U+32F24	𲼤
 艹广車,,CJK-J,U+32F25	𲼥
@@ -102341,7 +102341,7 @@
 虫尸子子子,,CJK-J,U+32FF7	𲿷
 虫女甘木,,CJK-J,U+32FF8	𲿸
 虫束⺈贝,,CJK-J,U+32FF9	𲿹
-虫廿口龶力,,CJK-J,U+32FFA	𲿺
+虫革二力,,CJK-J,U+32FFA	𲿺
 止页虫,,CJK-J,U+32FFB	𲿻
 虫罒⺊日十,,CJK-J,U+32FFC	𲿼
 虫月壴,,CJK-J,U+32FFD	𲿽
@@ -102773,7 +102773,7 @@
 石夂㐄金,,CJK-J,U+331A7	𳆧
 釒夫見,,CJK-J,U+331A8	𳆨
 釒石𠂇火,,CJK-J,U+331A9	𳆩
-釒廿口龶,,CJK-J,U+331AA	𳆪
+釒革二,,CJK-J,U+331AA	𳆪
 王金,,CJK-J,U+331AB	𳆫
 釒罒日十,,CJK-J,U+331AC	𳆬
 釒山侖,,CJK-J,U+331AD	𳆭

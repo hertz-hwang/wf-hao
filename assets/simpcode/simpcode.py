@@ -1,4 +1,4 @@
-#by单单
+#by 荒
 import time
 import re
 import os
@@ -13,6 +13,7 @@ ASSETS_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # 文件路径
 fMB = os.path.join(SCHEMAS_DIR, 'fullcode_xi_modified.txt')  # 码表路径
 fRes = os.path.join(ASSETS_DIR, 'simpcode/res.txt')  # 保存路径
+fShort = os.path.join(ASSETS_DIR, '../deploy/hao/short_xi.txt')  # 自定义简码级数路径
 lenCode_limit = {1: 1, 2: 1, 3: 1, 4: 99}  # 不指定为1重
 
 isFreq = True  # 是否按照词频重新排序 True|False
@@ -87,7 +88,43 @@ try:
 except Exception as e:
     print(f"加载码表文件出错: {e}")
 
-print(f"3. 加载词频数据... {time.time() - start_time:.2f}秒")
+print(f"3. 加载自定义简码... {time.time() - start_time:.2f}秒")
+# 加载自定义简码（支持两种格式：简码级数和强制简码）
+custom_short = {}  # 存储简码级数（汉字 -> 长度）
+custom_force = {}  # 存储强制简码（汉字 -> 简码字符串）
+try:
+    if os.path.exists(fShort):
+        with open(fShort, 'r', encoding='utf8') as f:
+            for line in f:
+                parts = line.strip().split('\t')
+                if len(parts) >= 2:
+                    char = parts[0]
+                    value = parts[1]
+                    
+                    # 尝试解析为整数（简码级数）
+                    try:
+                        length = int(value)
+                        if 1 <= length <= 4:
+                            custom_short[char] = length
+                            # 调试输出
+                            print(f"加载自定义简码级数: {char} -> {length}")
+                        continue  # 成功解析为整数，跳过后续检查
+                    except ValueError:
+                        pass
+                    
+                    # 检查是否符合强制简码格式（1-4个小写字母）
+                    if re.match(r'^[a-z]{1,4}$', value):
+                        custom_force[char] = value
+                        # 调试输出
+                        print(f"加载强制简码: {char} -> {value}")
+        
+        print(f"成功加载自定义简码: {len(custom_short)}条简码级数, {len(custom_force)}条强制简码")
+    else:
+        print(f"自定义简码文件不存在，跳过: {fShort}")
+except Exception as e:
+    print(f"加载自定义简码文件出错: {e}")
+
+print(f"4. 加载词频数据... {time.time() - start_time:.2f}秒")
 # 加载词频数据
 freq = {}
 try:
@@ -103,7 +140,7 @@ try:
 except Exception as e:
     print(f"加载词频文件出错: {e}")
 
-print(f"4. 处理排序... {time.time() - start_time:.2f}秒")
+print(f"5. 处理排序... {time.time() - start_time:.2f}秒")
 # 为每个词语添加词频信息（默认为0）
 for i in range(len(word_codes)):
     if len(word_codes[i]) >= 1:
@@ -130,7 +167,7 @@ for i in range(len(word_codes)):
 if isFreq:
     word_codes.sort(key=lambda x: float(x[2]) if len(x) >= 3 and x[2] else 0.0, reverse=True)
 
-print(f"5. 开始生成简码... {time.time() - start_time:.2f}秒")
+print(f"6. 开始生成简码... {time.time() - start_time:.2f}秒")
 # 出简不出全，考虑当量手感
 codes = []
 for word in word_codes:
@@ -140,42 +177,151 @@ for word in word_codes:
         codes.append("")
 
 # 优化的简码生成算法
-simplified_codes = []  # 存储最终的简码
+simplified_codes = [''] * len(word_codes)  # 存储最终的简码
 used_codes = {}  # 跟踪每个简码已被使用的次数
+allocated_indices = set()  # 记录已分配简码的索引
 
-# 为每个词语分配简码
-for word_idx, full_code in enumerate(codes):
-    if not full_code:  # 跳过空编码
-        simplified_codes.append("")
+# 第一步：处理强制简码
+print("  6.1 处理强制简码...")
+force_allocations = {}  # 按强制简码分组
+for idx, word in enumerate(word_codes):
+    char = word[0]
+    if char in custom_force:
+        force_code = custom_force[char]
+        full_code = codes[idx] if idx < len(codes) else ""
+        if force_code not in force_allocations:
+            force_allocations[force_code] = []
+        # 获取词频权重
+        weight = float(word[2]) if len(word) >= 3 and word[2] else 0.0
+        force_allocations[force_code].append((idx, char, full_code, weight))
+
+# 分配强制简码
+for force_code, items in force_allocations.items():
+    # 按词频降序排序
+    items.sort(key=lambda x: x[3], reverse=True)
+    code_len = len(force_code)
+    limit = lenCode_limit.get(code_len, 1)  # 获取该长度的限制数
+    
+    # 分配前min(limit, len(items))个
+    for i in range(min(limit, len(items))):
+        idx, char, full_code, weight = items[i]
+        # 检查是否已分配
+        if idx in allocated_indices:
+            continue
+            
+        # 分配强制简码
+        simplified_codes[idx] = force_code
+        allocated_indices.add(idx)
+        
+        # 更新占用计数
+        used_codes[force_code] = used_codes.get(force_code, 0) + 1
+        
+        # 调试输出
+        #print(f"    分配强制简码: {char} -> {force_code} (词频: {weight:.6f})")
+
+# 第二步：处理自定义简码级数
+print("  6.2 处理自定义简码级数...")
+custom_allocations = {}  # 按简码分组
+for idx, word in enumerate(word_codes):
+    # 跳过已分配的字
+    if idx in allocated_indices:
         continue
         
-    # 找出该词可能的所有简码并计算当量值
+    char = word[0]
+    if char in custom_short:
+        custom_length = custom_short[char]
+        full_code = codes[idx] if idx < len(codes) else ""
+        if not full_code:
+            continue
+            
+        # 生成简码前缀
+        code_prefix = full_code[:min(custom_length, len(full_code))]
+        
+        if code_prefix not in custom_allocations:
+            custom_allocations[code_prefix] = []
+        # 获取词频权重
+        weight = float(word[2]) if len(word) >= 3 and word[2] else 0.0
+        custom_allocations[code_prefix].append((idx, char, full_code, weight))
+
+# 分配自定义级数简码
+for code_prefix, items in custom_allocations.items():
+    # 按词频降序排序
+    items.sort(key=lambda x: x[3], reverse=True)
+    code_len = len(code_prefix)
+    limit = lenCode_limit.get(code_len, 1)  # 获取该长度的限制数
+    
+    # 分配前min(limit, len(items))个
+    for i in range(min(limit, len(items))):
+        idx, char, full_code, weight = items[i]
+        # 检查是否已分配
+        if idx in allocated_indices:
+            continue
+            
+        # 分配简码
+        simplified_codes[idx] = code_prefix
+        allocated_indices.add(idx)
+        
+        # 更新占用计数
+        used_codes[code_prefix] = used_codes.get(code_prefix, 0) + 1
+        
+        # 调试输出
+        print(f"    分配自定义级数简码: {char} -> {code_prefix} (词频: {weight:.6f})")
+
+# 第三步：处理剩余未分配的字（正常分配）
+print("  6.3 处理正常简码分配...")
+for idx, word in enumerate(word_codes):
+    # 跳过已分配的字
+    if idx in allocated_indices:
+        continue
+        
+    char = word[0]
+    full_code = codes[idx] if idx < len(codes) else ""
+    
+    if not full_code:  # 跳过空编码
+        continue
+        
+    # 生成候选简码列表
     candidates = []
     for length in range(1, min(len(full_code) + 1, 5)):  # 限制最大简码长度为4
         code_prefix = full_code[:length]
-        equiv_value = calculate_equiv(code_prefix)
-        candidates.append((code_prefix, equiv_value, length))
+        code_len = len(code_prefix)
+        limit = lenCode_limit.get(code_len, 1)  # 获取该长度的限制数
+        
+        # 计算当前已占用数量（包括强制简码和自定义级数）
+        current_used = used_codes.get(code_prefix, 0)
+        
+        # 检查是否超过限制
+        if current_used < limit:
+            equiv_value = calculate_equiv(code_prefix)
+            candidates.append((code_prefix, equiv_value, length))
     
-    # 按照当量值排序（值越小越好）
+    # 按当量值排序（小到大）
     candidates.sort(key=lambda x: x[1])
     
-    # 尝试分配简码，优先使用当量值低的
-    code_assigned = False
-    for code_prefix, _, length in candidates:
-        limit = lenCode_limit.get(length, 1)
-        current_count = used_codes.get(code_prefix, 0)
+    # 尝试分配简码
+    allocated = False
+    for candidate in candidates:
+        code_prefix, equiv_value, length = candidate
+        code_len = len(code_prefix)
+        limit = lenCode_limit.get(code_len, 1)
+        current_used = used_codes.get(code_prefix, 0)
         
-        if current_count < limit:
-            simplified_codes.append(code_prefix)
-            used_codes[code_prefix] = current_count + 1
-            code_assigned = True
+        if current_used < limit:
+            simplified_codes[idx] = code_prefix
+            used_codes[code_prefix] = current_used + 1
+            allocated = True
+            allocated_indices.add(idx)
+            # 调试输出
+            #print(f"    分配正常简码: {char} -> {code_prefix} (当量: {equiv_value:.2f})")
             break
     
     # 如果无法分配简码，则使用完整编码
-    if not code_assigned:
-        simplified_codes.append(full_code)
+    if not allocated:
+        simplified_codes[idx] = full_code
+        # 调试输出
+        #print(f"    使用全码: {char} -> {full_code} (无合适简码)")
 
-print(f"6. 保存结果... {time.time() - start_time:.2f}秒")
+print(f"7. 保存结果... {time.time() - start_time:.2f}秒")
 # 保存结果，包含字频信息
 try:
     with open(fRes, 'w', encoding='utf8') as f:
