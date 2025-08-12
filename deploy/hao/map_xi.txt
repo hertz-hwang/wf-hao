@@ -157,6 +157,7 @@ Ie	
 Iq	口
 Iq	〇
 Iq	
+Ak	中
 Is	由
 Iu	{齊字腰}
 Iw	韋

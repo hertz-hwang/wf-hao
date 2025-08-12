@@ -10,8 +10,8 @@ ae	齐
 ae;	柜
 af	本
 af;	柳
-ag	相
-ag;	章
+ag	想
+ag;	相
 ah	儿
 ah;	楷
 ai	样
@@ -25,7 +25,7 @@ al;	村
 am	两
 am;	楼
 an	意
-an;	桶
+an;	忠
 ao	术
 ao;	述
 ap	机
@@ -103,7 +103,7 @@ by;	培
 bz	井
 bz;	髯
 ca	六
-ca;	镜
+ca;	钟
 cb	血
 cb;	丢
 cc	铁
@@ -119,7 +119,7 @@ cg;	针
 ch	系
 ch;	锤
 ci	否
-ci;	钟
+ci;	锅
 cj	自
 cj;	朱
 ck	到
@@ -464,8 +464,8 @@ ix	吗
 ix;	美
 iy	呀
 iy;	吼
-iz	出
-iz;	呵
+iz	呵
+iz;	呐
 ja	条
 ja;	务
 jb	待
@@ -1298,8 +1298,8 @@ yy	孩
 yy;	炎
 yz	商
 yz;	靖
-za	策
-za;	免
+za	种
+za;	策
 zb	等
 zb;	周
 zc	笑
@@ -1314,8 +1314,8 @@ zg	算
 zg;	稽
 zh	素
 zh;	丰
-zi	种
-zi;	程
+zi	程
+zi;	积
 zj	可
 zj;	香
 zk	利

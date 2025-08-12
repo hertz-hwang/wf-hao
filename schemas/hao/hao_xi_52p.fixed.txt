@@ -8,7 +8,6 @@ kr	你
 wo	就
 hs	以
 jl	时
-iz	出
 ig	着
 zj	可
 vc	道
@@ -47,7 +46,8 @@ ml	然
 os	当
 ng	心
 qj	起
-zi	种
+za	种
+ag	想
 rw	经
 gu	现
 kj	但
@@ -114,7 +114,6 @@ vx	关
 nv	工
 ui	回
 zb	等
-ag	相
 rl	二
 hd	重
 is	由
@@ -295,6 +294,7 @@ ak	极
 fh	求
 jx	未
 lq	每
+zi	程
 nn	式
 ov	兵
 pm	据
@@ -543,7 +543,6 @@ em	皮
 ku	佛
 ec	室
 bb	封
-za	策
 be	块
 so	娘
 et	宣
@@ -644,6 +643,7 @@ bz	井
 bd	埋
 cd	乏
 ym	燃
+iz	呵
 xw	怨
 ax	椅
 ex	寄
