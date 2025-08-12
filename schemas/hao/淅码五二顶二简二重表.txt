@@ -938,8 +938,8 @@ sa	果
 sa;	男
 sb	忽
 sb;	匆
-sc	群
-sc;	君
+sc	君
+sc;	妖
 sd	包
 sd;	姓
 se	辉
@@ -951,7 +951,7 @@ sg;	齿
 sh	她
 sh;	录
 si	如
-si;	恕
+si;	群
 sj	光
 sj;	妹
 sk	个

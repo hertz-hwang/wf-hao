@@ -464,7 +464,6 @@ gq	底
 ar	音
 tx	够
 as	构
-sc	群
 lp	船
 wq	苦
 ju	律
@@ -574,6 +573,7 @@ bc	坏
 bs	闪
 hy	渐
 cw	升
+sc	君
 tr	隐
 zv	税
 by	鬼
