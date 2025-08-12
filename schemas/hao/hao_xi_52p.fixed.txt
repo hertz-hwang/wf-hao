@@ -208,7 +208,7 @@ gx	度
 vd	让
 ds	山
 xh	马
-te	受
+tw	受
 hv	活
 rm	结
 ms	数
@@ -255,7 +255,6 @@ pp	书
 uu	市
 pf	司
 ko	住
-tw	即
 qa	克
 fe	带
 ib	飞
@@ -328,6 +327,7 @@ yf	车
 qq	石
 qv	联
 ru	争
+te	院
 yw	轻
 yv	火
 yx	罗
@@ -346,12 +346,12 @@ hw	满
 mw	服
 eu	官
 ur	整
+tg	爱
 pb	持
 ut	跟
 zl	突
 jw	影
 ho	消
-tg	随
 il	吃
 yz	商
 vf	证

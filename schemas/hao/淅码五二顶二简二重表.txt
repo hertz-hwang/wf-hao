@@ -994,12 +994,12 @@ tc	霆
 tc;	爲
 td	际
 td;	赘
-te	受
-te;	院
+te	院
+te;	爬
 tf	雨
 tf;	陌
-tg	随
-tg;	霸
+tg	爱
+tg;	随
 th	剑
 th;	陛
 ti	命
@@ -1030,8 +1030,8 @@ tu	需
 tu;	既
 tv	霍
 tv;	隧
-tw	即
-tw;	醇
+tw	受
+tw;	即
 tx	够
 tx;	醋
 ty	阵

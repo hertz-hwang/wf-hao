@@ -9,8 +9,8 @@ use_preset_vocabulary: false
 阿城	LwSke PsuKeXi	456
 阿里	LwSke Jgo	752
 阿莲	LwSke ClrAleNdu	427
-爱辉	HoGkeAkwBu YgiGkeAle	274
-爱民	HoGkeAkwBu Hti	505
+爱辉	HgeAkwBu YgiGkeAle	274
+爱民	HgeAkwBu Hti	505
 安次	GkeGle GhwDlw	340
 安达	GkeGle YdiNdu	519
 安定	GkeGle GkeJgu	619
@@ -138,7 +138,7 @@ use_preset_vocabulary: false
 宾阳	GkeKfoJdo LwVo	441
 滨州	HsuGkeKfoJdo DywDyw	526
 彬州	TlrTlrFyw DywDyw	293
-博爱	AkwSpwJfo HoGkeAkwBu	552
+博爱	AkwSpwJfo HgeAkwBu	552
 博白	AkwSpwJfo Dle	380
 博湖	AkwSpwJfo HsuSkrCu	341
 博乐	AkwSpwJfo JsuFlr	418
@@ -1892,7 +1892,7 @@ use_preset_vocabulary: false
 饶河	TjrFjwLeLr HsuSke	365
 饶平	TjrFjwLeLr LvuJdo	457
 饶阳	TjrFjwLeLr LwVo	364
-仁爱	JoZo HoGkeAkwBu	552
+仁爱	JoZo HgeAkwBu	552
 仁布	JoZo AkwJfi	268
 任城	JoSiLdo PsuKeXi	387
 仁德	JoZo FhwAkwAheHdu	490
@@ -3107,9 +3107,9 @@ use_preset_vocabulary: false
 阿荣旗	LwSke ClrGkeTlr HfoKfeMtoJdo	162
 阿图什	LwSke ZeMwGhw JoAkw	171
 阿瓦提	LwSke Pr KsuVoJgu	144
-爱辉区	HoGkeAkwBu YgiGkeAle PgoSo	158
-爱家乡	HoGkeAkwBu GkeDne Dnw	341
-爱民区	HoGkeAkwBu Hti PgoSo	104
+爱辉区	HgeAkwBu YgiGkeAle PgoSo	158
+爱家乡	HgeAkwBu GkeDne Dnw	341
+爱民区	HgeAkwBu Hti PgoSo	104
 安次区	GkeGle GhwDlw PgoSo	147
 安达市	GkeGle YdiNdu JvuJfi	218
 安定区	GkeGle GkeJgu PgoSo	182
@@ -3391,7 +3391,7 @@ use_preset_vocabulary: false
 彬州市	TlrTlrFyw DywDyw JvuJfi	126
 丙村镇	LeDjrAu TlrJfo QjrAkwDkwJdo	100
 冰风堡	GhwHsu AnwSo JoKdiTlrPsu	203
-博爱县	AkwSpwJfo HoGkeAkwBu SyeBkr	177
+博爱县	AkwSpwJfo HgeAkwBu SyeBkr	177
 博白县	AkwSpwJfo Dle SyeBkr	215
 博湖县	AkwSpwJfo HsuSkrCu SyeBkr	159
 博乐市	AkwSpwJfo JsuFlr JvuJfi	166
@@ -7479,8 +7479,8 @@ use_preset_vocabulary: false
 饶平县	TjrFjwLeLr LvuJdo SyeBkr	212
 饶阳县	TjrFjwLeLr LwVo SyeBkr	160
 热狗堡	KsuYeCme LquTyw JoKdiTlrPsu	172
-仁爱区	JoZo HoGkeAkwBu PgoSo	160
-仁爱乡	JoZo HoGkeAkwBu Dnw	1
+仁爱区	JoZo HgeAkwBu PgoSo	160
+仁爱乡	JoZo HgeAkwBu Dnw	1
 仁布县	JoZo AkwJfi SyeBkr	107
 任城区	JoSiLdo PsuKeXi PgoSo	184
 仁德区	JoZo FhwAkwAheHdu PgoSo	1
@@ -8044,7 +8044,7 @@ use_preset_vocabulary: false
 孙桥村	QiFlr TlrSiYdiVje TlrJfo	112
 孙桥镇	QiFlr TlrSiYdiVje QjrAkwDkwJdo	181
 孙氏镇	QiFlr Cmw QjrAkwDkwJdo	133
-孙受镇	QiFlr HoGkeBu QjrAkwDkwJdo	155
+孙受镇	QiFlr HgeBu QjrAkwDkwJdo	155
 孙台村	QiFlr BkrKdi TlrJfo	52
 孙堂村	QiFlr NdoPsu TlrJfo	1
 孙屯村	QiFlr LeGyr TlrJfo	242
@@ -10447,7 +10447,7 @@ use_preset_vocabulary: false
 阿子营乡	LwSke Qi ClrGkeAmw Dnw	1
 埃本斯堡	PsuBkrHfu TlrLe MtoJdoKfo JoKdiTlrPsu	149
 埃伯斯堡	PsuBkrHfu JoDle MtoJdoKfo JoKdiTlrPsu	1
-爱得山庄	HoGkeAkwBu FhwVoLeJfo Mgi FkrPsu	1
+爱得山庄	HgeAkwBu FhwVoLeJfo Mgi FkrPsu	1
 艾丁湖乡	ClrSo Lfi HsuSkrCu Dnw	142
 埃弗斯堡	PsuBkrHfu Amr MtoJdoKfo JoKdiTlrPsu	315
 艾夫斯堡	ClrSo Jgi MtoJdoKfo JoKdiTlrPsu	293
@@ -10475,12 +10475,12 @@ use_preset_vocabulary: false
 艾莱乌县	ClrSo ClrCoJdo Ci SyeBkr	1
 埃勒斯堡	PsuBkrHfu NfiSle MtoJdoKfo JoKdiTlrPsu	183
 埃蒙小镇	PsuBkrHfu ClrGkeLeDne Flr QjrAkwDkwJdo	312
-爱尼山乡	HoGkeAkwBu MfuVke Mgi Dnw	116
-暧泉沟村	VoHoGkeBu DleHsu HsuSliBkr TlrJfo	1
+爱尼山乡	HgeAkwBu MfuVke Mgi Dnw	116
+暧泉沟村	VoHgeAkwBu DleHsu HsuSliBkr TlrJfo	1
 矮人村庄	HfuMsuGle Au TlrJfo FkrPsu	290
 艾日克村	ClrSo Vo SkrLr TlrJfo	304
 艾瑞柯村	ClrSo GuMgiGo TlrSke TlrJfo	1
-爱石家庄	HoGkeAkwBu Fje GkeDne FkrPsu	1
+爱石家庄	HgeAkwBu Fje GkeDne FkrPsu	1
 艾头坪乡	ClrSo GhwYdi PsuLvuJdo Dnw	77
 埃乌克县	PsuBkrHfu Ci SkrLr SyeBkr	1
 艾西楼村	ClrSo Dhw TlrKaiGle TlrJfo	1
@@ -10491,7 +10491,7 @@ use_preset_vocabulary: false
 艾雅科村	ClrSo TuHqo MsuYdo TlrJfo	1
 艾杨各庄	ClrSo TlrXiFyw Vyw FkrPsu	1
 艾叶口村	ClrSo KdiAkw Kdi TlrJfo	1
-爱在他乡	HoGkeAkwBu AkwFuPsu JoKw Dnw	262
+爱在他乡	HgeAkwBu AkwFuPsu JoKw Dnw	262
 艾藻尔县	ClrSo ClrHsuKdiTlr FmiFlr SyeBkr	35
 艾子口村	ClrSo Qi Kdi TlrJfo	1
 艾孜拉村	ClrSo QiHfi KsuJsi TlrJfo	1
@@ -24135,7 +24135,7 @@ use_preset_vocabulary: false
 李门楼村	TlrQi Qlr TlrKaiGle TlrJfo	1
 礼门寺村	SjwXi Qlr PsuJfo TlrJfo	1
 栗庙新村	DhwTlr FkrMe JsiTlrKfo TlrJfo	105
-涖民爱庄	HsuJoJsi Hti HoGkeAkwBu FkrPsu	8
+涖民爱庄	HsuJoJsi Hti HgeAkwBu FkrPsu	8
 利民街村	MsuVje Hti DyrPsuPsu TlrJfo	1
 黎民居乡	MsuVjeAuHsu Hti MfuSkr Dnw	35
 黎明侨村	MsuVjeAuHsu VoCu JoSiYdiVje TlrJfo	1
@@ -33212,15 +33212,15 @@ use_preset_vocabulary: false
 水竹萍乡	Hsu Pu ClrHsuLvuJdo Dnw	1
 水竹园村	Hsu Pu ZeZoLr TlrJfo	1
 水族鱼乡	Hsu HfoKfeHfu Bo Dnw	1
-舜帝庙村	HoGkeXkeKsu JsiGkeJfi FkrMe TlrJfo	1
+舜帝庙村	HgeXkeKsu JsiGkeJfi FkrMe TlrJfo	1
 顺峰山庄	DywPe MgiMwMvu Mgi FkrPsu	302
 顺风山庄	DywPe AnwSo Mgi FkrPsu	1
 顺河场镇	DywPe HsuSke PsuXiFyw QjrAkwDkwJdo	92
 顺河集镇	DywPe HsuSke HqoTlr QjrAkwDkwJdo	1
-舜皇山村	HoGkeXkeKsu DleGu Mgi TlrJfo	77
-舜江新村	HoGkeXkeKsu HsuJti JsiTlrKfo TlrJfo	1
+舜皇山村	HgeXkeKsu DleGu Mgi TlrJfo	77
+舜江新村	HgeXkeKsu HsuJti JsiTlrKfo TlrJfo	1
 顺利沟村	DywPe MsuVje HsuSliBkr TlrJfo	77
-舜南新村	HoGkeXkeKsu AkwDjrTo JsiTlrKfo TlrJfo	1
+舜南新村	HgeXkeKsu AkwDjrTo JsiTlrKfo TlrJfo	1
 顺山堡村	DywPe Mgi JoKdiTlrPsu TlrJfo	134
 顺山店村	DywPe Mgi FkrFjrKdi TlrJfo	77
 顺水鱼庄	DywPe Hsu Bo FkrPsu	142
@@ -35046,7 +35046,7 @@ use_preset_vocabulary: false
 屯军营村	LeGyr GkeAle ClrGkeAmw TlrJfo	1
 屯垦队镇	LeGyr FhePsu LwAu QjrAkwDkwJdo	105
 吞口坝村	LeYdiKdi Kdi PsuSmr TlrJfo	1
-屯凌爱村	LeGyr GhwPsuJdoMw HoGkeAkwBu TlrJfo	1
+屯凌爱村	LeGyr GhwPsuJdoMw HgeAkwBu TlrJfo	1
 屯留营村	LeGyr SyrZhe ClrGkeAmw TlrJfo	1
 屯庄营乡	LeGyr FkrPsu ClrGkeAmw Dnw	1
 驼柏树村	FyeGkeVke TlrDle TlrBuJfo TlrJfo	1
@@ -35348,7 +35348,7 @@ use_preset_vocabulary: false
 湾子口村	HsuJvuCmeNsi Qi Kdi TlrJfo	1
 湾子头村	HsuJvuCmeNsi Qi GhwYdi TlrJfo	1
 万子营村	LeVje Qi ClrGkeAmw TlrJfo	1
-王爱召镇	Gu HoGkeAkwBu VjeKdi QjrAkwDkwJdo	125
+王爱召镇	Gu HgeAkwBu VjeKdi QjrAkwDkwJdo	125
 王板桥村	Gu TlrZkrBu TlrSiYdiVje TlrJfo	1
 望宝川村	NeCuGu GkeGuNr Dyw TlrJfo	58
 王堡山村	Gu JoKdiTlrPsu Mgi TlrJfo	1
@@ -39142,7 +39142,7 @@ use_preset_vocabulary: false
 消水沟村	HsuFlrCu Hsu HsuSliBkr TlrJfo	1
 小水井村	Flr Hsu Lfo TlrJfo	125
 消水庄村	HsuFlrCu Hsu FkrPsu TlrJfo	1
-小舜江村	Flr HoGkeXkeKsu HsuJti TlrJfo	1
+小舜江村	Flr HgeXkeKsu HsuJti TlrJfo	1
 小泗埠村	Flr HsuAhe PsuSiNwAkw TlrJfo	116
 小寺沟村	Flr PsuJfo HsuSliBkr TlrJfo	1
 小寺沟镇	Flr PsuJfo HsuSliBkr QjrAkwDkwJdo	92
@@ -41134,7 +41134,7 @@ use_preset_vocabulary: false
 药树坝村	ClrTkwSliNr TlrBuJfo PsuSmr TlrJfo	1
 药树坪村	ClrTkwSliNr TlrBuJfo PsuLvuJdo TlrJfo	1
 药树垭村	ClrTkwSliNr TlrBuJfo PsuLeSu TlrJfo	1
-尧舜街村	FjwLeLr HoGkeXkeKsu DyrPsuPsu TlrJfo	1
+尧舜街村	FjwLeLr HgeXkeKsu DyrPsuPsu TlrJfo	1
 窑塘埠村	VkwAyr PsuFkrDoKdi PsuSiNwAkw TlrJfo	1
 姚天宫村	GleLrGhwGhw LeYdi GkeAmw TlrJfo	1
 尧天坪镇	FjwLeLr LeYdi PsuLvuJdo QjrAkwDkwJdo	35
@@ -43323,7 +43323,7 @@ use_preset_vocabulary: false
 柘塘浜村	TlrFje PsuFkrDoKdi HsuKfoJdo TlrJfo	1
 折腰沟村	KsuKfo CuDhwGle HsuSliBkr TlrJfo	1
 蔗园坡村	ClrFkrAkrCme ZeZoLr PsuDme TlrJfo	1
-镇爱廉村	QjrAkwDkwJdo HoGkeAkwBu FkrJdoAlrCme TlrJfo	35
+镇爱廉村	QjrAkwDkwJdo HgeAkwBu FkrJdoAlrCme TlrJfo	35
 镇八佳村	QjrAkwDkwJdo Jdo JoPsuPsu TlrJfo	92
 镇八井村	QjrAkwDkwJdo Jdo Lfo TlrJfo	77
 镇柏柳村	QjrAkwDkwJdo TlrDle TlrSyr TlrJfo	35
@@ -43392,7 +43392,7 @@ use_preset_vocabulary: false
 镇蕉利村	QjrAkwDkwJdo ClrHqoCme MsuVje TlrJfo	1
 镇金峡村	QjrAkwDkwJdo Tmr MgiJgiJdo TlrJfo	92
 镇九阡镇	QjrAkwDkwJdo Gmr LwKco QjrAkwDkwJdo	1
-镇堪爱村	QjrAkwDkwJdo PsuMtoJdoXi HoGkeAkwBu TlrJfo	35
+镇堪爱村	QjrAkwDkwJdo PsuMtoJdoXi HgeAkwBu TlrJfo	35
 镇科迦村	QjrAkwDkwJdo MsuYdo SleKdiNdu TlrJfo	35
 镇科赖村	QjrAkwDkwJdo MsuYdo NsuFmiSmr TlrJfo	1
 镇兰岔村	QjrAkwDkwJdo JdoSme JdoVjeMgi TlrJfo	116
@@ -43699,7 +43699,7 @@ use_preset_vocabulary: false
 至筑摩县	Kr PuJtiAnwNr HauKsu SyeBkr	1
 芝字坝村	ClrFi GkeQi PsuSmr TlrJfo	1
 志佐町庄	LdoHdu JoAkwJti ZheLfi FkrPsu	1
-忠爱桥乡	KdiFuHdu HoGkeAkwBu TlrSiYdiVje Dnw	1
+忠爱桥乡	KdiFuHdu HgeAkwBu TlrSiYdiVje Dnw	1
 中岙张村	KdiFu SiYdiMgi NsiDkr TlrJfo	1
 中坝子村	KdiFu PsuSmr Qi TlrJfo	1
 中堡溪村	KdiFu JoKdiTlrPsu HsuHoLiYdi TlrJfo	1

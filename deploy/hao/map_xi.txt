@@ -442,6 +442,7 @@ To	爪
 To	⺥
 To	爫
 To	𫜵
+Te	
 Tp	艮
 Tp	
 Tq	句
