@@ -80,6 +80,9 @@ translator:
     - '^.$'
     - '^.{3,4}$'
 
+hao:
+  code: hao_xi_52p
+
 key_binder:
   tips_key: "period"
   bindings:
@@ -151,6 +154,9 @@ key_binder:
     - { when: has_menu, accept: equal, send: Page_Down } # 等號下翻頁
     - { when: composing, accept: "Control+d", send: Delete }
     - { when: composing, accept: "Control+k", send: "Shift+Delete" }
+
+reverse_lookup:
+  dictionary: hao_xi_52p
 
 menu:
   alternative_select_keys: "_2389"

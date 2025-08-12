@@ -73,6 +73,7 @@ Ew	巴
 Ff	乡
 Fh	一
 Fh	㇀
+Fi	𠮛
 Fh	卅
 Fh	丗
 Fh	𠀍
@@ -111,6 +112,7 @@ Gj	
 Gl	十
 Gl	𠂇
 Gl	𬺰
+Gw	友
 Gn	甫
 Go	革
 Gp	广

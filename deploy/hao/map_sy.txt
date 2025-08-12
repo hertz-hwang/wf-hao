@@ -73,6 +73,7 @@ Fyr	巴
 Dnw	乡
 Le	一
 Le	㇀
+Lke	𠮛
 Dko	卅
 Dko	丗
 Dko	𠀍
@@ -111,6 +112,7 @@ Ksu	
 Akw	十
 Akw	𠂇
 Akw	𬺰
+Abu	友
 Spw	甫
 Nfi	革
 Fkr	广
