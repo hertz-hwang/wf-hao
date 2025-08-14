@@ -10,7 +10,33 @@ Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
 ]]
 ---@diagnostic disable: undefined-global
 
-local core = {}
+local core = {
+  kRejected = 0,
+  kAccepted = 1,
+  kNoop = 2,
+  kVoid = "kVoid",
+  kGuess = "kGuess",
+  kSelected = "kSelected",
+  kConfirmed = "kConfirmed",
+  kNull = "kNull",     -- 空節點
+  kScalar = "kScalar", -- 純數據節點
+  kList = "kList",     -- 列表節點
+  kMap = "kMap",       -- 字典節點
+  kShift = 0x1,
+  kLock = 0x2,
+  kControl = 0x4,
+  kAlt = 0x8,
+}
+
+--- 取出输入中当前正在翻译的一部分
+---@param context Context
+function core.current(context)
+  local segment = context.composition:toSegmentation():back()
+  if not segment then
+    return nil
+  end
+  return context.input:sub(segment.start + 1, segment._end)
+end
 
 -- 由translator記録輸入串, 傳遞給filter
 core.input_code = ''

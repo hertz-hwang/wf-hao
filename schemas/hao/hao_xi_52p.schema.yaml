@@ -142,8 +142,6 @@ key_binder:
     - { match: "^;$", accept: "n", send_sequence: "n{space}" }
     - { match: "^;$", accept: "m", send_sequence: "m{space}" }
 
-    - { when: composing, accept: space, send: Escape }
-    - { when: has_menu, accept: space, send: space }
     - { when: always, accept: "Control+Shift+J", toggle: simplification }
     - { when: always, accept: "Control+Shift+F", toggle: traditionalization }
     - { when: has_menu, accept: "1", send: KP_1 }

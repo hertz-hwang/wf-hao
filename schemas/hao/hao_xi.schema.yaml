@@ -68,6 +68,7 @@ engine:
     - lua_processor@*hao.hao_spelling*processor
     - key_binder
     - speller
+    - lua_processor@*hao.hao_space_proc
     - punctuator
     - selector
     - navigator
@@ -83,6 +84,7 @@ engine:
     - punct_segmentor
     - fallback_segmentor
   translators:
+    #- echo_translator
     - lua_translator@*hao.hao_switch*tr@hao
     - punct_translator
     - lua_translator@*hao.hao_shijian
@@ -320,8 +322,6 @@ punctuator:
 
 key_binder:
   bindings:
-    - { when: composing, accept: space, send: Escape }
-    - { when: has_menu, accept: space, send: space }
     - { when: always, accept: "Control+Shift+J", toggle: simplification }
     - { when: always, accept: "Control+Shift+F", toggle: traditionalization }
     - { when: has_menu, accept: semicolon, send: KP_2 } # 分号次选
