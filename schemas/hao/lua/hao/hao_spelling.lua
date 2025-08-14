@@ -9,7 +9,10 @@ https://github.com/Ace-Who/rime-xuma/blob/master/schema/lua/ace/xuma_spelling.lu
 - 20240921: 更改默認的注解等級.
 - 20250210: 修正了一些顯示錯誤.
 - 20250514: 增加參數,可以選擇是否爲詞語顯示提示.
+- 20250718: 允許用戶在陸標拆分和臺標拆分之間進行切換。
 ---------------------------------------------------------------------------
+更新[by 荒]:
+- 20250814: 同步上游更新。
 ]]
 
 --[[
@@ -338,10 +341,10 @@ end
     @param env The environment containing the reverse database
     @return The tricomment string
 ]]
-local function get_tricomment(cand, env)
+local function get_tricomment(cand, env, spll_rvdb)
   local text = cand.text
   if utf8.len(text) == 1 then
-    local raw_spelling = env.spll_rvdb:lookup(text)
+    local raw_spelling = spll_rvdb:lookup(text)
     if raw_spelling == '' then return end
     return env.engine.context:get_option('hao_spelling.lv1')
         and xform(raw_spelling:gsub('%[(.-),.*%]', '[%1]'))
@@ -379,23 +382,29 @@ local function filter(input, env)
     for cand in input:iter() do yield(cand) end
     return
   end
+  local spll_rvdb = nil
+  local code_rvdb = nil
+  if env.engine.context:get_option('hao_spelling_source') then
+    spll_rvdb = env.spll_rvdb_tw
+    code_rvdb = env.code_rvdb_tw
+  else
+    spll_rvdb = env.spll_rvdb
+    code_rvdb = env.code_rvdb
+  end
   for cand in input:iter() do
     if cand.type == 'simplified' then
-      local comment = (get_tricomment(cand, env) or '') .. cand.comment
+      local comment = (get_tricomment(cand, env, spll_rvdb) or '') .. cand.comment
       cand = Candidate("simp_rvlk", cand.start, cand._end, cand.text, comment)
     else
       local add_comment = cand.type == 'punct'
-          and env.code_rvdb:lookup(cand.text)
-          or get_tricomment(cand, env)
+          and code_rvdb:lookup(cand.text)
+          or cand.type ~= 'sentence'
+          and get_tricomment(cand, env, spll_rvdb)
       if add_comment and add_comment ~= '' then
-        -- 对于 script_translator 生成的候选词，直接添加注解
-        if cand.type == 'completion' or cand.type == 'sentence' then
-          cand.comment = add_comment .. cand.comment
-        else
-          cand.comment = env.is_mixtyping
-              and add_comment
-              or add_comment .. cand.comment
-        end
+        cand.comment = cand.type ~= 'completion'
+            and env.is_mixtyping
+            and add_comment
+            or add_comment .. cand.comment
       end
     end
     yield(cand)
@@ -407,15 +416,18 @@ end
     @param env The environment to initialize
 ]]
 local function init(env)
-  local config = env.engine.schema.config
-  local spll_rvdb = config:get_string('hao/spelling/schema')
-  local code_rvdb = config:get_string('hao/code')
-  local abc_extags_size = config:get_list_size('abc_segmentor/extra_tags')
+  local spll_rvdb = env.engine.schema.config:get_string('hao/spelling/schema')
+  local code_rvdb = env.engine.schema.config:get_string('hao/code')
+  local spll_rvdb_tw = env.engine.schema.config:get_string('hao/spelling_tw/schema')
+  local code_rvdb_tw = env.engine.schema.config:get_string('hao/code_tw')
+  local abc_extags_size = env.engine.schema.config:get_list_size('abc_segmentor/extra_tags')
   env.spll_rvdb = ReverseDb('build/' .. spll_rvdb .. '.reverse.bin')
   env.code_rvdb = ReverseDb('build/' .. code_rvdb .. '.reverse.bin')
+  env.spll_rvdb_tw = ReverseDb('build/' .. spll_rvdb_tw .. '.reverse.bin') or env.spll_rvdb
+  env.code_rvdb_tw = ReverseDb('build/' .. code_rvdb_tw .. '.reverse.bin') or env.code_rvdb
   env.is_mixtyping = abc_extags_size > 0
   rime.init_options(options, env.engine.context)
-  env.phrase = config:get_int('hao/spelling/phrase') or 1
+  env.phrase = env.engine.schema.config:get_int('hao/spelling/phrase') or 1
 end
 
 -- Return the filter and processor

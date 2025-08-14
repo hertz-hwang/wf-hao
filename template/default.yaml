@@ -29,6 +29,7 @@ switcher:
     - hao_spelling.lv1
     - hao_spelling.lv2
     - hao_spelling.lv3
+    - hao_spelling_source
 
 key_binder:
   bindings:

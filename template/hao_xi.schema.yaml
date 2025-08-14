@@ -31,6 +31,9 @@ switches:
       - hao_spelling.lv3
     states: [无注解, 一重注解, 二重注解, 多重注解]
     #reset: 0
+  - name: hao_spelling_source
+    states: [陸標拆分, 臺標拆分]
+    #reset: 0
   - name: lazy_clock
     abbrev: [无, 時]
     states: [ 关闭候选时间, 开启候选时间 ]
