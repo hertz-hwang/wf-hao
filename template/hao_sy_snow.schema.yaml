@@ -5,7 +5,7 @@ __include: octagram             #启用语言模型
 
 schema:
   schema_id: hao_sy_snow
-  name: '好码・雪凇(词顶功)'
+  name: '邪修・雪凇(词顶功)'
   version: "alpha"
   author:
     - Rime方案作者 谭淞宸 <i@tansongchen.com>

@@ -549,6 +549,7 @@
 监	vjpi
 短	hfko
 梦	tlte
+睡	dko
 卖	akxyi
 醒	svu
 码	fjfe
@@ -610,7 +611,6 @@
 画	lzr
 跳	xlgw
 春	mvno
-睡	dkko
 吉	ldki
 端	jsmo
 杂	gmtr
@@ -5094,6 +5094,7 @@
 盚	lhni
 盨	fyai
 盭	lpi
+盺	dkko
 盽	dkmu
 眂	dkcw
 県	dkxr

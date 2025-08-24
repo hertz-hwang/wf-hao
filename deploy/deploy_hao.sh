@@ -294,6 +294,7 @@ gen_schema() {
     pushd ${WD}/../assets || error "无法切换到 assets 目录"
         python secondary_2short_xi.py || error "生成五二顶二简二重表失败"
         python gen_52tips.py ../schemas/hao/淅码五二顶二简二重表.txt ../schemas/hao/lua/tips/tips_show.txt
+        python secondary_2short_xi_dazhu.py ../schemas/hao/lua/tips/tips_show.txt ../schemas/hao/hao/dazhu-xi52-fix.txt
     popd
 
     # 删除临时目录

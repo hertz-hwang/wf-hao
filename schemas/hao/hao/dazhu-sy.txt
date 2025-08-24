@@ -597,6 +597,7 @@ scr	升
 vjpi	监
 hfko	短
 tlte	梦
+dko	睡
 akxyi	卖
 svu	醒
 fjfe	码
@@ -658,7 +659,6 @@ ayu	缺
 lzr	画
 xlgw	跳
 mvno	春
-dkko	睡
 ldki	吉
 jsmo	端
 gmtr	杂
@@ -5142,6 +5142,7 @@ sppi	盙
 lhni	盚
 fyai	盨
 lpi	盭
+dkko	盺
 dkmu	盽
 dkcw	眂
 dkxr	県
@@ -17039,7 +17040,7 @@ akne	连接
 gqli	女子
 zqsi	男子
 jfju	上传词提 好拆
-jfji	上传词提 好
+jfji	上传词提 ，好
 jfjo	上传词提 松烟
 dlsnr	的
 le	一
