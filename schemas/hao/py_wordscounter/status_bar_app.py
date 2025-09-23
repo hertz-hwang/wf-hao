@@ -24,8 +24,8 @@ from watchdog.events import FileSystemEventHandler
 
 # ========== 统一路径配置 ==========
 # 定义文件夹路径。注意，这里只要文件夹就好。
-CUSTOM_PATH = "/Users/bennett/workspace/rime/py_wordscounter"  #字数统计数据的json文档存放的文件夹的路径。想要多设备同步数据的，把这个json文件放到同步网盘好一点
-CUSTOM_PATH2 = "/Users/bennett/workspace/rime/py_wordscounter"  #放置Python脚本和读取csv文档的路径，跟lua脚本里的路径要一致
+CUSTOM_PATH = "/Users/bennett/workspace/rime-hao/py_wordscounter"  #字数统计数据的json文档存放的文件夹的路径。想要多设备同步数据的，把这个json文件放到同步网盘好一点
+CUSTOM_PATH2 = "/Users/bennett/workspace/rime-hao/py_wordscounter"  #放置Python脚本和读取csv文档的路径，跟lua脚本里的路径要一致
 
 # 定义文件路径
 JSON_FILE = os.path.join(CUSTOM_PATH, "words_count_history.json")  #读取核心json数据文档，是我们记录每天/月/年/总输入字数的文档

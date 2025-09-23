@@ -9,8 +9,8 @@ local META_KEY_PREFIX = "\001" .. "/"
 local META_KEY_VERSION = "hao_version"
 local META_KEY_USER_TIPS_FILE_HASH = "user_tips_file_hash"
 
-local FILENAME_TIPS_PRESET = "lua/tips/tips_show.txt"
-local FILENAME_TIPS_USER = "lua/tips/tips_user.txt"
+local FILENAME_TIPS_PRESET = "lua/hao_tips/tips_show.txt"
+local FILENAME_TIPS_USER = "lua/hao_tips/tips_user.txt"
 
 local hao = require("hao/hao_core")
 
@@ -31,7 +31,7 @@ end
 ---@param write_mode? boolean 是否需要写权限
 ---@return UserDb
 function tips_db.get(write_mode)
-    if tips_db.instance == nil then tips_db.instance = LevelDb("lua/tips") end
+    if tips_db.instance == nil then tips_db.instance = LevelDb("lua/hao_tips") end
 
     local is_loaded = tips_db.instance:loaded()
     local needs_open = false
@@ -263,7 +263,7 @@ function P.init(env)
     local user_lua_dir = rime_api.get_user_data_dir() .. "/lua"
     if dist ~= "hamster" and dist ~= "Weasel" then
         ensure_dir_exist(user_lua_dir)
-        ensure_dir_exist(user_lua_dir .. "/tips")
+        ensure_dir_exist(user_lua_dir .. "/hao_tips")
     end
 
     init_tips_userdb()

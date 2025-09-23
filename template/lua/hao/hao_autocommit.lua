@@ -25,7 +25,7 @@ local kAccepted = 1 -- 收: 由rime響應該按鍵
 local kNoop     = 2 -- 無: 請下一個processor繼續看
 
 -- 字数统计相关变量
-local csv_path = "/Users/bennett/workspace/rime/py_wordscounter/words_input.csv" -- 改为实际的CSV文件路径
+local csv_path = "/Users/bennett/workspace/rime-hao/py_wordscounter/words_input.csv" -- 改为实际的CSV文件路径
 
 -- 判断文本是否包含至少一个汉字
 function is_valid_text(text)

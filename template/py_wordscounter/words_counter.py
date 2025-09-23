@@ -28,8 +28,8 @@ import tkinter as tk
 from tkinter import ttk, messagebox
 
 # ========== 统一路径配置 ==========
-CUSTOM_PATH = "/Users/bennett/workspace/rime/py_wordscounter"  #字数统计数据的json文档存放的文件夹的路径。想要多设备同步数据的，把这个json文件放到同步网盘好一点
-CUSTOM_PATH2 = "/Users/bennett/workspace/rime/py_wordscounter"  #放置Python脚本和读取csv文档的路径，跟lua脚本里的路径要一致
+CUSTOM_PATH = "/Users/bennett/workspace/rime-hao/py_wordscounter"  #字数统计数据的json文档存放的文件夹的路径。想要多设备同步数据的，把这个json文件放到同步网盘好一点
+CUSTOM_PATH2 = "/Users/bennett/workspace/rime-hao/py_wordscounter"  #放置Python脚本和读取csv文档的路径，跟lua脚本里的路径要一致
 # 确保目录存在
 if not os.path.exists(CUSTOM_PATH):
     os.makedirs(CUSTOM_PATH)

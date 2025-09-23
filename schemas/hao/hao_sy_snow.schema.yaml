@@ -95,6 +95,7 @@ engine:
     - lua_translator@*snow.calculator
     - history_translator
     - lua_translator@*hao.hao_os*os_env_translator
+    - lua_translator@*speed
   filters:
     - simplifier@traditionalize
     - simplifier@simplify

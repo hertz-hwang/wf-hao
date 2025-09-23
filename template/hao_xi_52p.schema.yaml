@@ -46,6 +46,7 @@ engine:
     - table_translator@hao_stroke_lookup
     - script_translator
     - lua_translator@*hao.hao_os*os_env_translator
+    - lua_translator@*speed
   filters:
     - simplifier@traditionalize
     - simplifier@simplify
@@ -54,7 +55,7 @@ engine:
     - lua_filter@*hao.hao_postpone_fullcode
     - lua_filter@*hao.hao_os*lazy_clock_filter
     - lua_filter@*hao.hao_os*preedit_lazy_clock_filter
-    - lua_filter@*snow.fix
+    - lua_filter@*hao.hao_fix
     - lua_filter@*lutai.postpone
     - uniquifier
 

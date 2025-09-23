@@ -81,6 +81,7 @@ engine:
     - table_translator@hao_stroke_lookup
     - script_translator
     - lua_translator@*hao.hao_os*os_env_translator
+    - lua_translator@*speed
   filters:
     - simplifier@traditionalize
     - simplifier@simplify
